@@ -1,0 +1,40 @@
+1
+题目:        A team of researchers from Purdue University in the United States has found a way to use packing peanuts (包装充填颗粒) to make rechargeable batteries.         When Professor Vilas Pol and his research assistants were setting up their new laboratory, they found the boxes the equipment came in were filled with hundreds of little pieces known as packing peanuts.         Packing peanuts are a popular and effective way to protect all sorts of items that are easily broken or damaged — from TVs to dishes — when they’re being moved, stored or delivered. Unfortunately, most packing peanuts end up being buried under the earth where they can take decades to break down. When they do break down, they polluted the soil and water with chemicals.         Professor Pol, a chemical engineer, asked his team to help find a better way to deal with old packing peanuts. The scientists discovered that when they heated the peanuts — between 500 and 900 degrees Celsius — they turned into a carbon-based material that could be flattened into very thin sheets. These microsheets can be used to make anodes (正极), a key part of rechargeable lithium-ion batteries (锂离子电池).         Anodes are usually made from a kind of carbon. However, anodes made from recycled packing peanuts are cheaper to make, less harmful to the environment, and work better than traditional carbon anodes.         Lithium-ion batteries are used in many electronic devices, including smartphones, laptops, cameras and even electric cars. Anodes made from packing peanuts could be ready for commercial (商业的) use within two years. 
+答案:
+
+2
+题目:pollute
+答案:pollute
+
+3
+题目:加热      
+答案:B. heat
+
+4
+题目:考察句子中单词的意思。 
+
+Unfortunately, most packing peanuts end up being buried under the earth where they can take decades to break down.
+答案:B. 分解
+
+5
+题目:assist_
+答案:assist,ant
+
+6
+题目:在空白处填入括号内单词的正确形式。
+
+A team of researchers has found a way to use packing peanuts to make ### (recharge) batteries.  
+答案:rechargeable
+
+7
+题目:在空白处填入括号内单词的正确形式。
+
+They turned into a carbon-based material that could be ### (flatten) into very thin sheets.
+答案:flattened
+
+8
+题目:根据所给汉语，完成下列句子。
+
+Unfortunately, most packing peanuts ### (最终被埋在) under the earth.
+答案:end up being buried
+

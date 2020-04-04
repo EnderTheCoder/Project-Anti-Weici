@@ -1,0 +1,61 @@
+1
+题目:        Astronaut Scott Kelly has been living on the International Space Station (ISS) since March 28, 2015. And just like any other home, the ISS requires some housekeeping, in the form of regular work and repairs.        That is why Kelly and his partner Kjell Lindgren performed activities, outside the station on Wednesday. The operation began at 8:03 am and lasted for more than seven hours. It was the first spacewalk for both men.        The ISS has been in continual use for 15 years, and has hosted over 200 people, including astronauts and private tourists. During their activities, Kelly and Lindgren did basic electrical work, such as attaching new wires that will provide power to docking ports (接轨舱门) on the station. The ports will be used when other people arrive at the ISS. Also, the two astronauts fixed a thermal (防寒的) cover on a key scientific instrument on the station to protect it from the freezing temperatures of space.        As the more senior astronaut, Kelly led the spacewalk. However, Lindgren dealt with some of the more challenging parts of the job as he has longer arms than Kelly.        During a spacewalk, the simplest work becomes a difficult task. Kelly and Lindgren spent months training and practicing for the operation. The preparation began in NASA’s Neutral Buoyancy Lab (NBL). Here astronauts are made to work in an environment similar to the one outside the space station.        Even getting the space suits ready can take days. While each suit is built to fit the astronaut perfectly who will wear it, adjustments (调整) need to be made right up to the time when the spacewalk begins. The adjustments address any changes in the astronauts’ bodies that have occurred as a result of being in a gravity-free environment.
+答案:
+
+2
+题目:perform
+答案:perform
+
+3
+题目:固定
+答案:C. attach
+
+4
+题目:考察句子中单词的意思。
+
+The two astronauts fixed a thermal cover on a key scientific instrument on the station.
+      
+答案:B. 罩子
+
+5
+题目:考察句子中单词的意思。
+
+The adjustments address any changes in the astronauts’ bodies that have occurred as a result of being in a gravity-free environment.         
+答案:B. 处理
+
+6
+题目:选出能替换突显部分的单词或短语。
+
+Lindgren dealt with some of the more challenging parts of the job as he has longer arms than Kelly.  
+答案:B. difficult
+
+7
+题目:operat_
+答案:operat,ion
+
+8
+题目:adjust_
+答案:adjust,ment
+
+9
+题目:国际空间站已经连续使用了15年。
+答案:The ISS has been in continual use for 15 years.
+
+10
+题目:在空白处填入括号内单词的正确形式。
+
+Here astronauts are made ### (work) in an environment similar to the one outside the space station.
+答案:to work
+
+11
+题目:在空白处填入括号内单词的正确形式。
+
+Kelly and Lindgren spent months ### (train) for the operation. 
+答案:training
+
+12
+题目:根据所给汉语完成下列句子。
+
+The ISS requires some housekeeping, ### (以……形式) regular work and repairs.
+答案:in the form of
+

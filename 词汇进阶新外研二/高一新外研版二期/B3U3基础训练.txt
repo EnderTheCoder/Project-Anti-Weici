@@ -1,0 +1,252 @@
+1
+题目:根据汉语，写出单词的正确形式。
+
+The scientist ### (按) a button to start the machine.
+答案:pressed
+
+2
+题目:根据汉语，写出单词的正确形式。
+
+He ### (射出) the arrow (箭) from the bow(弓).
+答案:shot
+
+3
+题目:根据汉语，写出单词的正确形式。
+
+The Four Great Inventions of the Chinese people in ancient times are papermaking, printing, the ### (指南针) and ### (火药).
+答案:compass###gunpowder
+
+4
+题目:根据汉语，写出单词的正确形式。
+
+There’s some really impressive ### (东西) up there.
+答案:stuff
+
+5
+题目:根据汉语，写出单词的正确形式。
+
+The author chooses to use the ### (被动的) form instead of the active form in the reading passage.
+答案:passive
+
+6
+题目:根据汉语，写出单词的正确形式。
+
+As a child, Adeline couldn’t understand why the medal was so ### (重要的).
+答案:significant|important
+
+7
+题目:根据汉语，写出单词的正确形式。
+
+I was wearing a seatbelt. If I hadn’t been wearing one, I would have been ### (受伤).
+答案:injured
+
+8
+题目:根据汉语，写出单词的正确形式。
+
+Marie Curie was one of the most ### (杰出的) scientists in the world.
+答案:brilliant
+
+9
+题目:根据汉语，写出单词的正确形式。
+
+Scientists have many ### (理论) about how the universe came into being.
+答案:theories
+
+10
+题目:根据汉语，写出单词的正确形式。
+
+These ### (实验) showed that our body clocks are affected by light and temperature.
+答案:experiments
+
+11
+题目:选出英文句子中突显部分的汉语释义。
+
+Advances in virtual reality and wearable tech, as well as the flexible battery, mean we should soon be seeing further developments.
+答案:B. 虚拟现实；可穿戴技术；柔性电池
+
+12
+题目:选出英文句子中突显部分的汉语释义。
+
+The intelligent walking house uses GPS technology to travel to different places, with computing technology controlling its “legs”.
+答案:A. 计算
+
+13
+题目:选出英文句子中突显部分的汉语释义。
+
+Guo Shoujing was a famous Chinese astronomer of the Yuan Dynasty.
+答案:A. 天文学家
+
+14
+题目:选出英文句子中突显部分的汉语释义。
+
+He developed a calendar which is as accurate as the Gregorian calendar.
+答案:C. 公历
+
+15
+题目:选出英文句子中突显部分的汉语释义。
+
+Luckily it was only a minor problem.
+答案:B. 小的
+
+16
+题目:选出英文句子中突显部分的汉语释义。
+
+The stream was quite shallow so we were able to walk across it.
+答案:B. 小溪
+
+17
+题目:选出英文句子中突显部分的汉语释义。
+
+She was awarded the Nobel Prize in 1911 for the isolation of pure radium.
+答案:A. 镭
+
+18
+题目:选出英文句子中突显部分的汉语释义。
+
+Charles Darwin is best known for his work On the Origin of Species in which he explains changes in species due to natural selection.
+答案:C. 《物种起源》；自然选择
+
+19
+题目:选出英文句子中突显部分的汉语释义。
+
+Benjamin Franklin helped draft the Declaration of Independence.
+答案:C. 起草；宣言
+
+20
+题目:选出英文句子中突显部分的汉语释义。
+
+For years he managed to keep up the fiction that he was not married.
+答案:A. 虚构的事
+
+21
+题目:选出英文句子中突显部分的汉语释义。
+
+Metal, paper, and glass can be recycled.
+答案:A. 金属
+
+22
+题目:选出英文句子中突显部分的汉语释义。
+
+A flash of lightning hit the kite, and electricity was conducted through the string to the key.
+答案:B. 闪光；闪电；传导
+
+23
+题目:选出英文句子中突显部分的汉语释义。
+
+He did the experiment to test Newton’s law of gravity.
+答案:C. 引力
+
+24
+题目:选出英文句子中突显部分的汉语释义。
+
+The procedure works like this.
+答案:B. 步骤
+
+25
+题目:选出能替换突显部分的单词或短语。
+
+For instance, some restaurants in London have served 3D-printed hamburgers to customers.
+答案:A. For example
+
+26
+题目:选出能替换突显部分的单词或短语。
+
+As his best friend, I can make accurate guesses about what he will do or think.
+答案:A. exact
+
+27
+题目:选出能替换突显部分的单词或短语。
+
+As we all know, Picasso is an extraordinary artist.
+答案:B. a very unusual
+
+28
+题目:选出能替换突显部分的单词或短语。
+
+Towns only a few miles apart can have entirely different dialects（方言）.
+答案:A. completely
+
+29
+题目:在空白处填入括号内单词的正确形式。
+
+Marie Curie was regarded as a brilliant ### (chemistry).
+答案:chemist
+
+30
+题目:在空白处填入括号内单词的正确形式。
+
+A ### (biology) is someone who studies or works in biology（生物学）.
+答案:biologist
+
+31
+题目:在空白处填入括号内单词的正确形式。
+
+The belief that the world is flat is not ### (science).
+答案:scientific
+
+32
+题目:在空白处填入括号内单词的正确形式。
+
+There is no ### (prove) that he was on the crime spot（犯罪现场）.
+答案:proof
+
+33
+题目:根据所给汉语及提示，完成句子。  
+
+The company provides cheap Internet access（接入）. ###（除此之外）, it makes shareware（共享软件）freely available.
+答案:In addition
+
+34
+题目:根据所给汉语及提示，完成句子。  
+
+The program ###（能……）calculating（计算）our budget for the year.
+答案:is capable of
+
+35
+题目:根据所给汉语及提示，完成句子。  
+
+He spent $500 on a bicycle — it’s ###（无法相信）!
+答案:beyond belief
+
+36
+题目:根据所给汉语及提示，完成句子。  
+
+He did ###（实地调研）across China and studied more than a thousand rivers and streams.
+答案:field research
+
+37
+题目:根据所给汉语及提示，完成句子。  
+
+One day scientists will find ###（治疗……的方法）AIDS.
+答案:a cure for
+
+38
+题目:根据所给汉语及提示，完成句子。  
+
+It’s important to maintain good ###（心理健康）.
+答案:mental health
+
+39
+题目:根据所给汉语及提示，完成句子。  
+
+While this book tells the stories of famous people in history, it also ###（讲述）the lives of lesser-known individuals.（account n）
+答案:gives an account of
+
+40
+题目:她的勇气和对成功的强烈渴望激励着我。
+
+I am inspired by her courage and ###.
+答案:strong desire to succeed
+
+41
+题目:永不言败！
+
+###
+答案:Never say never!
+
+42
+题目:我在申请表上贴了一张照片。
+
+I ### my application form.
+答案:attached a photo to
+

@@ -1,0 +1,53 @@
+1
+题目:Along the Ring of Fire        Off the coast of Alaska, heated liquid rock rises through cracks (裂缝) in the  floor of the Pacific Ocean. This superheated material known as lava (熔岩) flows  like toothpaste. Stretching (延伸) and erupting, the earth slowly builds a new island.        Along the Pacific coast of South America, one part of the planet’s surface  gradually moves toward another. Although difficult to believe, the rocky outer  surface of Earth is not solid; rather, it is broken up into huge pieces called plates. Up to 250 miles thick, the plates, which float on top of a softer layer (层) of hot rock, move at a pace of  0.39 to 3.94 inches per year. As the plates slide past one another, the action can sometimes  result in volcanic activity.        These events take place thousands of miles apart, yet they are connected. Surrounding the  Pacific Ocean is a circle of volcanoes that includes more than half of the world’s active  volcanoes. This region is called the Ring of Fire.        The Ring of Fire stretches from the west coast of South America northward to Alaska. It  curves (成曲线形) left at the Aleutian Islands and crosses the Pacific Ocean. Then it heads down  the east coast of Asia toward New Zealand.        Major volcanic eruptions along the Ring of Fire make history. In 1883 Krakatoa erupted in  four explosions. The third explosion was so loud that it could be clearly heard 3,000 miles away.  Krakatoa threw a large dust cloud nearly 50 miles into the air. For a year, that cloud shrouded Earth and changed the weather worldwide.        Closer to home, Mount St. Helens, a volcano in the Cascade Range in Washington, erupted in  1980. No lava flew from Mount St. Helens. But the ash was thick enough to affect travel. The side  of the mountain fell away, causing a landslide.        In 1991 Mount Pinatubo in the Philippines erupted after 600 quiet years. During four days in  June, Pinatubo released more than 20 million tons of dust into the air, destroying many homes.        Some volcanoes erupt more quietly, with lava flowing through the cracks in Earth’s surface.  This type of volcano is found in Hawaii. Lava from a volcano, such as Kilauea, advances slowly  but still causes great damage. 
+答案:
+
+2
+题目:Pacific
+答案:Pacific
+
+3
+题目:（海洋等的）底
+答案:B. floor
+
+4
+题目:考查句子中单词的意思。  
+
+The rocky outer surface of Earth is not solid; rather, it is broken up into huge pieces called plates.
+答案:C. 板块
+
+5
+题目:考查句子中单词的意思。
+
+The Ring of Fire heads down the east coast of Asia toward New Zealand.
+答案:B.（朝……）行进
+
+6
+题目:选出能替换突显部分的单词或短语。
+
+As the plates slide past one another, the action can sometimes result in volcanic activity.
+答案:A. lead to
+
+7
+题目:第三次爆炸的声音太大了，在3 000英里以外都能清楚地听到。
+###
+答案:The third explosion was so loud that it could be clearly heard 3,000 miles away.
+
+8
+题目:在空白处填入括号内单词的正确形式。 
+
+Some volcanoes erupt more ### (quiet), with lava flowing through the cracks in Earth’s surface.
+答案:quietly
+
+9
+题目:根据所给汉语，完成下列句子。
+
+### (尽管难以相信), the rocky outer surface of Earth is not solid.
+答案:Although difficult to believe
+
+10
+题目:根据所给汉语，完成下列句子。
+
+Major volcanic eruptions along the Ring of Fire ### (创造历史).
+答案:make history
+

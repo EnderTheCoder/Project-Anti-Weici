@@ -1,0 +1,57 @@
+1
+题目:        After traveling ten years and hundreds of millions of kilometers, a small probe (探测器) has for the first time landed on the surface of a comet (彗星), a solar system object made of ice and rock.        The probe was sent from the European Space Agency’s main Rosetta spaceship early Wednesday, November 12, 2014. The spaceship is designed to carefully study the appearance and materials that make up Comet 67P.         The Philae research probe left its mother ship Rosetta and then began a trip toward the comet and landed on its surface hours later. The effort to land on the comet was considered dangerous not only because scientists were unsure of the surface, but because there were problems with thrusters (推进器) used to land the probe.         Scientists and many officials gathered at the European Space Agency’s Operations Center in Darmstadt, Germany. After the landing was announced, there was cheering.         Rosetta has been orbiting Comet 67P since August 2014. However, it was sent up into space in March of 2004. The spaceship circled the sun until it was in position to meet with the comet.         Comets are the most primitive (原始的) objects in the solar system. Scientists think that they have kept a record of the physical and chemical processes that occurred during the early period when planets were formed. By studying Comet 67P’s make-up and history, scientists wish to unlock the secret of the solar system and even the origin of human lives.         The Philae probe did a series of scientific experiments. Philae examined the materials that make up the comet looking for organic (有机的), or carbon-based materials, and inorganic materials. It lasted until March 2015, when the comet was too close to the sun and the surface temperature was too high for Philae to operate. 
+答案:
+
+2
+题目:surface
+答案:surface
+
+3
+题目:object
+答案:object
+
+4
+题目:process
+答案:process
+
+5
+题目:examine
+答案:examine
+
+6
+题目:聚集
+      
+答案:C. gather
+
+7
+题目:考察句子中单词的意思。
+
+After traveling ten years and hundreds of millions of kilometers, a small probe has for the first time landed on the surface of a comet.
+答案:A. 着陆
+
+8
+题目:appear_
+答案:appear,ance
+
+9
+题目:在彗星上着陆的努力被认为是危险的。
+答案:The effort to land on the comet was considered dangerous.
+
+10
+题目:在空白处填入括号内单词的正确形式。
+
+The spaceship is designed ### (study) the appearance and materials that make up Comet 67P.
+答案:to study
+
+11
+题目:根据所给汉语完成下列句子。
+
+Scientists think that they have kept a record of the physical and chemical processes that occurred during ### (行星形成之初).
+答案:the early period when planets were formed
+
+12
+题目:根据所给汉语完成下列句子。
+
+Scientists wish to ### (解开太阳系的秘密) and even the origin of human lives.
+答案:unlock the secret of the solar system
+

@@ -11,10 +11,7 @@ for ($i = 0; $i < count($data); $i++) {
 for ($x = 0; $x < count($list['data']['stage'][0]['days']); $x++) {
     $list_min = $list['data']['stage'][0]['days'][$x]['tasks'][0]['task_detail'];
     $title = $list['data']['stage'][0]['days'][$x]['title'];
-
-
     $answer = '';
-
     for ($i = 0; $i < count($list_min); $i++) {
         if ($bucket[$list_min[$i]['content_id']]) {
             $answer .= ($i + 1) . "\n";

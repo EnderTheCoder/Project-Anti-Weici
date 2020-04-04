@@ -1,0 +1,226 @@
+1
+题目:根据汉语，写出单词的正确形式。
+
+Please make sure you return the book before it’s ### （到期）.
+答案:due
+
+2
+题目:根据汉语，写出单词的正确形式。
+
+Once I meet my sales ### （目标）, I’ll feel great.
+答案:target
+
+3
+题目:根据汉语，写出单词的正确形式。
+
+I think I’d better ### （预订）a table for 3 at 6, and then we can stay for the show.
+答案:reserve|book
+
+4
+题目:根据汉语，写出单词的正确形式。
+
+By 1909, Picasso had ### （确立）himself as a painter of great talent in Paris. 
+答案:established
+
+5
+题目:根据汉语，写出单词的正确形式。
+
+Burning of fossil fuel（矿物燃料）results in the ### （排放）of carbon dioxide into the atmosphere. 
+答案:release
+
+6
+题目:根据汉语，写出单词的正确形式。
+
+She was deeply ### （打动）by the story of the hero.
+答案:affected
+
+7
+题目:根据汉语，写出单词的正确形式。
+
+The couple are unable to have children of their own, but hope to ### （领养）.
+答案:adopt
+
+8
+题目:选出英文句子中突显部分的汉语释义。
+
+We dived into a shop to avoid the rain.
+答案:B. 猛冲
+
+9
+题目:选出英文句子中突显部分的汉语释义。
+
+How was your job hunting going?                   
+答案:C. 找工作
+
+10
+题目:选出英文句子中突显部分的汉语释义。
+
+If you order after that, we reserve the right to either accept or reject（拒绝）order requests.
+答案:A. 保留权利
+
+11
+题目:选出英文句子中突显部分的汉语释义。
+
+Individual e-mail boxes are sometimes flooded with spam（垃圾）e-mails.
+答案:C.（大量）涌进
+
+12
+题目:选出英文句子中突显部分的汉语释义。
+
+I know I am smart enough to dive into an area that is totally unknown.
+答案:A. 全身心投入
+
+13
+题目:选出英文句子中突显部分的汉语释义。
+
+Her job is something concerned with computers.
+答案:B. 与……有关
+
+14
+题目:选出英文句子中突显部分的汉语释义。
+
+Police have released no further details about the accident.
+答案:C. 发布
+
+15
+题目:选出英文句子中突显部分的汉语释义。
+
+I know I should stop drinking — don’t give me a lecture about it.
+答案:A. 教训
+
+16
+题目:选出英文句子中突显部分的汉语释义。
+
+News of the pay cuts had somehow leaked out.
+答案:C. 泄露
+
+17
+题目:选出英文句子中突显部分的汉语释义。
+
+I urged the elephant deeper into the forest.
+答案:B. 驱赶
+
+18
+题目:在空白处填入括号内单词的正确形式。
+
+When the boy saw the blood and medical equipment, he was too scared ### (go) up to the doctor.
+答案:to go
+
+19
+题目:在空白处填入括号内单词的正确形式。
+
+### (fortunate), after a brief stay in hospital, Ben was well enough to be allowed to leave. 
+答案:Fortunately
+
+20
+题目:在空白处填入括号内单词的正确形式。
+
+Whatever the ### (present), public speaking is very hard, so get help.
+答案:presentation
+
+21
+题目:在空白处填入括号内单词的正确形式。
+
+On ### (fog) days, you can’t see anything in London.
+答案:foggy
+
+22
+题目:在空白处填入括号内单词的正确形式。
+
+Outdoor lighting ### (severe) affects migrating（迁徙的）birds.
+答案:severely
+
+23
+题目:在空白处填入一个适当的单词。
+
+I saw a man sliding ### a banana skin.
+答案:on
+
+24
+题目:在空白处填入括号内单词的正确形式。
+
+One-third of the country is covered with trees and the majority of the citizens ### (be) black people.
+答案:are
+
+25
+题目:在空白处填入括号内单词的正确形式。
+
+Small amounts of land ### (be) used for keeping animals.
+答案:are|were
+
+26
+题目:在空白处填入括号内单词的正确形式。
+
+Individuals can reduce their ### (contribute) by creating less waste at the start.
+答案:contribution
+
+27
+题目:根据所给汉语及提示，完成句子。
+
+The gun shots had ### （吓跑那只狗）.
+答案:scared the dog off
+
+28
+题目:根据所给汉语及提示，完成句子。
+
+The problem is clear: man ### （已严重破坏）his home over the years. (damage n)
+答案:has done great damage to|has caused great damage to
+
+29
+题目:根据所给汉语及提示，完成句子。
+
+He entered the room ### （未经许可）.
+答案:without permission
+
+30
+题目:根据所给汉语及提示，完成句子。
+
+At the start of this year, foreigners living in Italy ### （达到） 4. 56 million. 
+答案:amounted to
+
+31
+题目:根据所给汉语及提示，完成句子。
+
+Ministers（部长们） ### （对…… 深感担忧）the financial pressures（经济压力）on young people.
+答案:are deeply concerned about
+
+32
+题目:根据所给汉语及提示，完成句子。
+
+Jiangsu will ### a（给……做更多贡献）the Belt and Road（一带一路） construction.
+答案:contribute more to
+
+33
+题目:根据所给汉语及提示，完成句子。
+
+Every man, woman, and child over ten years of age has ### （平均）over four cups of tea a day.
+答案:on average|an average of
+
+34
+题目:根据所给汉语及提示，完成句子。
+
+Bad news came that her husband’s pay was going to ### （被减少了）30 percent.
+答案:be reduced by
+
+35
+题目:态度决定一切。
+###
+答案:Everything depends on people’s attitude.
+
+36
+题目:如果你有一份工作，务必全身心地投入。 
+###
+答案:If you have a job, do devote yourself to it.
+
+37
+题目:媒体每天给我们提供很多信息。
+答案:The media supplies lots of information to us every day.
+
+38
+题目:女孩帮妈妈把肩上的包拿下来。
+答案:The girl helps to remove the bag from her mother’s shoulder.
+
+39
+题目:就我个人而言，骑自行车是一个解决空气污染的好办法。
+答案:As far as I’m concerned, riding bicycles is a good solution to air pollution.
+
