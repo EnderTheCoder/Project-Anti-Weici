@@ -1,0 +1,76 @@
+1
+题目:        A debate is currently going on in our town. Should we allow the Odeon Triplex Cinema to be constructed at the Havenswood Shopping Center? There is just one large lot left to build on, and the theater would use up all of that space. Some people are excited at the idea of finally having our own movie theater. Others would rather travel ten miles north to the nearest theater in Gadway in order to keep our quiet town the way it is. They say it is enough to have Marvin’s Movie Video Rentals in the shopping center, with lots of recent videos available.        There are certainly benefits of renting videos. For one thing, you can view movies when it is convenient for you. Besides, it is a less expensive way to view a movie compared to going to a theater.        On the other hand, seeing a movie in a theater is a different experience. For one thing, you can see the movie on a wide screen as the filmmaker planned. To be viewed on a television screen, a film must be changed in some way to make it smaller. One way is the “pan-and-scan” method, which involves removing some of the details in the picture. This results in an image that is not complete. The other way, “letterboxing”, keeps the image the way it is on the big screen, with one annoying exception: because the big-screen version is wide, the same picture on a television screen must be long and narrow, with black strips above and below it.        Another problem is sound. The sound from a television, even when it’s connected to a home stereo (立体声的) system, cannot compare with the sound system in a movie theater. Your experience of a movie improves when you can clearly hear all of the sounds. Furthermore, at home, viewing companions often talk during a movie, which makes you miss out on what’s happening in the film.        Besides, having a movie theater will not mean that you can’t go to Marvin’s and rent a movie! You will just have a choice that you didn’t have before. Isn’t it time for people in Havenswood to enjoy a little progress?
+答案:
+
+2
+题目:currently
+答案:currently
+
+3
+题目:benefit
+答案:benefit
+
+4
+题目:考查句子中单词的意思。
+
+There is just one large lot left to build on.
+答案:B. 一块地
+
+5
+题目:考查句子中单词的意思。
+
+One way is the “pan-and-scan” method, which involves removing some of the details in the picture.
+答案:C. 需要
+
+6
+题目:考查句子中单词的意思。
+
+Your experience of a movie improves when you can clearly hear all of the sounds.
+答案:B. 体验
+
+7
+题目:考查句子中单词的意思。
+
+Furthermore, at home, viewing companions often talk during a movie, which makes you miss out on what’s happening in the film.
+答案:A. 错过
+
+8
+题目:选出能替换突显部分的单词或短语。
+
+Furthermore, at home, viewing companions often talk during a movie, which makes you miss out on what’s happening in the film.
+答案:B. Moreover
+
+9
+题目:选出能替换突显部分的单词或短语。
+
+This results in an image that is not complete.
+答案:A. causes
+
+10
+题目:一方面，你可以在你方便的时候看电影。
+答案:For one thing, you can view movies when it is convenient for you.
+
+11
+题目:在空白处填入括号内单词的正确形式。
+
+Besides, it is a less expensive way to view a movie ### (compare) to going to a theater.
+答案:compared
+
+12
+题目:根据所给汉语，完成下列句子。
+
+Others would rather travel ten miles north to the nearest theater in Gadway in order to ### （让我们宁静的小镇保持原样）.
+答案:keep our quiet town the way it is
+
+13
+题目:根据所给汉语，完成下列句子。
+
+They say it is enough to have Marvin’s Movie Video Rentals in the shopping center, ### (有很多最新的录像带可供出租).
+答案:with lots of recent videos available
+
+14
+题目:根据所给汉语，完成下列句子。
+
+###（另一方面）, seeing a movie in a theater is a different experience.
+答案:On the other hand
+

@@ -1,0 +1,300 @@
+1
+题目:come to sb’s rescue
+答案:A. 营救某人
+
+2
+题目:result in
+答案:B. 造成；导致
+
+3
+题目:give rise to
+答案:A. 引起；导致
+
+4
+题目:in search of
+答案:B. 寻找；寻求
+
+5
+题目:in a sense
+答案:C. 从某种意义上说
+
+6
+题目:serve as
+答案:B. 充当；担当
+
+7
+题目:set about
+答案:C. 开始；着手
+
+8
+题目:set aside
+答案:A. 留出
+
+9
+题目:set off
+答案:A. 出发；动身
+
+10
+题目:set out on a journey
+答案:C. 出发旅行
+
+11
+题目:settle into
+答案:B. 适应；习惯
+
+12
+题目:in sb’s shoes
+答案:C. 处于某人的境地
+
+13
+题目:at the sight of
+答案:A. 一看见
+
+14
+题目:sign up (for)
+答案:C. 报名（参加）
+
+15
+题目:and so forth
+答案:B. 等等
+
+16
+题目:take an examination
+答案:A. 参加考试
+
+17
+题目:except for
+答案:C. 除了……外；除去；只是
+
+18
+题目:without exception
+答案:A. 毫无例外
+
+19
+题目:have one’s eye on
+答案:B. 密切注视；监视
+
+20
+题目:keep an eye on
+答案:A. 照看；照料
+
+21
+题目:shut / close one’s eyes to
+答案:B. 对……视而不见；对……置若罔闻
+
+22
+题目:by far
+答案:B. ……得多；最
+
+23
+题目:far from
+答案:A. 远非；完全不
+
+24
+题目:find fault
+答案:B. 找碴儿；抱怨；挑剔
+
+25
+题目:have a good command of
+答案:C. 掌握得好
+
+26
+题目:根据所给汉语写出词块。
+
+因……而闻名
+
+###
+答案:be famous for|be known for
+
+27
+题目:根据所给汉语写出词块。
+
+赞同；支持
+
+###
+答案:in favour of
+
+28
+题目:根据所给汉语写出词块。
+
+集中于；聚焦于
+
+###
+答案:focus on|focus upon
+
+29
+题目:根据所给汉语写出词块。
+
+前者……后者
+
+###
+答案:the former ... the latter
+
+30
+题目:根据所给汉语写出词块。
+
+发财；发迹
+
+###
+答案:make a fortune
+
+31
+题目:根据所给汉语写出词块。
+
+取笑；拿……开玩笑
+
+###
+答案:make fun of
+
+32
+题目:根据所给汉语写出词块。
+
+在不久的将来
+
+###
+答案:in the near future
+
+33
+题目:根据所给汉语写出词块。
+
+一般地；大体上；总的说来；从总体上看
+
+###
+答案:in general
+
+34
+题目:根据所给汉语写出词块。
+
+相处融洽；进展
+
+###
+答案:get along|get on|get along with|get on with
+
+35
+题目:根据所给汉语写出词块。
+
+快点；（使）赶快
+
+###
+答案:hurry up
+
+36
+题目:根据所给汉语写出词块。
+
+屏息；憋住气
+
+###
+答案:hold one's breath
+
+37
+题目:根据所给汉语写出词块。
+
+上气不接下气
+
+###
+答案:out of breath
+
+38
+题目:根据所给汉语写出词块。
+
+养育一个孩子
+
+### a child
+答案:bring up
+
+39
+题目:根据所给汉语写出词块。
+
+增强我的自信
+
+### my confidence
+答案:build up
+
+40
+题目:根据所给汉语写出词块。
+
+烧毁房子
+
+### the house
+答案:burn down
+
+41
+题目:根据所给汉语写出词块。
+
+以某事为例 
+
+###
+答案:take sth for example
+
+42
+题目:根据所给汉语写出词块。
+
+交换生
+
+###
+答案:an exchange student|exchange students
+
+43
+题目:根据所给汉语写出词块。
+
+交换
+
+###
+答案:in exchange for
+
+44
+题目:根据所给汉语写出词块。
+
+出乎我的意料
+
+###
+答案:beyond my expectations
+
+45
+题目:根据所给汉语写出词块。
+
+事实上
+
+###
+答案:as a matter of fact|in fact
+
+46
+题目:根据所给汉语写出词块。
+
+落在 (……) 后面；跟不上
+
+###
+答案:fall behind
+
+47
+题目:根据所给汉语写出词块。
+
+与……坠入爱河；爱上
+
+###
+答案:fall in love with
+
+48
+题目:根据所给汉语写出词块。
+
+某人熟悉
+
+###
+答案:be familiar to sb
+
+49
+题目:根据所给汉语写出词块。
+
+熟悉某人 / 某事物
+
+###
+答案:be familiar with sb/sth
+
+50
+题目:根据所给汉语写出词块。
+
+作为……而闻名
+
+###
+答案:be famous as|be known as
+

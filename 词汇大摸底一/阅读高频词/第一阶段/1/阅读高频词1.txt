@@ -1,0 +1,200 @@
+1
+题目:abandon
+答案:C. 放弃；遗弃
+
+2
+题目:absorb
+答案:C. 吸收；理解
+
+3
+题目:academic
+答案:C. 学校的；学术的
+
+4
+题目:academy
+答案:A. 研究院；学会
+
+5
+题目:acceptable
+答案:B. 可接受的；令人满意的
+
+6
+题目:access
+答案:B. 通道；入口
+
+7
+题目:accidentally
+答案:A. 意外地；偶然地
+
+8
+题目:accommodation
+答案:C. 住处；住宿
+
+9
+题目:accompany
+答案:A. 陪伴；伴随
+
+10
+题目:account
+答案:A. 数量、比例上占
+
+11
+题目:accurate
+答案:C. 准确的；精确的
+
+12
+题目:achieve
+答案:A. 凭借努力达到；完成
+
+13
+题目:acquire
+答案:B. 获得；学到
+
+14
+题目:adapt
+答案:B. （使）适应；改编
+
+15
+题目:addiction
+答案:B. 上瘾；热衷
+
+16
+题目:addition
+答案:C. 加法；增加
+
+17
+题目:address
+答案:B. 地址；通讯处
+
+18
+题目:adjust
+答案:A. 调整；调节；（使）适应
+
+19
+题目:admission
+答案:C. 接纳；进入权
+
+20
+题目:adventure
+答案:C. 冒险；奇遇
+
+21
+题目:affair
+答案:B. 事务；事件
+
+22
+题目:aggressive
+答案:B. 好斗的；有进取心的
+
+23
+题目:alternative
+答案:A. 选择；供选择的东西
+
+24
+题目:analyze
+答案:A. 分析
+
+25
+题目:apparently
+答案:B. 看来（好像）；显然
+
+26
+题目:appeal
+答案:B. 呼吁；恳请；吸引力
+
+27
+题目:application
+答案:C. 申请；申请书
+
+28
+题目:approve
+答案:C. 批准；认可；赞成
+
+29
+题目:architect
+答案:B. 建筑师；设计师；缔造者
+
+30
+题目:ashamed
+答案:A. 羞耻的；惭愧的
+
+31
+题目:aspect
+答案:B. 方面；外观
+
+32
+题目:assess
+答案:C. 评价；估算
+
+33
+题目:assume
+答案:C. 担任；承担；假定
+
+34
+题目:astonished
+答案:A. 感到大为惊讶的
+
+35
+题目:attach
+答案:C. 系；贴；连接
+
+36
+题目:authority
+答案:A. 权威；权力
+
+37
+题目:background
+答案:B. 出身；个人背景
+
+38
+题目:balance
+答案:A. 平衡；均衡
+
+39
+题目:ban
+答案:B. 禁止；禁令
+
+40
+题目:barrier
+答案:C. 屏障；障碍（物）；关卡
+
+41
+题目:battery
+答案:C. 电池
+
+42
+题目:behave
+答案:C. 表现；举止规矩
+
+43
+题目:blame
+答案:A. 责备；把……归咎于
+
+44
+题目:border
+答案:A. 国界；边界
+
+45
+题目:branch
+答案:C. 树枝；枝条 分支
+
+46
+题目:brand
+答案:B. 品牌；牌子
+
+47
+题目:brief
+答案:C. 短暂的；简短的
+
+48
+题目:budget
+答案:C. 预算（案）
+
+49
+题目:campaign
+答案:B. 运动；（宣传）活动；战役
+
+50
+题目:capital
+答案:B. 大写的；资金的
+

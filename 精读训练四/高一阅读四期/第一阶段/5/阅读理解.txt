@@ -1,0 +1,40 @@
+1
+题目:        Eating nuts and peanuts reduces the risk of suffering a heart attack or stroke, a new study says. Researchers found they were linked with (有联系) a reduced risk of death from heart disease among people on low incomes. And they believe their findings suggest peanuts may be a cost-effective measure to improve cardiovascular (心血管) health because they are so cheap.        However, experts cautioned today that salt-covered nuts would not have the same health benefits. Nuts are rich innutrients (营养) and peanuts, although classified as one bean, have nutrients similar to tree nuts.        The new study, led by Dr Xiao-Ou Shu, of the Vanderbilt University School of Medicine, Tennessee, analysed various groups of people. One involved 72,000 low-income black and white men and women living in the US, the other 134,000 men and women living in Shanghai, China. In both groups, men ate more peanuts than women. In the US group, about half of the nuts consumed (吃) were peanuts, and in the Chinese group only peanut consumption was considered.        The researchers found that overall, eating nuts reduced the risk of death from heart disease. In the US, the highest consumption resulted in a risk reduction of 21 per cent. In the Chinese group, it was 17 per cent.        Dr Shu said: “We observed no clear connections between nut or peanut consumption and risk of death due to cancer and diabetes.” She added the findings highlight (强调) the large public health influence of nut or peanut consumption in lowering deaths from heart disease — especially for their affordability.        The research was published in JAMA Internal Medicine.        Dr Mitchell Katz, deputy editor of the journal, added: “Of course, peanuts are not really nuts. But who cares if they help us to live longer at an affordable price?”
+答案:
+
+2
+题目:reduce
+答案:reduce
+
+3
+题目:方法
+答案:B. measure
+
+4
+题目:考察句子中单词的意思。
+
+However, experts cautioned today that salt-covered nuts would not have the same health benefits.
+答案:B. 警告
+
+5
+题目:选出能替换突显部分的单词或短语。
+
+We observed no clear connections between nut or peanut consumption and risk of death due to cancer and diabetes.
+答案:B. because of
+
+6
+题目:connect_
+答案:connect,ion
+
+7
+题目:在空白处填入括号内单词的正确形式。
+
+Who cares if they help us to live longer at an ### (afford) price?
+答案:affordable
+
+8
+题目:根据所给汉语，完成下列句子。
+
+Nuts ### (含有丰富的) nutrients. (rich)
+答案:are rich in
+

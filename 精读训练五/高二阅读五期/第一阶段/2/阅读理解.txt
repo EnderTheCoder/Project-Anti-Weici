@@ -1,0 +1,58 @@
+1
+题目:        Aya Karpinska had a story to tell. She could hear the words and foresee how the tale would unfold. All she needed, she says, was the right iPhone app.        So Karpinska employed a programmer, paying him $500 to deliver in five days an application that would spread her piece, called Shadows Never Sleep, through an iPhone application. The application allows Karpinska to tell a visual story, with white text on a black background that makes the actual appearance of the words as you zoom in (拉近) on it to follow the story through. The author calls it a “zoom narrative”.        Karpinska is not alone in her attempt to adapt literature to today’s technology. Writers and publishers of all kinds are turning to technology to bring literature to the masses.        Much of the work to date has focused on transferring (转存) existing printed books to an online format. Project Gutenberg is one of the most outstanding examples of that. Founded in 1971 by Michael Hart, it has turned tens of thousands of printed books into e-books, making it the first and largest single collection of free electronic books. Similarly, e-book readers such as Amazon.com Inc.’s highly publicized Kindle are designed to copy the traditional experience of reading a book, using technology to bring convenience to readers.        But the work on this front involves more than just converting (转换) traditional printed texts into electronic versions. Writers and publishers are also using technology to deliver literature in new ways using, for example, RSS feeds and text messaging. And they’re employing programming and mobile devices to develop new literary art forms, too, forcing us to reconsider how we define (定义) the term “literature”.      “I think we’re going to have to change our definition of what writing is, because electronic media is expanding the definition of what reading and writing can be,” Karpinska says. “It opened the door for different kinds of writing.”
+答案:
+
+2
+题目:appearance
+答案:appearance
+
+3
+题目:similarly
+答案:similarly
+
+4
+题目:考查句子中单词的意思。
+
+So Karpinska employed a programmer, paying him $500 to deliver in five days an application that would spread her piece, called Shadows Never Sleep, through an iPhone application.
+答案:C. 按承诺提供
+
+5
+题目:考查句子中单词的意思。
+
+So Karpinska employed a programmer, paying him $500 to deliver in five days an application that would spread her piece, called Shadows Never Sleep, through an iPhone application.
+答案:A. 作品
+
+6
+题目:考查句子中单词的意思。
+
+But the work on this front involves more than just converting traditional printed texts into electronic versions.
+答案:B. 这方面的
+
+7
+题目:Karpinska并不是唯一一个试图使文学适应当今技术的人。
+答案:Karpinska is not alone in her attempt to adapt literature to today’s technology.
+
+8
+题目:在空白处填入括号内单词的正确形式。
+
+E-book readers such as Amazon.com Inc.’s highly publicized Kindle are designed to copy the traditional experience of reading a book, using technology to bring ### （convenient）to readers.
+答案:convenience
+
+9
+题目:根据所给汉语，完成下列句子。
+
+Writers and publishers of all kinds are ### (依靠技术) to bring literature to the masses.
+答案:turning to technology
+
+10
+题目:根据所给汉语，完成下列句子。
+
+Much of the work ###（迄今为止）has focused on transferring existing printed books to an online format.
+答案:to date
+
+11
+题目:根据所给汉语，完成下列句子。
+
+It ###（创造机会）for different kinds of writing.
+答案:opened the door
+

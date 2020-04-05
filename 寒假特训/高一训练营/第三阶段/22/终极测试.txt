@@ -1,0 +1,183 @@
+1
+题目:support
+答案:support
+
+2
+题目:deserve
+答案:deserve
+
+3
+题目:survive
+答案:survive
+
+4
+题目:transport
+答案:transport
+
+5
+题目:anxious
+答案:anxious
+
+6
+题目:请根据词族图片提示选择对应答案
+1.### 2.### 3.###
+答案:B. act###A. react###C. active
+
+7
+题目:请选出电影台词出处
+You got a dream, you gotta protect it.  
+答案:taici4B.png
+
+8
+题目:选择精准的英语译文
+我身体强壮。
+答案:A. I have a strong body.
+
+9
+题目:猜句子中突显词的释义（释义源自于西方神话）
+Lack of self-confidence is his Achilles'heel.
+答案:A. 致命弱点
+
+10
+题目:请根据词族图片提示填写答题线上对应的单词
+1.###
+答案:repeat
+
+11
+题目:
+答案:B. affect
+
+12
+题目:选择句子中突显词的词源义
+He called up the museum.
+答案:museum1A.png
+
+13
+题目:I'm writing to ### (求职) in your company.(apply)
+答案:apply for a job
+
+14
+题目:名人名言
+As soon as you trust yourself, you will know how to live.——歌德
+答案:A. 当你相信你自己的时候,你就会知道怎么生活了。
+
+15
+题目:选择句子中突显词的熟词生义
+He was aching for home. 
+答案:B. 渴望
+
+16
+题目:When I'm reading a book, ______ can get my attention.
+答案:C. absolutely nothing
+
+17
+题目:Our college is to make ______ for the meeting.
+答案:B. arrangements
+
+18
+题目:I made a mistake and I will assume responsibility ________ it.
+答案:C. for
+
+19
+题目:AIDS control and prevention is a ________ to China as well as the whole world.
+答案:B. challenge
+
+20
+题目:Does he suffer ________ any kind of mental disability?
+答案:A. from
+
+21
+题目:The accident caused some ________ to my car, but it's nothing serious.
+答案:A. damage
+
+22
+题目:Drink like a fish.
+答案:B. 牛饮。
+
+23
+题目:If she doesn't want to go, nothing you can say will ______ her.
+答案:A. persuade
+
+24
+题目:A soldier should obey commands.
+答案:B. 命令
+
+25
+题目:I spend a(n) ______ of about $200 a year on books.
+答案:A. average
+
+26
+题目:I don't really like the author, although I have to ____ his books are very exciting.
+答案:C. admit
+
+27
+题目:Life is tough in the city. In order to lose their ________, some people drink alcohol.
+答案:A. pressures
+
+28
+题目:The students were there ______ the teacher's request.
+答案:C. at
+
+29
+题目:In the good care of the nurses, the boy is ______ recovering from his heart operation.
+答案:C. gradually
+
+30
+题目:I'd prefer to ______ my judgement until I find all the evidence.
+答案:A. reserve
+
+31
+题目:I'm trying to ______ this problem, but I can't find the right solution.
+答案:B. solve
+
+32
+题目:Friendship is built upon ______ for each other.
+答案:B. respect
+
+33
+题目:He was anxious ______ you.
+答案:A. to meet
+
+34
+题目:contribute money ________ the Red Cross
+答案:A. to
+
+35
+题目:I really appreciate ________ with someone who does such a good job.
+答案:C. working
+
+36
+题目:The old lady is offering a(n) ______ $50 to anyone who finds her cat for her!
+答案:B. reward of
+
+37
+题目:I sent them flowers as a(n) ______ of thanks.
+答案:C. expression
+
+38
+题目:    When I was twelve years old back in the 1950s my parents allowed me to apply for an afternoon newspaper route. I had a friend who was a little older than me. He had a morning route and he was ### what I considered big money. I had helped him ### his newspapers a few times and I thought I could ### it. In those days most towns had both a morning newspaper and an afternoon newspaper. My parents did not want me to have to ### before dawn but they said yes to an afternoon route.
+    I was ### about being able to make my own money. ### , I needed a bike to be able to handle the large bag ### for carrying the newspapers. I was not a large boy and the only bike we had in our family was too ### for me to handle with a load of newspapers. I needed a ### one. My father suggested we go shopping for a ### bicycle with the understanding that I would pay for it out of my ### .
+    In the 1950s the Western Auto Company had a line of bicycles. My father arranged for me to ### a bicycle that was just the right ### for me. But for the next several months I ### rode my bike to the Western Auto Store to make my $5.00 monthly bike ### .
+    It was a great ### for a twelve-year-old boy to learn. I learned how to make money and pay my   ### . I did not know it at the time but that bicycle influenced hugely on my life. It gave me my first taste of ### . But most of all it led me to my wife because her parents were among my ### on the newspaper route. Get on your bike and ride and you ### know where it will take you.
+答案:
+
+39
+题目:【西方文化拓展】
+视频出自哪部芭蕾舞剧？
+答案:B. The Nutcracker (《胡桃夹子》)
+
+40
+题目:根据视频，选出句中突显部分的精准汉语释义
+What would prove, anyway? It wouldn't change anything.
+答案:C. 证明
+
+41
+题目:【习语】
+Seeing is believing.
+答案:B. 眼见为实。
+
+42
+题目:【地理】
+The picture is about how __________ is formed.
+答案:B. tornado
+

@@ -1,0 +1,300 @@
+1
+题目:pass away
+答案:A. 去世
+
+2
+题目:pass down
+答案:B. 把……传下去
+
+3
+题目:pass on
+答案:C. 传递
+
+4
+题目:pick sb’s pocket
+答案:B. 偷某人的钱包
+
+5
+题目:pick up
+答案:A.（车辆等）搭人
+
+6
+题目:a piece of cake
+答案:A. 小菜一碟
+
+7
+题目:in place of
+答案:B. 代替；取代
+
+8
+题目:take the place of
+答案:C. 代替
+
+9
+题目:point of view
+答案:A. 观点
+
+10
+题目:in possession of
+答案:B. 占有；拥有
+
+11
+题目:by no means
+答案:C. 决不
+
+12
+题目:in the meanwhile
+答案:A. 在此期间
+
+13
+题目:no more than
+答案:C. 仅仅
+
+14
+题目:make the most of
+答案:B. 充分利用
+
+15
+题目:a narrow victory
+答案:A. 险胜
+
+16
+题目:a social network
+答案:B. 社交网
+
+17
+题目:nothing but
+答案:A. 只有
+
+18
+题目:(every) now and then
+答案:C. 时而
+
+19
+题目:nowhere near
+答案:A. 离……差得远
+
+20
+题目:on occasion(s)
+答案:B. 偶尔
+
+21
+题目:all at once
+答案:C. 突然
+
+22
+题目:if only
+答案:A. 如果……就好了
+
+23
+题目:every other day
+答案:C. 每隔一天
+
+24
+题目:over and over again
+答案:B. 反复；再三
+
+25
+题目:owing to
+答案:C. 因为
+
+26
+题目:根据所给汉语写出词块。
+
+继续存在；以……为主食
+
+###
+答案:live on
+
+27
+题目:根据所给汉语写出词块。
+
+不辜负父母的期望
+
+###
+答案:live up to parents' expectations
+
+28
+题目:根据所给汉语写出词块。
+
+不再
+
+###
+答案:no longer|not ... any longer
+
+29
+题目:根据所给汉语写出词块。
+
+轻视
+
+###
+答案:look down on|look down upon
+
+30
+题目:根据所给汉语写出词块。
+
+期待；盼望
+
+###
+答案:look forward to
+
+31
+题目:根据所给汉语写出词块。
+
+查字典
+
+###
+答案:look up a dictionary|consult a dictionary
+
+32
+题目:根据所给汉语写出词块。
+
+由……组成
+
+###
+答案:be made up of|be consist of|be comprised of
+
+33
+题目:根据所给汉语写出词块。
+
+用友好的的方式
+
+###
+答案:in a friendly manner
+
+34
+题目:根据所给汉语写出词块。
+
+采取措施
+
+###
+答案:take measures|take steps
+
+35
+题目:根据所给汉语写出词块。
+
+纪念某人
+
+###
+答案:in memory of sb|in honour of sb|in honor of sb
+
+36
+题目:根据所给汉语写出词块。
+
+将某事记在心中
+
+###
+答案:bear sth in mind|keep sth in mind
+
+37
+题目:根据所给汉语写出词块。
+
+改变我的主意
+
+###
+答案:change my mind
+
+38
+题目:根据所给汉语写出词块。
+
+下定决心
+
+###
+答案:make up one's mind
+
+39
+题目:根据所给汉语写出词块。
+
+从那以后
+
+###
+答案:from then on|from that moment on
+
+40
+题目:根据所给汉语写出词块。
+
+心情好
+
+###
+答案:in a good mood
+
+41
+题目:根据所给汉语写出词块。
+
+缩小代沟
+
+###
+答案:narrow the generation gap
+
+42
+题目:根据所给汉语写出词块。
+
+在困难中
+
+###
+答案:in need
+
+43
+题目:根据所给汉语写出词块。
+
+恢复正常
+
+###
+答案:go back to normal|return to normal
+
+44
+题目:根据所给汉语写出词块。
+
+记笔记
+
+###
+答案:make notes|take notes
+
+45
+题目:根据所给汉语写出词块。
+
+休假一天
+
+###
+答案:take a day off
+
+46
+题目:根据所给汉语写出词块。
+
+开账户
+
+###
+答案:open an account|set up an account
+
+47
+题目:根据所给汉语写出词块。
+
+在我看来
+
+###
+答案:from my point of view|in my view|in my opinion|in my mind
+
+48
+题目:根据所给汉语写出词块。
+
+抓住机会
+
+###
+答案:grasp an opportunity|seize an opportunity
+
+49
+题目:根据所给汉语写出词块。
+
+把……打包
+
+###
+答案:pack up
+
+50
+题目:根据所给汉语写出词块。
+
+失去耐心
+
+###
+答案:lose patience|run out of patience
+

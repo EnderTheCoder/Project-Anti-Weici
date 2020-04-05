@@ -1,0 +1,200 @@
+1
+题目:celebrity
+答案:A. 名人；名流
+
+2
+题目:ceremony
+答案:B. 仪式；典礼
+
+3
+题目:certificate
+答案:B. 证明；证书
+
+4
+题目:chain
+答案:C. 链子；链条
+
+5
+题目:challenging
+答案:C. 有挑战性的
+
+6
+题目:character
+答案:C. 性格；特色
+
+7
+题目:charity
+答案:B. 慈善
+
+8
+题目:chase
+答案:B. 追逐；追赶
+
+9
+题目:chemical
+答案:A. 化学的
+
+10
+题目:civilization
+答案:A. 文明
+
+11
+题目:claim
+答案:C. 声称；宣称
+
+12
+题目:classic
+答案:A. 经典的；典型的
+
+13
+题目:clue
+答案:A. 线索；提示
+
+14
+题目:combine
+答案:C. （使）结合；（使）组合
+
+15
+题目:command
+答案:B. 命令；指挥；控制
+
+16
+题目:comment
+答案:C. 评论
+
+17
+题目:commercial
+答案:A. 商业的；营利性的
+
+18
+题目:community
+答案:B. 社区；群体
+
+19
+题目:companion
+答案:C. 同伴；伴侣；旅伴
+
+20
+题目:compete
+答案:B. 竞争；对抗
+
+21
+题目:competitive
+答案:A. 有竞争力的；好强的
+
+22
+题目:competitor
+答案:C. 比赛者；竞争者
+
+23
+题目:complex
+答案:B. 复杂的；复合的
+
+24
+题目:complicated
+答案:B. 复杂的；难懂的
+
+25
+题目:composition
+答案:A. 组成；创作；作品
+
+26
+题目:concentrate
+答案:A. 专心；集中
+
+27
+题目:concept
+答案:A. 概念；观念
+
+28
+题目:conclude
+答案:C. 推断出；断定
+
+29
+题目:conclusion
+答案:C. 结论；推论
+
+30
+题目:conduct
+答案:A. 行为；举止
+
+31
+题目:confidence
+答案:C. 信赖；信任
+
+32
+题目:confident
+答案:C. 有信心的；自信的
+
+33
+题目:conflict
+答案:A. 战斗；武装冲突
+
+34
+题目:consideration
+答案:A. 考虑；深思
+
+35
+题目:constant
+答案:C. 固定的；连续不断的
+
+36
+题目:construct
+答案:C. 建筑；构筑
+
+37
+题目:construction
+答案:A. 建造；建筑
+
+38
+题目:continuous
+答案:A. 连续的；持续的；延伸的
+
+39
+题目:contrary
+答案:B. 相反；反面
+
+40
+题目:contribute
+答案:B. 贡献；捐助
+
+41
+题目:contribution
+答案:C. 贡献；捐款
+
+42
+题目:convey
+答案:A. 表达；传递；运输
+
+43
+题目:convince
+答案:A. 使确信；使信服
+
+44
+题目:creation
+答案:B. 创造；创造物
+
+45
+题目:creative
+答案:B. 有创造力的；创造性的
+
+46
+题目:creature
+答案:B. 生物；动物
+
+47
+题目:credit
+答案:C. 信用；信誉
+
+48
+题目:crime
+答案:A. 犯罪活动
+
+49
+题目:criminal
+答案:B. 刑事的；犯罪的
+
+50
+题目:critical
+答案:C. 批判的；挑剔的
+

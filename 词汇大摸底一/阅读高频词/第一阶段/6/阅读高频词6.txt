@@ -1,0 +1,200 @@
+1
+题目:link
+答案:B. 环节；联系
+
+2
+题目:locate
+答案:B. 找出……的位置
+
+3
+题目:maintain
+答案:C. 保持；维持
+
+4
+题目:majority
+答案:B. 多数；大多数
+
+5
+题目:mass
+答案:B. 民众的；大规模的
+
+6
+题目:meanwhile
+答案:C. 与此同时
+
+7
+题目:medical
+答案:A. 医学的；医疗的
+
+8
+题目:membership
+答案:C. 会员身份；会员资格
+
+9
+题目:mental
+答案:B. 思想上的；精神的
+
+10
+题目:military
+答案:B. 军事的；军用的
+
+11
+题目:motivation
+答案:A. 积极性；动力
+
+12
+题目:mystery
+答案:C. 神秘的事物
+
+13
+题目:negative
+答案:A. 否定的；负面的
+
+14
+题目:normally
+答案:B. 通常；平常；正常地
+
+15
+题目:obtain
+答案:A. 获得；得到
+
+16
+题目:occasion
+答案:C. （某事发生的）时刻；场合；时机
+
+17
+题目:occupation
+答案:B. 占领；居住
+
+18
+题目:occur
+答案:C. 发生
+
+19
+题目:original
+答案:A. 最初的；原先的
+
+20
+题目:outstanding
+答案:C. 杰出的；突出的
+
+21
+题目:overcome
+答案:C. 战胜；克服
+
+22
+题目:overlook
+答案:A. 俯瞰；眺望；忽略
+
+23
+题目:owe
+答案:B. 欠（债）
+
+24
+题目:perform
+答案:B. 做；履行
+
+25
+题目:performance
+答案:A. 表演；演出
+
+26
+题目:personality
+答案:C. 个性；人格
+
+27
+题目:plain
+答案:B. 清楚的；明白的；易懂的
+
+28
+题目:policy
+答案:B. 政策
+
+29
+题目:popularity
+答案:C. 受欢迎；普及
+
+30
+题目:positive
+答案:A. 正面的；积极乐观的
+
+31
+题目:potential
+答案:B. 潜能；可能性
+
+32
+题目:poverty
+答案:C. 贫穷；贫困
+
+33
+题目:predict
+答案:C. 预言；预计
+
+34
+题目:previous
+答案:B. 以前的；先前的
+
+35
+题目:primary
+答案:C. 最重要的；基本的；初等教育的
+
+36
+题目:process
+答案:A. 过程；进程
+
+37
+题目:professional
+答案:B. 职业的；专业的
+
+38
+题目:project
+答案:B. 计划；工程
+
+39
+题目:promote
+答案:C. 促进；推动
+
+40
+题目:proof
+答案:A. 证明；证据
+
+41
+题目:psychological
+答案:B. 心理（学）的
+
+42
+题目:psychologist
+答案:A. 心理学家
+
+43
+题目:psychology
+答案:A. 心理学
+
+44
+题目:purchase
+答案:B. 买；购买
+
+45
+题目:purpose
+答案:C. 目的；目标
+
+46
+题目:range
+答案:C. 一系列；范围
+
+47
+题目:rarely
+答案:C. 很少；难得
+
+48
+题目:react
+答案:A. 对……作出反应
+
+49
+题目:reaction
+答案:B. 反应；作用
+
+50
+题目:reasonable
+答案:C. 有道理的；合情理的
+

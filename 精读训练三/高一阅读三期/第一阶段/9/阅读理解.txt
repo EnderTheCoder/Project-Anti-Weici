@@ -1,0 +1,39 @@
+1
+题目:         Sitting has been called the “new smoking” for its supposed public health risks, especially for people with sitdown office jobs. Over the past 15 years or so sitting has been connected with heart disease and diabetes (糖尿病). But is sitting really that risky?          In our latest study we examined if not only the total amount of sitting, but different types of sitting, were connected with developing type 2 diabetes. We wanted to see if there was any difference among sitting watching TV, sitting at work, or sitting at home but not watching TV.         We studied sitting habits of 4,811 middle-aged people, who didn’t have diabetes or heart problems at the start of the study. Over the next 13 years, 402 people developed diabetes. Once we considered obesity (肥胖), physical activity, and other things that may develop type 2 diabetes, neither total sitting time, sitting at work nor sitting at home but not watching TV were connected with developing diabetes. We found only a weak connection with the time spent sitting watching TV and an increased risk of developing diabetes.         This is different from the results of five older TV studies that showed a stronger connection. But hardly any of the included studies mentioned obesity, a major cause of diabetes.         For people who are physically inactive, though, the story’s different. Two recent studies show the total time spent sitting a day is connected with developing diabetes, but only in people who are physically inactive or both physically inactive and obese.         That’s not the whole story. At least two things determine if sitting is a risk factor in its own right: the type and situation of sitting.         For example, sitting down at work isn’t strongly connected with long-term health risks. Perhaps that’s because higher position jobs needs more sitting, and higher socioeconomic (社会经济) position is connected with a lower risk of disease. It’s a different case for sitting watching TV, the type of sitting most possibly connected with long-term health risks. People who watch a lot of TV tend to (常常会) be of lower socioeconomic positions, unemployed, have poorer mental (精神上的) health, eat unhealthy foods and face more unhealthy food advertising.
+答案:
+
+2
+题目:examine
+答案:examine
+
+3
+题目:原因
+答案:B. cause
+
+4
+题目:考查句子中单词的意思。
+
+Over the next 13 years, 402 people developed diabetes.
+答案:B. 患（病）
+
+5
+题目:选出能替换突显部分的单词或短语。
+That’s not the whole story.
+答案:A. entire
+
+6
+题目:connect_
+答案:connect,ion
+
+7
+题目:在空白处填入括号内单词的正确形式。
+
+For people who are ### (physical) inactive, though, the story’s different.
+答案:physically
+
+8
+题目:根据所给汉语，完成句子。
+
+Over the past 15 years  ### (左右) sitting has been connected with heart disease and diabetes.
+答案:or so
+

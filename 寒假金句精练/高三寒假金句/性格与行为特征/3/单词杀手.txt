@@ -1,0 +1,172 @@
+16
+题目:quality
+答案:quality
+
+17
+题目:quality
+答案:A. 质量；品质
+
+18
+题目:质量；品质
+答案:A. quality
+
+19
+题目:
+答案:B. quality
+
+20
+题目:reliable
+答案:reliable
+
+21
+题目:reliable
+答案:B. 可信赖的；可靠的
+
+22
+题目:可信赖的；可靠的
+答案:B. reliable
+
+23
+题目:responsible
+答案:responsible
+
+24
+题目:responsible
+答案:C. 有责任的
+
+25
+题目:有责任的
+答案:C. responsible
+
+26
+题目:selfish
+答案:selfish
+
+27
+题目:selfish
+答案:B. 自私的
+
+28
+题目:自私的
+答案:B. selfish
+
+29
+题目:warm-hearted
+答案:A. 热心的
+
+30
+题目:热心的
+答案:A. warm-hearted
+
+31
+题目:thoughtful
+答案:thoughtful
+
+32
+题目:thoughtful
+答案:B. 若有所思的
+
+33
+题目:若有所思的
+答案:B. thoughtful
+
+34
+题目:thought_
+答案:thought,ful
+
+35
+题目:cautious
+答案:cautious
+
+36
+题目:cautious
+答案:B. 十分小心的
+
+37
+题目:十分小心的
+答案:B. cautious
+
+38
+题目:calm
+答案:calm
+
+39
+题目:calm
+答案:B. 平静；镇静
+
+40
+题目:平静；镇静
+答案:A. calm
+
+41
+题目:confident
+答案:confident
+
+42
+题目:confident
+答案:B. 有信心的；自信的
+
+43
+题目:有信心的；自信的
+答案:B. confident
+
+44
+题目:
+答案:C. confident
+
+45
+题目:attitude
+答案:attitude
+
+46
+题目:attitude
+答案:B. 态度；看法
+
+47
+题目:态度；看法
+答案:B. attitude
+
+48
+题目:
+答案:A. attitude
+
+49
+题目:demanding
+答案:demanding
+
+50
+题目:demanding
+答案:C. 要求高的；要求严格的
+
+51
+题目:要求高的；要求严格的
+答案:C. demanding
+
+52
+题目:demand_
+答案:demand,ing
+
+53
+题目:jealous
+答案:jealous
+
+54
+题目:jealous
+答案:A. 嫉妒的；羡慕的
+
+55
+题目:嫉妒的；羡慕的
+答案:C. jealous
+
+56
+题目:direct
+答案:direct
+
+57
+题目:direct
+答案:A. 直接的；直率的
+
+58
+题目:直接的；直率的
+答案:A. direct
+

@@ -1,0 +1,42 @@
+1
+题目:      Electronic book publishing has many of the same risks and opportunities as electronic music publishing. By delivering text direct to the reader’s computer screen, the e-book could cut down costs, and allow creators to deal directly with their audience, bypassing traditional publishers and traders. But it also raises the possibility of mass piracy (盗版). Phil Rance, founder and managing director of Online Originals, a London-based e-book publisher, sums it up, “No one wants Napster (在线音乐服务) to happen to books.”      Indeed, the most popular MP3 may have put the frighteners on an industry that generally operates some way behind the “bleeding edge”. The Meta Group, a leading US-based market researcher, says publishers are far tooconcerned about protecting their rights, “We believe all the recent legal control over Napster is like putting a fingerin a river that is already overflowing. Publishers need to deal with reality and come up with new ways to develop wide electronic distribution (分发), asking the question, How can we use the certainty of wide distribution to our advantage?’”      At the moment, most publishers would like to limit the use of e-books to the person who bought them, or to the computer used to download them. If that can be done, e-books become just an extra income stream in a publishing industry that would continue to operate the way it does today, according to Terry Robinson, business manager for Adobe’s e-paper group. “If you’ve cracked the digital rights aspect, you’ve cracked the market,” he says. Robert Nichols, Books Director at BOL agrees, “Rights management is absolutely important. Publishers just say that ‘until copyright (版权) is secure, we’re not going to talk’.”
+答案:
+
+2
+题目:electronic
+答案:electronic
+
+3
+题目:避开；绕过
+答案:B. bypass
+
+4
+题目:考查句子中单词的意思。
+
+Indeed, the most popular MP3 may have put the frighteners on an industry that generally operates some way behind the “bleeding edge”.
+答案:B. 威胁
+
+5
+题目:考查句子中单词的意思。
+
+“If you’ve cracked the digital rights aspect, you’ve cracked the market,” he says.
+答案:C. 破解
+
+6
+题目:考查句子中单词的意思。
+
+Robert Nichols, Books Director at BOL agrees, “Rights management is absolutely important. Publishers just say that ‘until copyright is secure, we’re not going to talk’.”
+答案:C. 商谈
+
+7
+题目:根据所给汉语，完成句子。
+
+By delivering text direct to the reader’s computer screen, the e-book could ### (降低成本).
+答案:cut down costs
+
+8
+题目:根据所给汉语，完成句子。
+
+Publishers need to deal with reality and ### (想出新办法) to develop wide electronic distribution.
+答案:come up with new ways
+

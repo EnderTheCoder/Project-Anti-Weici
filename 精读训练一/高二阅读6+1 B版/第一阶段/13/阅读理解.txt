@@ -1,0 +1,13 @@
+1
+题目:        Ricky lived in a lovely, futuristic house, which had everything you could ever want. Though he didn’t help much around the house, Ricky was still very pleased when his parents bought him the latest model of robot. As soon as it arrived, off it went, cooking, cleaning, ironing, and — most importantly — gathering up clothes from Ricky’s bedroom floor. On that first day, when Ricky went to sleep, he had left his bedroom in a truly disastrous state. When he woke up the next morning, everything was perfectly clean and tidy.
+        In fact, it was actually “too” clean; now Ricky couldn’t find his favourite T-shirt, nor his favourite toy. However much he searched, the two things did not reappear. The same was starting to happen with other things. Ricky began to suspect the robot. He planned to spy on the robot, and began following it around the house. Finally he caught it redhanded, picking up one of Ricky’s toys to hide it.
+        Ricky told his parents that the robot was broken and badly programmed and asked them to have it changed. But his parents told him absolutely not; they were delighted with the new robot, and it cooked like a dream.
+        One day, the robot was whirring (嗡嗡地响) past, and heard the boy’s complaints (抱怨). The robot returned with one of the boy’s toys, and some clothes for him.
+        “Here, sir. I did not know it was bothering you,” said the robot.
+        “How could it not, you thief?! You’ve been stealing my belongings for weeks!” the boy answered angrily.
+        “The objects were left on the floor. I therefore calculated that you did not like them. I am programmed to collect all that is not wanted, and at night I send it to people who can use it. I am a maximum efficiency (效率) machine. Were
+you unaware?” the robot said, with a certain pride.
+        Ricky started feeling ashamed. He understood that the robot was neither broken nor misprogrammed. Rather, it had been programmed extremely well!
+        Since then, Ricky has decided to become a “Maximum Efficiency Boy”, and put real care into how he treated his things. He kept them tidy, and made sure he didn’t have more than was necessary. And, often, he would buy things, and take them along with his good friend, the robot, to help out those other people who needed them.
+答案:
+

@@ -1,0 +1,57 @@
+1
+题目:Want to beat your spare time? Here are some books for you to choose from:The Omnivore’s Dilemma        Written by Pamela who examines what she calls “our national eating disorder” (the rapid rise in obesity (肥胖) in this clear-headed book. It’s a fascinating journey up and down the food chain, one that might change the way you eat.The Art of the Deal        Donald J. Trump is an icon (标志性人物): the very definition (定义) of the American success story. As the star of a famous TV show and developer of some of the planet’s most famous real estate (房地产), he’s been at the bottom and risen to become one of the world’s wealthiest men. His personal history offers an inside look at aspects of financing, development and construction in big-time New York real estate.Barefoot Contessa at Home        Garten’s fifth cookbook: easy methods for the home cook whose favorite is spending time with friends and family, not in the kitchen. From breakfast to supper, the Food Network star organizes this book by meal, with an easy-to-master recipe.Monday with a Mad Genius        Jack and Annie are on a mission to save Merlin from his sadness! Charged with finding the second of four secrets of happiness, the brother-and-sister team travel back in the magic tree house to the period known as the Renaissance in Italy about 600 years ago. This time, Jack and Annie will need more than a research book and a magic stick. They’ll need help from one of the greatest minds of all time. What will they learn from Leonardo da Vinci?What Colleges Don’t Tell You        The author names himself “an educational strategist” whose approach is to provide the students with the skills to fetch out and improve their natural abilities, giving them advice on how to study and live in the college.
+答案:
+
+2
+题目:improve
+答案:improve
+
+3
+题目:organize
+答案:organize
+
+4
+题目:方法
+答案:B. approach
+
+5
+题目:考察句子中单词的意思。
+
+Want to beat your spare time? Here are some books for you to choose from.
+答案:C. 打发
+
+6
+题目:考察句子中单词的意思。
+
+They’ll need help from one of the greatest minds of all time.
+答案:A. 有才智的人
+
+7
+题目:选出能替换突显部分的单词或短语。
+
+Jack and Annie are on a mission to save Merlin from his sadness!
+答案:A. rescue
+
+8
+题目:nation_
+答案:nation,al
+
+9
+题目:sad_
+答案:sad,ness
+
+10
+题目:他一直处于社会底层，后来却一跃成为世界上最富有的人之一。
+答案:He’s been at the bottom and risen to become one of the world’s wealthiest men.
+
+11
+题目:在空白处填入括号内单词的正确形式。
+
+The brother-and-sister team travel back in the magic tree house to the period ### (know) as the Renaissance in Italy about 600 years ago.
+答案:known
+
+12
+题目:根据所给汉语完成下列句子。
+It’s a fascinating journey up and down the food chain, one that might ### (改变你的饮食方式).
+答案:change the way you eat
+

@@ -1,0 +1,145 @@
+1
+题目:explore
+答案:explore
+
+2
+题目:The children have gone exploring in the woods.
+答案:C. 探险
+
+3
+题目:
+答案:B. explore
+
+4
+题目:operate
+答案:operate
+
+5
+题目:Subway trains ______ 24 hours a day in New York.
+答案:B. operate
+
+6
+题目:The medicine began to ______ at once.
+答案:B. operate
+
+7
+题目:Having seen the X-ray, the doctor decided to operate ______ the patient.
+答案:C. on
+
+8
+题目:This machine is very easy to operate.
+答案:A. 操作
+
+9
+题目:oper_
+答案:oper,ate
+
+10
+题目:The machine is easy ###  (operate).
+答案:to operate
+
+11
+题目:convenient
+答案:convenient
+
+12
+题目:It is very convenient ______  in London by underground.
+答案:C. to travel
+
+13
+题目:If it's convenient ______ you, let's meet at 8:30 outside the school gate.
+答案:A. for
+
+14
+题目:The secretary arranged a(n) ______ time and place for the applicants to have an interview.
+答案:B. convenient
+
+15
+题目:Would it be ______ for you to pick me up at four o'clock and take me to the airport?
+答案:A. convenient
+
+16
+题目:If it is quite ______ to you, I will visit you next Tuesday.
+答案:C. convenient
+
+17
+题目:E-mail is a tool which helps people all over the world to communicate ### (convenient) .
+答案:conveniently
+
+18
+题目:坐地铁上班很方便。
+答案:It's convenient to go to work by subway.
+
+19
+题目:I wonder if it is convenient ### you to join me in visiting the exhibition.（填入一个合适的介词）
+答案:for
+
+20
+题目:Thanks to the advanced technology, we live in an age of bettered communication.
+答案:A. 先进的
+
+21
+题目:Thanks to the ###  (advance) technology, we live in an age of bettered communication.
+答案:advanced
+
+22
+题目:人们普遍认为吸烟有害健康。
+答案:It is generally accepted that smoking is harmful to our health.
+
+23
+题目:We usually  ### (做调查) to collect information.
+答案:conduct a survey|carry out a survey|do a survey|make a survey
+
+24
+题目:connect
+答案:connect
+
+25
+题目:A USB port is a place where you can connect other machines ______ a computer.
+答案:A. to
+
+26
+题目:There is no evidence to connect them ______ the attack.
+答案:B. with
+
+27
+题目:接线员把她的电话转接到了警察局。
+答案:The operator connected her to the police station.
+
+28
+题目:equipment
+答案:equipment
+
+29
+题目:There are a lot of pieces of  ### (equip) in the gym.
+答案:equipment
+
+30
+题目:post
+答案:post
+
+31
+题目:The picture has been liked more than 3.2 million times since it ###  (post).
+答案:was posted
+
+32
+题目:system
+答案:system
+
+33
+题目:In 1959 the company produced the ELEA computer system.
+答案:B. 系统
+
+34
+题目:许多人一直在尝试改革不公正的制度。
+答案:A good many persons have been trying to reform an unfair system.
+
+35
+题目:    A world-famous Canadian author, Margaret Atwood, has created the world's first long-distance signing device (装置), the LongPen.
+    After many tiring book-signing tours from city to city, Atwood thought there must be a better way to do them. She hired some technical experts and started her own company in 2004. Together they designed the LongPen. Here's how it works: The author writes a personal message and signature on a computer tablet (手写板) using a special pen. On the receiving end, in another city, a robotic arm fitted with a regular pen signs the book. The author and fan can talk with each other via webcams (网络摄像机) and computer screens.
+    Work on the LongPen began in Atwood's basement (地下室). At first, they had no idea it would be as hard as it turned out to be. The device went through several versions, including one that actually had smoke coming out of it. The inventing finally completed, test runs were made in Ottawa, and the LongPen was officially launched at the 2006 London Book Fair. From here, Atwood conducted two transatlantic (横越大西洋) book signings of her latest book for fans in Toronto and New York City.
+The LongPen produces a unique signature each time because it copies the movement of the author in real time. It has several other potential applications. It could increase credit card security and allow people to sign contracts from another province. The video exchange between signer and receiver can be recorded on DVD for proof when legal documents are used.
+    "It's really fun”, said the owner of a bookstore, who was present for one of the test runs. “Obviously you can't shake hands with the author, but there are chances for a connection that you don't get from a regular book signing.”
+    The response to the invention hasn't been all favorable. Atwood has received criticism from authors who think she's trying to end book tours. But she said, “①It will be possible to go to places that you never got sent to before because the publishers couldn't afford it.”
+答案:
+

@@ -1,0 +1,51 @@
+1
+题目:        We know more about the surface of the planet Mars than we know about what is at the bottom of Earth’s oceans.Until recently, scientists had mapped only about 20 percent of the sea floor. But our knowledge of the deep seas is changing because of information from satellites. Scientists have produced a new map that provides a detailed picture of the oceans.
+        The new map is twice as detailed as the map made 20 years ago. David Sandwell is a geophysics professor at the Scripps Institution of Oceanography at the University of California. He and other scientists worked on the mapping project. He says they turned to space to look deeper into the ocean.（此句加下划线）
+        “The way we’re doing that is to use a satellite altimeter (测高仪), a radar to map the topography (地形) of the ocean surface. That is because the ocean surface topography is different because of gravitational(引力的) effects.”
+        The scientists collected and studied information from two satellites. One was the European Space Agency’s Cryo-2 satellite that was placed in Earth’s orbit to watch sea ice. The other satellite is the American space agency’s Jason-1, studying the surface of the oceans. Scientists combined the satellite data with images gathered by equipment on ships. The equipment works by sending sound waves through the water. When the sound waves hit an object, its presence is confirmed.
+        The new map shows the sea floor as it has never been seen before. It shows thousands of underwater mountains and places where continents pulled apart. It shows where earthquakes were active many years ago. In one place, three mountain ridges (山脊) join at the same area. “It’s called the Indian Ocean Triple Junction. It’s one of my favorite spots in the ocean. You have three plates — the African plate, and the Indo-Australian plate and the Antarctic plate — all connected at this one point in the center of the Indian Ocean,” says David Sandwell.
+        The map is a powerful tool for those interested in protecting the environment and for oil exploration. It also can help ships travel safely and improve scientific projects worldwide. Of course, scientists will make many more discoveries as they examine the new map and the information it provides.
+答案:
+
+2
+题目:knowledge
+答案:knowledge
+
+3
+题目:environment
+答案:environment
+
+4
+题目:考查句子中单词的意思。
+
+Until recently, scientists had mapped only about 20 percent of the sea floor.
+答案:B. 绘制地图
+
+5
+题目:考查句子中单词的意思。
+
+It shows where earthquakes were active many years ago.
+答案:C. 活跃的
+
+6
+题目:考查句子中单词的意思。
+
+Of course, scientists will make many more discoveries as they examine the new map and the information it provides.
+答案:C. 研究
+
+7
+题目:在空白处填入括号内单词的正确形式。
+
+The map is a powerful tool for those interested in protecting the environment and for oil ### (explore).
+答案:exploration
+
+8
+题目:在空白处填入括号内单词的正确形式。
+
+When the sound waves hit an object, its ### (present) is confirmed.
+答案:presence
+
+9
+题目:新地图比20年前绘制的地图要详尽两倍。
+答案:The new map is twice as detailed as the map made 20 years ago.
+

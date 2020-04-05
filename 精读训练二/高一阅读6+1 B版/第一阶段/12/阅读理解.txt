@@ -1,0 +1,51 @@
+1
+题目:Stages of a Hurricane: Simple Storms Grow Into Giants        A storm progresses through four different stages before it is actually considered a hurricane. First is a tropical disturbance (热带扰动), which has thunderstorms and rotating (旋转) winds. Next is a tropical depression (热带低气压), which is similar to a tropical disturbance, but has winds between 23 and 39 miles per hour. A tropical storm is the next level, which has stronger wind speeds between 40 and 73 miles per hour. Once winds reach 74 miles per hour, the storm is officially called a hurricane. The wind picks up energy from the warm surface ocean water.        As a hurricane crosses over land, it begins to become weaker or break apart and reduce in strength. This is because it is no longer over the warm ocean water that it needs for energy. At this point, a hurricane can still cause a lot of damage because of high winds, rain, and flooding, but unless it makes its way back over the open ocean, it is downgraded from a hurricane back to a tropical storm.        What’s Your Name, Hurricane?        Hurricanes and tropical storms are given names to help people recognize them. Scientists refer to hurricanes and storms by name as they track them across the ocean.        Before 1953, hurricanes were not given official names. From 1953 through 1978, hurricanes were only given female names, like Isabel, Camille, Claudette, and Wilma. Beginning in 1979, hurricanes were given the names of both women and men. Today, the names alternate male and female, and they are named in order of letters.        For example, in 2010, storms were named as follows: Alex (male), Bonnie (female), Colin (male), Danielle (female), Earl (male) and so on ...        There are six different lists of names that change, so the same names are used every six years. The only way that a new name is added is when a hurricane has beenparticularly deadly or costly and the name is retired, then replaced with a new one.
+答案:
+
+2
+题目:retired
+答案:retired
+
+3
+题目:识别；认出
+答案:B. recognize
+
+4
+题目:题目：跟踪
+答案:A. track
+
+5
+题目:考查句子中单词的意思。
+
+The wind picks up energy from the warm surface ocean water. 
+答案:B. 吸收
+
+6
+题目:考查句子中单词的意思。
+
+As a hurricane crosses over land, it begins to become weaker or break apart and reduce in strength.
+答案:C. 强度
+
+7
+题目:1953年之前，（人们）并未给飓风正式命名。
+###
+答案:Before 1953, hurricanes were not given official names.
+
+8
+题目:在空白处填入括号内单词的正确形式。
+
+The only way that a new name is added is when a hurricane has been particularly ### (dead) or costly and the name is retired, then replaced with a new one. 
+答案:deadly
+
+9
+题目:根据所给汉语，完成下列句子。
+
+A storm ### （经过四个不同的阶段）before it is actually considered a hurricane. 
+答案:progresses through four different stages
+
+10
+题目:根据所给汉语，完成下列句子。
+
+Today, the names alternate male and female, and they ### (按字母顺序进行命名).
+答案:are named in order of letters
+

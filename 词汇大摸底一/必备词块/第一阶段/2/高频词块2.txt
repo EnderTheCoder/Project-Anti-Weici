@@ -1,0 +1,300 @@
+1
+题目:believe in
+答案:A. 信任
+
+2
+题目:be of benefit to
+答案:B. 对……有益
+
+3
+题目:(be) better off
+答案:A. 更富裕
+
+4
+题目:give birth to
+答案:A. 产生
+
+5
+题目:do one’s bit
+答案:C. 尽自己的本分
+
+6
+题目:bear the blame
+答案:A. 承担责任
+
+7
+题目:put the blame on
+答案:C. 把责任推给
+
+8
+题目:from the bottom of one’s heart
+答案:A. 发自内心地
+
+9
+题目:catch one’s breath
+答案:C. 缓一口气
+
+10
+题目:in brief
+答案:A. 简言之
+
+11
+题目:bring about
+答案:C. 引起；造成
+
+12
+题目:but for
+答案:A. 若不是
+
+13
+题目:call for
+答案:C. 需要；要求
+
+14
+题目:call off
+答案:A. 取消
+
+15
+题目:care for
+答案:B. 照看；照顾
+
+16
+题目:(just) in case
+答案:A. 假使；免得
+
+17
+题目:catch sight of
+答案:A. 看到
+
+18
+题目:cause and effect
+答案:B. 因果
+
+19
+题目:take chances / a chance
+答案:C. 冒险一试
+
+20
+题目:under no circumstances
+答案:B. 决不
+
+21
+题目:clear up
+答案:C.（天气）转晴
+
+22
+题目:come / draw to a close
+答案:A. 渐近结束
+
+23
+题目:come into sight / view
+答案:B. 进入视线；被看见
+
+24
+题目:come about
+答案:A. 发生；产生
+
+25
+题目:do sb a favour
+答案:A. 帮某人一个忙
+
+26
+题目:根据所给汉语写出词块。
+
+维护；替……说话
+
+###
+答案:stand up for
+
+27
+题目:根据所给汉语写出词块。
+
+坚持；遵守
+
+###
+答案:keep to|stick to
+
+28
+题目:根据所给汉语写出词块。
+
+突然
+
+###
+答案:all of a sudden
+
+29
+题目:根据所给汉语写出词块。
+
+总结 / 概括你的论点
+
+###
+答案:sum up your argument|sum up your arguments
+
+30
+题目:根据所给汉语写出词块。
+
+使他吃惊的是
+
+###
+答案:to his surprise|to the surprise of him
+
+31
+题目:根据所给汉语写出词块。
+
+关灯
+
+###
+答案:switch off the light|turn off the light
+
+32
+题目:根据所给汉语写出词块。
+
+打开电视
+
+###
+答案:switch on the TV|turn on the TV
+
+33
+题目:根据所给汉语写出词块。
+
+呈现新面貌
+
+###
+答案:take on a new look
+
+34
+题目:根据所给汉语写出词块。
+
+接收；接管
+
+###
+答案:take over
+
+35
+题目:根据所给汉语写出词块。
+
+多亏；幸亏
+
+###
+答案:thanks to
+
+36
+题目:根据所给汉语写出词块。
+
+节食
+
+###
+答案:be on a diet|go on a diet
+
+37
+题目:根据所给汉语写出词块。
+
+谋生
+
+###
+答案:make a living|make one's living|earn a living|earn one's living
+
+38
+题目:根据所给汉语写出词块。
+
+对……有影响
+
+###
+答案:have an effect on|have an influence on|have an impact on
+
+39
+题目:根据所给汉语写出词块。
+
+自从；从……以来；此后一直
+
+###
+答案:ever since
+
+40
+题目:根据所给汉语写出词块。
+
+面临
+
+###
+答案:faced with|be faced with
+
+41
+题目:根据所给汉语写出词块。
+
+出差
+
+###
+答案:on business
+
+42
+题目:根据所给汉语写出词块。
+
+着手处理正事
+
+###
+答案:get down to business
+
+43
+题目:根据所给汉语写出词块。
+
+号召；要求
+
+###
+答案:call on|call upon
+
+44
+题目:根据所给汉语写出词块。
+
+保持镇静
+
+###
+答案:stay calm|keep calm
+
+45
+题目:根据所给汉语写出词块。
+
+(使) 平静下来； (使) 镇静下来
+
+###
+答案:calm down
+
+46
+题目:根据所给汉语写出词块。
+
+继续进行；开展
+
+###
+答案:carry on with
+
+47
+题目:根据所给汉语写出词块。
+
+在……情形时；万一
+
+###
+答案:in case of
+
+48
+题目:根据所给汉语写出词块。
+
+追上其他同学
+
+###
+答案:catch up with other classmates
+
+49
+题目:根据所给汉语写出词块。
+
+接受挑战
+
+###
+答案:accept the challenge|take up the challenge
+
+50
+题目:根据所给汉语写出词块。
+
+面对挑战
+
+###
+答案:face the challenge|meet the challenge|rise to the challenge
+

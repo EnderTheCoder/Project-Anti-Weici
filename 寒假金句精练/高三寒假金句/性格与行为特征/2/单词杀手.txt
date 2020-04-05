@@ -1,0 +1,172 @@
+16
+题目:honest
+答案:honest
+
+17
+题目:honest
+答案:C. 诚实的；正直的
+
+18
+题目:诚实的；正直的
+答案:B. honest
+
+19
+题目:dignity
+答案:dignity
+
+20
+题目:dignity
+答案:A. 尊贵；尊严
+
+21
+题目:尊贵；尊严
+答案:A. dignity
+
+22
+题目:diligent
+答案:diligent
+
+23
+题目:diligent
+答案:A. 勤奋的；勤勉的；用功的
+
+24
+题目:勤奋的；勤勉的；用功的
+答案:C. diligent
+
+25
+题目:mean
+答案:mean
+
+26
+题目:mean
+答案:C. 意思；意欲
+
+27
+题目:吝啬的；小气的
+答案:C. mean
+
+28
+题目:nature
+答案:nature
+
+29
+题目:nature
+答案:C. 自然界；本性
+
+30
+题目:自然界；本性
+答案:B. nature
+
+31
+题目:
+答案:C. nature
+
+32
+题目:considerate
+答案:considerate
+
+33
+题目:considerate
+答案:C. 体贴的；体谅他人的
+
+34
+题目:体贴的；体谅他人的
+答案:C. considerate
+
+35
+题目:consider_
+答案:consider,ate
+
+36
+题目:noble
+答案:noble
+
+37
+题目:noble
+答案:A. 高贵的；崇高的
+
+38
+题目:贵族
+答案:B. noble
+
+39
+题目:modest
+答案:modest
+
+40
+题目:modest
+答案:A. 谦虚的；适中的
+
+41
+题目:谦虚的；适中的
+答案:A. modest
+
+42
+题目:courage
+答案:courage
+
+43
+题目:courage
+答案:C. 勇气；胆量
+
+44
+题目:勇气；胆量
+答案:B. courage
+
+45
+题目:
+答案:C. courage
+
+46
+题目:principle
+答案:principle
+
+47
+题目:principle
+答案:C. 原理；原则
+
+48
+题目:原理；原则
+答案:C. principle
+
+49
+题目:greedy
+答案:greedy
+
+50
+题目:greedy
+答案:A. 贪吃的
+
+51
+题目:贪吃的
+答案:A. greedy
+
+52
+题目:tough
+答案:tough
+
+53
+题目:tough
+答案:A. 强壮的；坚固的
+
+54
+题目:强壮的；坚固的
+答案:A. tough
+
+55
+题目:
+答案:B. tough
+
+56
+题目:shallow
+答案:shallow
+
+57
+题目:shallow
+答案:C. 浅的 ；肤浅的
+
+58
+题目:浅的 ；肤浅的
+答案:C. shallow
+

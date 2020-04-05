@@ -1,0 +1,201 @@
+1
+题目:message
+答案:B. 消息；口信
+
+2
+题目:method
+答案:C. 方法；办法
+
+3
+题目:mix
+答案:B.（使）混合； （使）掺和
+
+4
+题目:modest
+答案:C. 谦虚的；谦逊的
+
+5
+题目:moment
+答案:C. 片刻；瞬间
+
+6
+题目:moreover
+答案:C. 再者；而且
+
+7
+题目:movement
+答案:A. 运动；活动
+
+8
+题目:natural
+答案:B. 大自然的；天然的
+
+9
+题目:naturally
+答案:C. 自然地；当然地
+
+10
+题目:normal
+答案:B. 正常的；平常的
+
+11
+题目:now and then
+答案:B. 时而；偶尔
+
+12
+题目:now that
+答案:B. 既然；由于
+
+13
+题目:object
+答案:C. 物体；对象
+
+14
+题目:observe
+答案:B. 观察；观测
+
+15
+题目:obvious
+答案:C. 明显的；显而易见的
+
+16
+题目:obviously
+答案:B. 显而易见地
+
+17
+题目:occasionally
+答案:B. 偶尔；间或
+
+18
+题目:occupied
+答案:C. 被占用的；有人使用的
+
+19
+题目:offer
+答案:B.（主动）提出；给予
+
+20
+题目:on purpose
+答案:C. 故意地；有意地
+
+21
+题目:on the contrary
+答案:B. 正相反；恰恰相反
+
+22
+题目:on the other hand
+答案:B. 另一方面
+
+23
+题目:on the whole
+答案:C. 总的看来；总体而言
+
+24
+题目:on time
+答案:C. 按时；准时
+
+25
+题目:once again
+答案:B. 再一次
+
+26
+题目:once more
+答案:B. 再一次
+
+27
+题目:operate
+答案:B. 操作；使用
+
+28
+题目:operation
+答案:C. 运行；运转；操作
+
+29
+题目:opinion
+答案:C. 意见；看法；主张
+
+30
+题目:opportunity
+答案:C. 机会；时机
+
+31
+题目:organize
+答案:C. 组织；安排
+
+32
+题目:other than
+答案:B. 除……以外
+
+33
+题目:otherwise
+答案:B. 否则；不然
+
+34
+题目:pack
+答案:B. 包裹；纸盒
+
+35
+题目:particular
+答案:B. 特定的；格外的
+
+36
+题目:particularly
+答案:B. 特别；尤其
+
+37
+题目:patience
+答案:C. 耐心；容忍
+
+38
+题目:pattern
+答案:B. 模式；方式；形式
+
+39
+题目:pay off
+答案:B. 还清（欠债等）
+
+40
+题目:permission
+
+答案:B. 许可；准许
+
+41
+题目:permit
+答案:C. 许可；准许
+
+42
+题目:personally
+答案:C. 亲自；个别地
+
+43
+题目:persuade
+答案:B. 说服；劝服
+
+44
+题目:physical
+答案:B. 物理的；自然的
+
+45
+题目:pick up
+答案:C. 提起；拿起
+
+46
+题目:pleasure
+答案:C. 快乐；娱乐
+
+47
+题目:popular
+答案:B. 流行的；受欢迎的
+
+48
+题目:position
+答案:C. 位置；方位
+
+49
+题目:power
+答案:B. 力量；威力
+
+50
+题目:powerful
+答案:C. 强壮的；强健的
+

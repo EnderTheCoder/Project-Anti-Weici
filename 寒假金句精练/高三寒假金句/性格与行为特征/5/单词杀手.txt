@@ -1,0 +1,196 @@
+16
+题目:cheerful
+答案:cheerful
+
+17
+题目:cheerful
+答案:C. 兴高采烈的；高兴的
+
+18
+题目:兴高采烈的；高兴的
+答案:B. cheerful
+
+19
+题目:cheer_
+答案:cheer,ful
+
+20
+题目:character
+答案:character
+
+21
+题目:character
+答案:B. 性格；品性
+
+22
+题目:性格；品性
+答案:B. character
+
+23
+题目:aggressive
+答案:aggressive
+
+24
+题目:aggressive
+答案:C. 好斗的；有进取心的
+
+25
+题目:好斗的；有进取心的
+答案:C. aggressive
+
+26
+题目:gentle
+答案:gentle
+
+27
+题目:gentle
+答案:C. (性格) 温和的；轻柔的
+
+28
+题目:(性格) 温和的；轻柔的
+答案:C. gentle
+
+29
+题目:active
+答案:active
+
+30
+题目:
+答案:B. active
+
+31
+题目:active
+答案:A. 活跃的；积极参与的
+
+32
+题目:活跃的；积极参与的
+答案:A. active
+
+33
+题目:act_
+答案:act,ive
+
+34
+题目:independent
+答案:independent
+
+35
+题目:independent
+答案:B. 独立的；自立的
+
+36
+题目:独立的；自立的
+答案:B. independent
+
+37
+题目:_dependent
+答案:in,dependent
+
+38
+题目:
+答案:A. independent
+
+39
+题目:determined
+答案:determined
+
+40
+题目:determined
+答案:B. 有决心的；意志坚定的
+
+41
+题目:有决心的；意志坚定的
+答案:B. determined
+
+42
+题目:humorous
+答案:humorous
+
+43
+题目:humorous
+答案:B. 幽默的；诙谐的
+
+44
+题目:幽默的；诙谐的
+答案:B. humorous
+
+45
+题目:humor_
+答案:humor,ous
+
+46
+题目:personality
+答案:personality
+
+47
+题目:personality
+答案:C. 个性；人格
+
+48
+题目:个性；人格
+答案:C. personality
+
+49
+题目:personal_
+答案:personal,ity
+
+50
+题目:practical
+答案:practical
+
+51
+题目:practical
+答案:B. 实际的
+
+52
+题目:实际的
+答案:B. practical
+
+53
+题目:silent
+答案:silent
+
+54
+题目:silent
+答案:B. 沉默的；寂静无声的
+
+55
+题目:沉默的；寂静无声的
+答案:B. silent
+
+56
+题目:shy
+答案:shy
+
+57
+题目:shy
+答案:A. 害羞的；羞怯的
+
+58
+题目:害羞的；羞怯的
+答案:C. shy
+
+59
+题目:outgoing
+答案:outgoing
+
+60
+题目:outgoing
+答案:B. 喜欢社交的；外向的
+
+61
+题目:喜欢社交的；外向的
+答案:B. outgoing
+
+62
+题目:straightforward
+答案:C. 坦率的；简单的
+
+63
+题目:坦率的；简单的
+答案:C. straightforward
+
+64
+题目:straightforward
+答案:straightforward
+

@@ -1,0 +1,53 @@
+1
+题目:        Let’s say you’re taking a Spanish test when an answer just won’t come to you, even though you saw it on last night’s practice quiz (10 sleepless hours ago). Or maybe you miss every free throw during your basketball game — and to top it off, you are not friendly to your teammate on the way to the locker room.
+        These may seem like unrelated events, but here’s the surprising truth: Each may be a direct consequence of your lack of sleep time. In one study, just an hour less of sleep each night made six-graders perform like fourth-graders on mental tests. Other research shows that sleep loss makes you run slower and miss more shots in sports, while doubling your possibility of injury.
+        Some experts even argue that teens would be less likely to take risks or suffer from anxiety (焦虑) and depression (沮丧) if they could just get enough sleep.
+        “When you lack sleep and you run into a stressful situation, whether it’s with your friends or something else, you’re going to get angry and upset,” explains Dr. Kathleen Berchelmann, a doctor in St. Louis, Missouri. “I see a lot of depression and anxiety in teens who aren’t getting enough sleep.”
+        It’s surprising to think that by spending more time in bed, you could lift your grade point average, get along with your loved ones, perform better on the field, and feel happier. But scientists say it’s true — many teens are walking around like zombies (僵尸) without even realizing it.
+答案:
+
+2
+题目:perform
+答案:perform
+
+3
+题目:缺乏
+答案:B. lack
+
+4
+题目:处境 
+答案:C. situation
+
+5
+题目:考查句子中单词的意思。
+
+Or maybe you miss every free throw during your basketball game.   
+答案:B. 未击中
+
+6
+题目:选出能替换突显部分的单词或短语。
+
+Each may be a direct consequence of your lack of sleep time. 
+答案:B. result
+
+7
+题目:stress_
+答案:stress,ful
+
+8
+题目:许多青少年像僵尸一样走来走去，却浑然不觉。
+###
+答案:Many teens are walking around like zombies without even realizing it.
+
+9
+题目:在空白处填入括号内单词的正确形式。
+
+Sleep loss makes you run slower and miss more shots in sports, while doubling your ### (possible) of injury.
+答案:possibility
+
+10
+题目:根据所给汉语完成下列句子。
+
+By spending more time in bed, you could ### (提高你的平均分).
+答案:lift your grade point average
+

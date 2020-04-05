@@ -1,0 +1,200 @@
+1
+题目:cheerful
+答案:A. 兴高采烈的；高兴的
+
+2
+题目:choice
+答案:C. 选择
+
+3
+题目:claim
+答案:B. 声称；宣称
+
+4
+题目:coach
+答案:A. 教练
+
+5
+题目:colleague
+答案:C. 同事；同僚
+
+6
+题目:come back
+答案:A. 回来；再度流行
+
+7
+题目:come in
+答案:B. 到达；被收到
+
+8
+题目:come out
+答案:A. 出来；出版
+
+9
+题目:come on
+答案:B. 快点；进展
+
+10
+题目:come up with
+答案:C. 想出；提出
+
+11
+题目:comfort
+答案:C. 舒适（感）；安逸（感）
+
+12
+题目:communication
+答案:B. 交流；沟通
+
+13
+题目:company
+答案:B. 公司；商号
+
+14
+题目:compare
+答案:C. 对比；比较
+
+15
+题目:competition
+答案:A. 竞争
+
+16
+题目:complain
+答案:A. 抱怨
+
+17
+题目:concern
+答案:C. 关于；与……有关
+
+18
+题目:condition
+答案:B. 状况；情况
+
+19
+题目:confirm
+答案:A. 证实；证明
+
+20
+题目:confused
+答案:C. 困惑的；糊涂的
+
+21
+题目:connect
+答案:B. 连接；连结
+
+22
+题目:connection
+答案:A. 联接；连接
+
+23
+题目:consequence
+答案:C. 结果；后果
+
+24
+题目:consider
+答案:B. 考虑
+
+25
+题目:constantly
+答案:A. 经常地；不断地
+
+26
+题目:contact
+答案:C. 触碰；接触
+
+27
+题目:content
+答案:B.（容器等）容纳的东西
+
+28
+题目:control
+答案:A. 控制；支配
+
+29
+题目:convenient
+答案:C. 便利的；方便的
+
+30
+题目:count
+答案:B. 数数
+
+31
+题目:courage
+答案:A. 勇气；胆量
+
+32
+题目:course
+答案:C. 课程；课程时间
+
+33
+题目:create
+答案:B. 创造；创作
+
+34
+题目:crowd
+答案:A. 人群；观众
+
+35
+题目:cure
+答案:C. 治疗；治愈
+
+36
+题目:damage
+答案:B. 损害；损坏
+
+37
+题目:danger
+答案:A. 危险；风险
+
+38
+题目:deal
+答案:C. 买卖；交易
+
+39
+题目:deal with
+答案:B. 处理；对付
+
+40
+题目:decision
+答案:A. 决定；果断
+
+41
+题目:declare 
+答案:C. 宣布；声称
+
+42
+题目:decorate
+答案:B. 装饰；装潢
+
+43
+题目:delay
+答案:A. 耽误；延误
+
+44
+题目:deliberately
+答案:C. 故意地
+
+45
+题目:delight
+答案:B. 快乐；高兴
+
+46
+题目:delighted
+答案:B. 高兴的；快乐的
+
+47
+题目:demand
+答案:A.（坚决）要求
+
+48
+题目:depend on
+答案:C. 依靠；依赖
+
+49
+题目:describe
+答案:B. 描述；叙述
+
+50
+题目:description
+答案:B. 描写；描述
+

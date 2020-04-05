@@ -1,0 +1,165 @@
+1
+题目:A good teacher must be able to _____ her pupils' attention.
+答案:A. hold
+
+2
+题目:— May I speak to Mr Smith?
+— ______, please. I'll see if he is in.
+答案:B. Hold on
+
+3
+题目:The roof is held up by wood.
+答案:C. 支撑
+
+4
+题目:hold
+答案:hold
+
+5
+题目:She was ______ the baby in her arms.
+答案:C. holding
+
+6
+题目:apply
+答案:apply
+
+7
+题目:He applied to a university.
+答案:C. 申请
+
+8
+题目:It is also a good idea to ________ something as soon as you learn it.
+答案:B. apply
+
+9
+题目:Apply the cream evenly ________ your face and neck.
+答案:B. to
+
+10
+题目:
+答案:B. apply
+
+11
+题目:app_
+答案:app,ly
+
+12
+题目:employ
+答案:employ
+
+13
+题目:Kelly is employed _______ a teacher. 
+答案:B. as
+
+14
+题目:
+答案:A. employ
+
+15
+题目:Kelly  ### (employ) as a teacher.
+答案:is employed|was employed
+
+16
+题目:recommend
+答案:recommend
+
+17
+题目:This hotel is highly recommended.
+答案:B. 推荐
+
+18
+题目:She was recommended _____ the post by a colleague.
+答案:A. for
+
+19
+题目:It is strongly ______ that the machines should be checked every year.
+答案:C. recommended
+
+20
+题目:
+答案:A. recommend
+
+21
+题目:I recommended ###  (meet) him first.
+答案:meeting
+
+22
+题目:强烈推荐这家酒店。
+答案:This hotel is highly recommended.
+
+23
+题目:inform
+答案:inform
+
+24
+题目:We would like to inform all passengers that the restaurant car is now open.
+答案:B. 通知
+
+25
+题目:Bees fly in circles to inform their partners ### food or danger.（填入一个合适的介词）
+答案:about|of
+
+26
+题目:promote
+答案:promote
+
+27
+题目:promote international cooperation
+答案:A. 促进
+
+28
+题目:What is the advertisement promoting?
+答案:B. 推销
+
+29
+题目:He has been promoted ______ general manager.
+答案:C. to
+
+30
+题目:require
+答案:require
+
+31
+题目:Our classroom requires ________. 
+答案:A. to be cleaned
+
+32
+题目:Being public figures, leaders are required _______ strong and capable.
+答案:C. to appear
+
+33
+题目:The new task requires hard efforts _______ us.
+答案:A. of
+
+34
+题目:
+答案:B. require
+
+35
+题目:It is certain that he will  ### (移交) his business to his son when he gets old.
+答案:hand over
+
+36
+题目:We interviewed ten people for the job.
+答案:C. 面试
+
+37
+题目:His secretary will have to take on most of his work while he's gone.
+答案:B. 承担
+
+38
+题目:Some insects ______ the color of their surroundings to protect themselves.
+答案:B. take on
+
+39
+题目:Some insects  ### (呈现) the color of their surroundings to protect themselves.
+答案:take on
+
+40
+题目:    Jimmy is an automotive mechanic, but he lost his job a few months ago. He has a good heart, but always feared applying for a new job. 
+    One day, he gathered up all his strength and decided to attend a job interview. His appointment was at 10 am and it was already 8:30. While waiting for a bus to the office where he was supposed to be interviewed, he saw an elderly man wildly kicking the tire of his car. Obviously there was something wrong with the car. Jimmy immediately went up to lend him a hand. When Jimmy finished working on the car, the old man asked him how much he should pay for the service. Jimmy said there was no need to pay him; he just helped someone in need, and he had to rush for an interview. Then the old man said, “Well, I could take you to the office for your interview. It's the least I could do. Please. I insist.” Jimmy agreed. 
+    Upon arrival, Jimmy found a long line of applicants waiting to be interviewed. Jimmy still had some grease (油垢) on him after the car repair, but he did not have much time to wash it off or have a change of shirt. One by one, the applicants left the interviewer's office with disappointed looks on their faces. Finally his name was called. The interviewer was sitting on a large chair facing the office window. Rocking the chair back and forth, he asked, “Do you really need to be interviewed?” Jimmy's heart sank. “With the way I look now, how could I possibly pass this interview?” he thought to himself. 
+    Then the interviewer turned the chair and to Jimmy's surprise, it was the old man he helped earlier in the morning. It turned out he was the General Manager of the company. 
+  “Sorry I had to keep you waiting, but I was pretty sure I made the right decision to have you as part of our workforce before you even stepped into the office. I just know you'd be a trustworthy worker. Congratulations!” Jimmy sat down and they shared a cup of well-deserved coffee as he landed himself a new job.
+答案:
+

@@ -1,0 +1,202 @@
+1
+题目:solve
+答案:solve
+
+2
+题目:
+答案:B. solve
+
+3
+题目:spot
+答案:spot
+
+4
+题目:
+答案:A. spot
+
+5
+题目:stare
+答案:stare
+
+6
+题目:
+答案:B. stare
+
+7
+题目:She ### (盯着) the painting, wondering where she had seen it.
+答案:stared at
+
+8
+题目:statement
+答案:statement
+
+9
+题目:an official statement
+答案:B. 正式声明
+
+10
+题目:A government spokesperson ______ a statement to the press.
+答案:A. made
+
+11
+题目:state_
+答案:state,ment
+
+12
+题目:A government spokesperson ###   (发表了一份声明) to the press.
+答案:made a statement|issued a statement
+
+13
+题目:I have straight white teeth.
+答案:B. 整齐的
+
+14
+题目:straight
+答案:straight
+
+15
+题目:The soldiers ###   (笔直地站着).
+答案:stood straight|stand straight
+
+16
+题目:He ###   (得全优成绩) through hard work.
+答案:earned straight A's|got straight A's
+
+17
+题目:strength
+答案:strength
+
+18
+题目:Practising Chinese kung fu can not only build up one's ______, but also develop one's character.
+答案:A. strength
+
+19
+题目:Political power depends upon economical strength.
+答案:B. 实力
+
+20
+题目:Each of us has our own strengths and weaknesses.
+答案:C. 优点
+
+21
+题目:练中国功夫不但能强身健体，还能培养一个人的性格。
+答案:Practising Chinese kung fu can not only build up one's strength, but also develop one's character.
+
+22
+题目:struggle
+答案:struggle
+
+23
+题目:He has been struggling with illness for years.
+答案:B. 斗争
+
+24
+题目:Dina, having ______ for months to find a job as a waitress, finally took a position at a local advertising agency.
+答案:C. struggled
+
+25
+题目:In the war, American people struggled ### independence.（填入一个合适的介词）
+答案:for
+
+26
+题目:He has been struggling ### illness for years.（填入一个合适的介词）
+答案:with|against
+
+27
+题目:The room was so noisy that he had to struggle ###   (hear) when he spoke to others.
+答案:to be heard
+
+28
+题目:让他理解对她来说真是件难事。
+答案:It was a struggle for her to make him understand.
+
+29
+题目:style
+答案:style
+
+30
+题目:I don't hold big parties — it's not my _____.
+答案:A. style
+
+31
+题目:
+答案:A. style
+
+32
+题目:Long skirts are back ### (流行).
+答案:in style|in fashion
+
+33
+题目:various
+答案:various
+
+34
+题目:We may have ______ ways to deal with such a situation. 
+答案:B. various
+
+35
+题目:
+答案:B. various
+
+36
+题目:vari_
+答案:vari,ous
+
+37
+题目:There are ###   (vary) kinds of theme parks in America.
+答案:various
+
+38
+题目:也许我们有各种各样的方法来应对这一情况。
+答案:We may have various ways to deal with such a situation.
+
+39
+题目:view
+答案:view
+
+40
+题目:These mountains are a splendid sight when viewed ______ the valley floor.
+答案:C. from
+
+41
+题目:
+答案:C. view
+
+42
+题目:These mountains are a splendid sight when ###   (view) from the valley floor.
+答案:viewed
+
+43
+题目:We view film ### a type of contemporary art.（填入一个合适的介词）
+答案:as
+
+44
+题目: ###  (鉴于) the weather, the event will be held indoors.(view)
+答案:In view of
+
+45
+题目:There was usually nobody ###   (在视野中) except some sheep in the grassland.
+答案:in view|in sight
+
+46
+题目:The lake ###   (进入视野) as we turned the corner.
+答案:came into view|came into sight
+
+47
+题目:爬山时，我们沐浴着温暖的阳光，欣赏着美丽的风景。
+答案:While climbing the mountain, we enjoyed the warm sunshine and a beautiful view.
+
+48
+题目:7-05t8.aac
+答案:
+
+49
+题目:      Bethany Hamilton is from Hawaii. When she was just 13 years old, she and her friend were surfing in the ocean.
+      While they were surfing, a shark attacked Hamilton. In the attack, Hamilton lost her left arm.
+Hamilton was rushed to the hospital. When she got to the hospital, she had already lost more than half of her blood. She almost died, but doctors saved her life.
+      Hamilton loved surfing, and she didn't want to stop. Of course, now it was much harder for her, because she only had one arm. First, she got a special surfboard. This board was thicker, and it was easier to control. Then, she started to exercise her legs. She needed stronger legs because she had to kick more to push the board through the water. Finally, she learned how to surf with only one arm. Less than one month after Hamilton lost her arm, she was surfing again.
+      Today, Hamilton is a professional surfer. She surfs in competitions around the world. She has been in competitions in the USA, Brazil, and Australia. In total, she has won four major competitions. She no longer needs a special surfboard. She uses the same kind of surfboard that everyone else uses.
+      Hamilton uses her experience to teach people to never give up. She wrote a book about the shark attack and her difficulties. She also goes on television shows and talks about her experiences. In 2011, there was even a movie about her life. She has also won several awards for her courage.
+      Hamilton says that helping people has been a wonderful experience for her. She says that she has learned a lotabout life, love, and being strong. However, although so many things have happened to her, she says she is still just a surfer.
+答案:
+

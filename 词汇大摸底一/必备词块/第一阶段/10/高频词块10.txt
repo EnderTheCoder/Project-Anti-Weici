@@ -1,0 +1,312 @@
+1
+题目:take the stranger in
+答案:B. 收留了陌生人
+
+2
+题目:take up room
+答案:A. 占用空间
+
+3
+题目:tend to
+答案:A. 趋向于
+
+4
+题目:tend to do sth
+答案:B. 往往会做某事
+
+5
+题目:in terms of
+答案:C. 就……而言
+
+6
+题目:have second thoughts
+答案:C. 改变主意
+
+7
+题目:at a time
+答案:B. 一次；一时
+
+8
+题目:at times
+答案:B. 有时；间或
+
+9
+题目:for the time being
+答案:A. 暂时；眼下
+
+10
+题目:in no time
+答案:C. 立即；马上
+
+11
+题目:keep track of
+答案:C. 了解……的动态
+
+12
+题目:trial and error
+答案:A. 反复试验
+
+13
+题目:try out for
+答案:B. 参加……选拔
+
+14
+题目:turn over
+答案:A. 翻身
+
+15
+题目:turn to sb
+答案:A. 求助于某人
+
+16
+题目:take a turn for the better
+答案:B. 好转
+
+17
+题目:a variety of
+答案:C. 各种各样的
+
+18
+题目:give way to
+答案:A. 屈服于
+
+19
+题目:in sb’s way
+答案:B. 挡某人的道
+
+20
+题目:no way
+答案:B. 不可能
+
+21
+题目:work out
+答案:A. 锻炼
+
+22
+题目:sort of
+答案:A. 有点儿
+
+23
+题目:根据所给汉语写出词块。
+
+迟早
+
+###
+答案:sooner or later
+
+24
+题目:根据所给汉语写出词块。
+
+不惜工本；全力以赴
+
+###
+答案:spare no expense|spare no effort
+
+25
+题目:根据所给汉语写出词块。
+
+代表；象征
+
+###
+答案:stand for
+
+26
+题目:根据所给汉语写出词块。
+
+处于危险
+
+###
+答案:in danger
+
+27
+题目:根据所给汉语写出词块。
+
+追溯到；远在……年代
+
+###
+答案:date back to|date from
+
+28
+题目:根据所给汉语写出词块。
+
+天天；夜以继日
+
+###
+答案:day in and day out|day in, day out|day after day
+
+29
+题目:根据所给汉语写出词块。
+
+处理问题
+
+###
+答案:deal with a problem|do with a problem|dispose of a problem
+
+30
+题目:根据所给汉语写出词块。
+
+遭受
+
+###
+答案:suffer from
+
+31
+题目:根据所给汉语写出词块。
+
+发表演讲
+
+###
+答案:deliver a speech|give a speech|make a speech
+
+32
+题目:根据所给汉语写出词块。
+
+依靠
+
+###
+答案:depend on|depend upon|rely on|rely upon|count on
+
+33
+题目:根据所给汉语写出词块。
+
+详细地
+
+###
+答案:in detail
+
+34
+题目:根据所给汉语写出词块。
+
+献身于；致力于
+
+###
+答案:devote oneself to|dedicate oneself to
+
+35
+题目:根据所给汉语写出词块。
+
+灭绝；死光；消失
+
+###
+答案:die out
+
+36
+题目:根据所给汉语写出词块。
+
+理论上
+
+###
+答案:in theory
+
+37
+题目:根据所给汉语写出词块。
+
+及时
+
+###
+答案:in time
+
+38
+题目:根据所给汉语写出词块。
+
+按时
+
+###
+答案:on time
+
+39
+题目:根据所给汉语写出词块。
+
+捉弄
+
+###
+答案:play a trick on|play a joke on|play tricks on|play jokes on
+
+40
+题目:根据所给汉语写出词块。
+
+讲实话
+
+###
+答案:tell the truth
+
+41
+题目:根据所给汉语写出词块。
+
+试穿
+
+###
+答案:try on
+
+42
+题目:根据所给汉语写出词块。
+
+关小；调低
+
+###
+答案:turn down
+
+43
+题目:根据所给汉语写出词块。
+
+反过来；转而
+
+###
+答案:in turn
+
+44
+题目:根据所给汉语写出词块。
+
+由你决定
+
+###
+答案:be up to you
+
+45
+题目:根据所给汉语写出词块。
+
+达到；最多有
+
+###
+答案:up to
+
+46
+题目:根据所给汉语写出词块。
+
+徒劳；白辛苦
+
+###
+答案:in vain
+
+47
+题目:根据所给汉语写出词块。
+
+优点和缺点
+
+###
+答案:strengths and weaknesses
+
+48
+题目:根据所给汉语写出词块。
+
+穿破；磨损
+
+###
+答案:wear out
+
+49
+题目:根据所给汉语写出词块。
+
+与……一样好
+
+###
+答案:as well as
+
+50
+题目:根据所给汉语写出词块。
+
+换句话说
+
+###
+答案:in other words
+

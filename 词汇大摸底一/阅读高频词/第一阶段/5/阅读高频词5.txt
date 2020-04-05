@@ -1,0 +1,200 @@
+1
+题目:fossil
+答案:B. 化石；老顽固
+
+2
+题目:found
+答案:A. 创办；创建
+
+3
+题目:frequent
+答案:C. 频繁的；经常的；常见的
+
+4
+题目:frequently
+答案:B. 频繁地；经常地
+
+5
+题目:fresh
+答案:C. 新的；新鲜的；鲜艳的
+
+6
+题目:function
+答案:B. 功能；机能
+
+7
+题目:gallery
+答案:A. 画廊；美术陈列室
+
+8
+题目:general
+答案:C. 全体的；总的
+
+9
+题目:generation
+答案:A. 代；世代
+
+10
+题目:genetic
+答案:A. 基因的；遗传学的
+
+11
+题目:genius
+答案:B. 天才；天赋
+
+12
+题目:grateful
+答案:C. 感激的；感谢的
+
+13
+题目:gravity
+答案:C. 重力；地心引力
+
+14
+题目:guarantee
+答案:C. 保证
+
+15
+题目:guidance
+答案:C. 指导；引导
+
+16
+题目:guilty
+答案:B. 内疚的；惭愧的
+
+17
+题目:habitat
+答案:B. （动物）栖息地；（植物）生长地
+
+18
+题目:handle
+答案:A. 处理；应付
+
+19
+题目:happening
+答案:C. 偶然发生的事
+
+20
+题目:harmful
+答案:B. 有害的
+
+21
+题目:heavily
+答案:C. 重重地；沉重地
+
+22
+题目:hesitate
+答案:C. 踌躇；犹豫
+
+23
+题目:historic
+答案:C. 历史上著名的；有历史意义的
+
+24
+题目:historical
+答案:A. 历史上的；有关历史的
+
+25
+题目:household
+答案:B. 一家人；家庭
+
+26
+题目:ideal
+答案:A. 理想的；完美的
+
+27
+题目:identify
+答案:A. 认出；识别
+
+28
+题目:ignore
+答案:C. 不理会；忽视
+
+29
+题目:impact
+答案:A. 撞击（力）；冲击（力）
+
+30
+题目:increasingly
+答案:B. 渐增地
+
+31
+题目:indicate
+答案:C. 指示；指出
+
+32
+题目:individual
+答案:A. 单独的；个人的
+
+33
+题目:infect
+答案:A. 传染；染上
+
+34
+题目:instance
+答案:B. 例子；事例
+
+35
+题目:institute
+答案:B. 学院
+
+36
+题目:instruction
+答案:B. 教授；指导
+
+37
+题目:intelligence
+答案:C. 聪明；智力
+
+38
+题目:intelligent
+答案:A. 聪明的；有才智的
+
+39
+题目:invest
+答案:C. 投资；投入
+
+40
+题目:investment
+答案:C. 投资额；投资物
+
+41
+题目:involve
+答案:A. 包含；需要
+
+42
+题目:issue
+答案:C. 议题；争论的问题
+
+43
+题目:item
+答案:B. 项目；细目
+
+44
+题目:journal
+答案:C. 日报；杂志；期刊
+
+45
+题目:labour
+答案:C. 体力劳动
+
+46
+题目:landscape
+答案:A. 风景；风景画
+
+47
+题目:launch
+答案:B. 使（船）下水；发射
+
+48
+题目:leading
+答案:B. 最好的；最重要的
+
+49
+题目:licence
+答案:C. 执照；许可证
+
+50
+题目:lightly
+答案:A. 轻轻地；轻微地
+

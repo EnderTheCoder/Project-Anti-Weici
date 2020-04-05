@@ -1,0 +1,50 @@
+1
+题目:        Teenagers have long been told that being active and taking part in sports is good for their health. But new research suggests that too much sport for teenagers could negatively affect their well-being just as much as too little sport.        The US Department of Health and Human Services suggests that young people aged between 6 and 17 carry out at least 60 minutes of physical activity a day, 7 hours a week. But researchers from Switzerland say their study suggests that 14 hours of physical activity a week is best for promoting good health in teenagers. However, they found that more than 14 hours appears to be detrimental to their health. To reach their findings, the researchers surveyed more than 1,245 teenagers aged between 16 and 20 from Switzerland.        All participants were required to answer questions regarding height and weight, sports practice, sports injuries and well-being. Their well-being was assessed using the World Health Organization (WHO) Well-Being Index, which provides scores between 0 and 25. Of the participants, 50.4% were male with a mean age of 17.95 years. Almost 9% of these males were overweight. The overall average well-being score for all participants was 17.        The researchers divided sports participation into low (0-3.5 hours a week), average (3.6-10.5 hours), high (10.6-17.5 hours), and very high (more than 17.5 hours). The researchers found that participants in the low and very high activity groups were more than twice as likely to have well-being scores below 13, compared with participants in the average group. The researchers found that the highest well-being scores were gotten by participants who carried out around 14 hours of physical activity a week, but beyond 14 hours resulted in lower well-being scores.        Commenting on their findings, the researchers say physical activity has been associated with positive emotional well-being, reduced sadness, anxiety and stress disorders, and improved self-esteem (自尊) in teenagers.        The researchers note that their study emphasizes (强调) the importance for physicians caring for teenagers to check their level of sports practice and ask them about their well-being. Teenagers probably need a supportive and closer follow-up of their health and well-being. The findings can inform guideline groups who produce recommendations (提议) on sports practice for teenagers.
+答案:
+
+2
+题目:participant
+答案:participant
+
+3
+题目:平均的
+答案:B. mean
+
+4
+题目:考察句子中单词的意思。
+
+Researchers from Switzerland say their study suggests that 14 hours of physical activity a week is best for promoting good health in teenagers.
+答案:B. 促进
+
+5
+题目:考察句子中单词的意思。
+
+The US Department of Health and Human Services suggests that young people aged between 6 and 17 carry out at least 60 minutes of physical activity a day.
+答案:B. 完成
+
+6
+题目:选出能替换凸显部分的单词或短语。
+
+However, they found that more than 14 hours appears to be detrimental to their health.
+答案:B. seems
+
+7
+题目:_order
+答案:dis,order
+
+8
+题目:emotion_
+答案:emotion,al
+
+9
+题目:在空白处填入括号内单词的正确形式。
+
+The researchers note that their study emphasizes the ### (important) for physicians caring for teenagers to check their level of sports practice and ask them about their well-being.
+答案:importance
+
+10
+题目:根据所给汉语，完成下列句子。
+
+Teenagers have long been told that being active and taking part in sports ### (对他们的健康有好处).
+答案:is good for their health
+

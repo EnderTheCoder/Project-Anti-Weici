@@ -1,0 +1,216 @@
+1
+题目:allow
+答案:allow
+
+2
+题目:improve
+答案:improve
+
+3
+题目:accept
+答案:accept
+
+4
+题目:I wonder ______ you can help me.
+答案:B. if
+
+5
+题目:It is also a good idea to ________ something as soon as you learn it.
+答案:B. apply
+
+6
+题目:We would appreciate you ______ us know of any problem.
+答案:A. letting
+
+7
+题目:argue
+答案:argue
+
+8
+题目:
+答案:A. arrange
+
+9
+题目:
+答案:B. attach
+
+10
+题目:Please pay attention because this information concerns all of you.
+答案:C. 涉及
+
+11
+题目:The guide conducted us around the West Lake.
+答案:C. 带领
+
+12
+题目:
+答案:A. conduct
+
+13
+题目:deserve
+答案:deserve
+
+14
+题目:The roof is held up by wood.
+答案:C. 支撑
+
+15
+题目:insist
+答案:insist
+
+16
+题目:Having seen the X-ray, the doctor decided to operate ______ the patient.
+答案:C. on
+
+17
+题目:permit
+答案:permit
+
+18
+题目:解决争论
+答案:C. settle an argument
+
+19
+题目:Alcohol contributes to 100, 000 deaths a year in the US.
+答案:B. 造成
+
+20
+题目:If you have nothing to declare, go through the Green Channel.
+答案:A. 申报
+
+21
+题目:It makes sense to work on the problem before it gets out of control.
+答案:A. 合乎情理
+
+22
+题目:Please send him the urgent information without delay.
+答案:B. 马上
+
+23
+题目:The World Health Organization gave a warning to the public without any ______ when the virus of H1N1 hit Mexico in April, 2009.
+答案:B. delay
+
+24
+题目:balance
+答案:balance
+
+25
+题目:a demanding boss
+答案:A. 苛刻的
+
+26
+题目:The young man made a promise ______ his parents that he would try to earn his own living after graduation.
+答案:C. to
+
+27
+题目:promise
+答案:promise
+
+28
+题目:I am writing to apply ________ the post of volunteer for our school English association.
+答案:A. for
+
+29
+题目:I really appreciate ________ with someone who does such a good job.
+答案:C. working
+
+30
+题目:To avoid ________ the last train, please check the last train times posted in stations.
+答案:C. missing
+
+31
+题目:Neighbors should do all they can to avoid ________ other people.
+答案:C. disturbing
+
+32
+题目:under debate
+答案:C. 在讨论中
+
+33
+题目:She's not happy with the decision and plans to appeal.
+答案:C. 上诉
+
+34
+题目:We tend to have a better memory for things that excite our senses or ______ our emotions than for straight facts.
+答案:B. appeal to
+
+35
+题目:He delayed ______ her the news, waiting for the right moment.
+答案:A. telling
+
+36
+题目:Don't let your mind wander!
+答案:C. 别走神！
+
+37
+题目:— How is Tom now?
+— I hear the company ______ him a good job, but he refused it.
+答案:C. offered
+
+38
+题目:We compared the brave man ______ a lion.
+答案:B. to
+
+39
+题目:The new drugs ____ hope of better health and longer life.
+答案:A. hold out
+
+40
+题目:Depend upon it, we shall solve the problem at last.
+答案:A. 相信
+
+41
+题目:We depend on him ______ the job this weekend.
+答案:C. finishing
+
+42
+题目:hold one's breath
+答案:A. 屏住呼吸
+
+43
+题目:
+答案:A. concern
+
+44
+题目:
+答案:C. offer
+
+45
+题目:g3d10d11tst6_AAC.aac
+答案:
+
+46
+题目:        We have all heard how time is more valuable than money, but is it  ### to have too much time?
+        I  ### back in high school I spent most of my day at school since I also  ### a team sport. By the time I got home, I only had a few hours to do my homework, and I had to do it  ### .
+      When I got into college, things  ### . I suddenly found myself out of class before noon time. Because of all this  ### time, there was no sense of  ### to do my school work immediately. I was performing this action of waiting until it later became a  ### . Once that happened, I just kept  ### my studying further and further back in my day. Then I got to the point where I was  ### really late at night to get my work done.
+      One day I  ### a former classmate of mine who was  ### a lot of money running a sideline (副业). Since his regular job was  ### , I asked him why he just didn't do his sideline full-time. He said without the job, he would  ### have too much time and would just do what I did back in  ### . He said that if he  ### the job, he would lose his  ### to work and succeed.
+        So, try  ### your time with other work. This is why there is a  ### that if you want something done, ask a  ### person to do it.
+答案:
+
+47
+题目:落汤鸡
+答案:B. a drowned rat
+
+48
+题目:a personal remark
+答案:A. 人身攻击
+
+49
+题目:猜电影名翻译。
+Fast and Furious
+答案:C. 《速度与激情》
+
+50
+题目:根据名著片段猜作品出处。
+It was the best of times, it was the worst of times; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity.
+答案:A. A Tale of Two Cities《双城记》
+
+51
+题目:He took the money from me ### (用武力).(force)
+答案:by force
+
+52
+题目:名人名言。
+Genius is one percent inspiration and ninety-nine percent perspiration.
+答案:A. 爱迪生
+

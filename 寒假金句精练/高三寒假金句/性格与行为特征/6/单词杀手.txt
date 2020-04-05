@@ -1,0 +1,196 @@
+16
+题目:strict
+答案:strict
+
+17
+题目:strict
+答案:C. 严格的
+
+18
+题目:严格的
+答案:B. strict
+
+19
+题目:
+答案:C. strict
+
+20
+题目:stubborn
+答案:stubborn
+
+21
+题目:stubborn
+答案:C. 倔强的；顽强的
+
+22
+题目:倔强的；顽强的
+答案:C. stubborn
+
+23
+题目:sensible
+答案:sensible
+
+24
+题目:sensible
+答案:A. 明智的；合理的
+
+25
+题目:明智的；合理的
+答案:A. sensible
+
+26
+题目:sensitive
+答案:sensitive
+
+27
+题目:sensitive
+答案:B. 善解人意的；敏感的
+
+28
+题目:善解人意的；敏感的
+答案:B. sensitive
+
+29
+题目:ambitious
+答案:ambitious
+
+30
+题目:ambitious
+答案:A. 有雄心的；有野心的
+
+31
+题目:有雄心的；有野心的
+答案:A. ambitious
+
+32
+题目:ability
+答案:ability
+
+33
+题目:ability
+答案:B. 能力；才能
+
+34
+题目:能力；才能
+答案:A. ability
+
+35
+题目:
+答案:A. ability
+
+36
+题目:bright
+答案:bright
+
+37
+题目:bright
+答案:B. 明亮的；鲜亮的
+
+38
+题目:明亮的；鲜亮的
+答案:A. bright
+
+39
+题目:brilliant
+答案:brilliant
+
+40
+题目:brilliant
+答案:B. 光辉灿烂的
+
+41
+题目:光辉灿烂的
+答案:B. brilliant
+
+42
+题目:gifted
+答案:gifted
+
+43
+题目:gifted
+答案:C. 有天赋的
+
+44
+题目:有天赋的
+答案:C. gifted
+
+45
+题目:gift_
+答案:gift,ed
+
+46
+题目:intellectual
+答案:intellectual
+
+47
+题目:intellectual
+答案:C. 智力的；脑力的
+
+48
+题目:智力的；脑力的
+答案:B. intellectual
+
+49
+题目:intelligence
+答案:intelligence
+
+50
+题目:intelligence
+答案:B. 聪明；智力
+
+51
+题目:聪明；智力
+答案:B. intelligence
+
+52
+题目:intelligent
+答案:intelligent
+
+53
+题目:intelligent
+答案:C. 聪明的；有才智的
+
+54
+题目:聪明的；有才智的
+答案:C. intelligent
+
+55
+题目:dull
+答案:dull
+
+56
+题目:dull
+答案:B. 枯燥无味的；迟钝的
+
+57
+题目:枯燥无味的；迟钝的
+答案:A. dull
+
+58
+题目:dumb
+答案:dumb
+
+59
+题目:dumb
+答案:C. 哑的；笨的
+
+60
+题目:哑的；笨的
+答案:C. dumb
+
+61
+题目:foolish
+答案:foolish
+
+62
+题目:foolish
+答案:C. 愚蠢的
+
+63
+题目:愚蠢的
+答案:C. foolish
+
+64
+题目:fool_
+答案:fool,ish
+

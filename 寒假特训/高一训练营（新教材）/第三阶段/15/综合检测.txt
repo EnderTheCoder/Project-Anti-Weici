@@ -1,0 +1,164 @@
+1
+题目:根据视频，选出句中突显部分的精准汉语释义
+Kato was a character from "The Pink Panther".
+答案:B. 角色
+
+2
+题目:【习语】选择句中突显词的正确释义
+Although technology has changed the way we acquire friends and the meaning of friendship, we shouldn't throw the baby out with the bathwater.
+答案:C. 不分良莠一起抛弃
+
+3
+题目:选出所给单词的正确发音
+personality
+		
+答案:C. [ˌpɜrsə'næləti]
+
+4
+题目:Thank you in advance.
+答案:C. 先行致谢
+
+5
+题目:Name three advances ______ science and technology at this time.
+答案:C. in
+
+6
+题目:The competition has two levels, the beginners and the advanced.
+答案:C. 高级的
+
+7
+题目:We are willing to advance the money to you.
+答案:C. 预支
+
+8
+题目:He suffered a heart attack.
+答案:B. 发作
+
+9
+题目:When a plant is under ______, it sends out certain chemicals.
+答案:C. attack
+
+10
+题目:an air attack
+答案:C. 空袭
+
+11
+题目:It is wrong to cheat in examinations.
+答案:B. 作弊
+
+12
+题目:People making friends online are afraid of getting cheated.
+答案:C. 欺骗
+
+13
+题目:He cheated the old woman ______ her money.
+答案:B. of
+
+14
+题目:I'll put a 300-dollar credit on your account.
+答案:B. 存款额
+
+15
+题目:They never give me any credit ______ all the extra work I do.
+答案:A. for
+
+16
+题目:She puts her time and effort ______ her businesses, and ______ helping others.
+答案:A. into; into
+
+17
+题目:I couldn't ______ what I had done to annoy my boss.
+答案:B. figure out
+
+18
+题目:The figure is now approaching 74 million.  
+答案:C. 数字
+
+19
+题目:旅游要花多少费用你算出来没有？
+答案:Have you figured out how much the trip will cost?
+
+20
+题目:
+答案:A. inspire
+
+21
+题目:Her trust in me has inspired me _______ things that I never imagined possible.
+答案:A. to do
+
+22
+题目:This piece of music was inspired by dolphin sounds.
+答案:C. 启发
+
+23
+题目:hold an opinion
+答案:C. 持有看法
+
+24
+题目:get a lawyer's opinion ________ the question
+答案:B. on
+
+25
+题目:Just give me a chance and I'll prove it ______ you.
+答案:A. to
+
+26
+题目:He proved an honest friend.
+答案:B. 证明是
+
+27
+题目:He removed a notice ______ the door.
+答案:C. from
+
+28
+题目:remove a man from office
+答案:B. 把……免职
+
+29
+题目:At the railway station, the mother waved goodbye to her daughter until the train was ______.
+答案:B. out of sight
+
+30
+题目:Yesterday, I ### (看见) my English teacher in the crowd. (sight)
+答案:caught sight of
+
+31
+题目:When Shaw  ### (失明), his wife suggested he apply for a guide dog. (sight)
+答案:lost his sight
+
+32
+题目:She was very upset ______  that the holiday had been cancelled.
+答案:C. to hear
+
+33
+题目:This decision is likely to upset a lot of people.
+答案:A. 使生气
+
+34
+题目:The life boat was upset by the waves.
+答案:B. 打翻
+
+35
+题目:advance
+答案:advance
+
+36
+题目:cheat
+答案:cheat
+
+37
+题目:inspire
+答案:inspire
+
+38
+题目:opinion
+答案:opinion
+
+39
+题目:        The winter holiday is over. It is time to think of the new school term. And while some are eager to meet their friends to tell them about all their winter adventures, others are more worried about the new term. Here are some tips for a smooth school term start that will help you beat the stress and organize your study environment.Reconnecting with a healthy lifestyle        During holidays, you often sleep late and eat a little of what you wanted at any time. The first thing to do is to help yourself make a smooth start and not to wait until the last day to find a healthy lifestyle. You should get used to having regular and reasonable hours of sleep and to eating healthy food. This of course needs several days of “rehabilitation” (恢复). The ideal thing is to start reconnecting with a healthy lifestyle one week before school starts.Developing dialogue        If you feel anxious of the new term, it is very important to talk to your parents about your fears. They will surely find a way to help you get over your fears and gain confidence. They will certainly show you that they believe in your abilities, and will be willing to help you. It is also important that you develop self confidence and believe in your own potential.Beat stress        If you are overly anxious about performance, work through your negative (负面的) beliefs, especially the beliefs about the effect of school failure. Challenge your negative thoughts that your worth as a person depends entirely on your grades. Good performance will be achieved only when you beat your fears and discover your own personal worth.Set goals        Enjoy setting goals for yourself, so you can overcome your weaknesses and reach your full potential. Your study goals must be realistic and achievable. For example, start with small steps to reach higher targets.
+答案:
+
+40
+题目:His words ###   (消除了我的疑虑) at last. (remove)
+答案:removed my doubts|remove my doubt
+

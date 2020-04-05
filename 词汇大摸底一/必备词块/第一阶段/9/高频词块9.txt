@@ -1,0 +1,300 @@
+1
+题目:within walking distance
+答案:C. 在步行的距离内
+
+2
+题目:no doubt
+答案:A. 无疑；很可能
+
+3
+题目:dozens of 
+答案:B. 很多
+
+4
+题目:dress up
+答案:C. 穿上盛装
+
+5
+题目:drop out (of)
+答案:A. 不参与；退学
+
+6
+题目:due to
+答案:B. 由于；因为
+
+7
+题目:do one’s duty
+答案:A. 尽自己的责任
+
+8
+题目:be all ears
+答案:B. 洗耳恭听
+
+9
+题目:at ease
+答案:C. 放松；舒适；自在
+
+10
+题目:eat up
+答案:B. 吃完；耗尽
+
+11
+题目:put emphasis on
+答案:A. 强调
+
+12
+题目:come to an end
+答案:B. 告终；结束；完结
+
+13
+题目:make (both) ends meet
+答案:C. 使收支相抵；量入为出
+
+14
+题目:end up
+答案:A. 最终处于
+
+15
+题目:every now and then
+答案:B. 不时地；偶尔
+
+16
+题目:even / much / still less
+答案:B. 更不用说
+
+17
+题目:let alone
+答案:C. 更不用说
+
+18
+题目:let out
+答案:B. 发出（叫声等）；泄露
+
+19
+题目:lose one’s life
+答案:C. 丧生
+
+20
+题目:all one’s life
+答案:C. 终生；一辈子
+
+21
+题目:bring … to life
+答案:B. 使……苏醒过来；使更生动
+
+22
+题目:lift one’s spirits
+答案:A. 开心起来
+
+23
+题目:throw / cast light on / upon
+答案:C. 阐明；使人了解
+
+24
+题目:line up
+答案:A.（使）排成行
+
+25
+题目:a load of
+答案:C. 很多
+
+26
+题目:根据所给汉语写出词块。
+
+提醒某人某事；使某人想起某事
+
+###
+答案:remind sb of sth|remind sb about sth
+
+27
+题目:根据所给汉语写出词块。
+
+用A替换B
+
+###
+答案:replace B by A|replace B with A
+
+28
+题目:根据所给汉语写出词块。
+
+满足要求
+
+###
+答案:meet a requirement|satisfy a requirement
+
+29
+题目:根据所给汉语写出词块。
+
+对你自己负责
+
+###
+答案:be responsible for yourself
+
+30
+题目:根据所给汉语写出词块。
+
+作为 (……的）交换; 作为(……的）回报
+
+###
+答案:in return for
+
+31
+题目:根据所给汉语写出词块。
+
+摆脱；除去
+
+###
+答案:be rid of|get rid of
+
+32
+题目:根据所给汉语写出词块。
+
+成废墟；严重受损
+
+###
+答案:in ruins
+
+33
+题目:根据所给汉语写出词块。
+
+用完 / 耗尽时间
+
+###
+答案:run out of time|use up time
+
+34
+题目:根据所给汉语写出词块。
+
+常言道
+
+###
+答案:as the saying is|as the saying goes
+
+35
+题目:根据所给汉语写出词块。
+
+为某人送行
+
+###
+答案:see sb off
+
+36
+题目:根据所给汉语写出词块。
+
+售完
+
+###
+答案:sell out|be sold out
+
+37
+题目:根据所给汉语写出词块。
+
+讲得通；有道理；合乎情理
+
+###
+答案:make sense
+
+38
+题目:根据所给汉语写出词块。
+
+一连串的车祸
+
+###
+答案:a series of accidents
+
+39
+题目:根据所给汉语写出词块。
+
+搭帐篷
+
+###
+答案:put up a tent|set up a tent
+
+40
+题目:根据所给汉语写出词块。
+
+安顿下来；安定下来 
+
+###
+答案:settle down
+
+41
+题目:根据所给汉语写出词块。
+
+文化冲击 
+
+###
+答案:culture shock
+
+42
+题目:根据所给汉语写出词块。
+
+卖弄；炫耀 
+
+###
+答案:show off
+
+43
+题目:根据所给汉语写出词块。
+
+出席；到场 
+
+###
+答案:show up
+
+44
+题目:根据所给汉语写出词块。
+
+关闭计算机 
+
+###
+答案:shut down the computer
+
+45
+题目:根据所给汉语写出词块。
+
+住口
+
+###
+答案:shut up
+
+46
+题目:根据所给汉语写出词块。
+
+乍一看  
+
+###
+答案:at first sight|at first glance
+
+47
+题目:根据所给汉语写出词块。
+
+看不见
+
+###
+答案:lose sight of
+
+48
+题目:根据所给汉语写出词块。
+
+放慢速度
+
+###
+答案:slow down
+
+49
+题目:根据所给汉语写出词块。
+
+为了
+
+###
+答案:so as to|in order to
+
+50
+题目:根据所给汉语写出词块。
+
+为的是；结果是
+
+###
+答案:so that
+

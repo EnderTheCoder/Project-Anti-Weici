@@ -1,0 +1,40 @@
+1
+题目:        O. Henry was an American short-story writer, a master of surprise endings, who wrote about the life of ordinary people in New York City.        William Sydney Porter (O. Henry) was born in North Carolina. His father was a physician (医师). When William was three, his mother died, and he was raised by his grandmother and aunt. At the age of fifteen he left school, and then worked in a drugstore. He moved to Houston, where he had a number of jobs, including that of bank clerk. After moving to Austin, Texas, in 1882, he married.        In 1884 he started a humorous weekly The Rolling Stone. When the weekly failed, he joined The Houston Post as a reporter and columnist (专栏作家). In 1897 he was found guilty of embezzling (挪用) money, although there has been much debate over his actual guilt.        While in prison William started to write short stories to earn money to support his daughter Margaret. His first work, Whistling Dick’s Christmas Stocking (1899), appeared in McClure’s Magazine. After doing three years of the five years sentence, William came out of the prison in 1901 and changed his name to O. Henry.        O. Henry moved to New York City in 1902 and from December 1903 to January 1906 he wrote a story a week for The New York World, also publishing in other magazines. Henry’s first collection, Cabbages and Kings appeared in 1904. The second, The Four Million, was published two years later and included his well-known stories The Gift of the Magi and The Furnished Room. O. Henry published 10 collections and over 600 short stories during his lifetime.        O. Henry’s last years were shadowed by ill health and financial problems. He married Sara Lindsay Coleman in 1907, but the marriage was not happy, and they separated a year later. O. Henry died on June 5, 1910, in New York.
+答案:
+
+2
+题目:master
+答案:master
+
+3
+题目:分居
+答案:B. separate
+
+4
+题目:考察句子中单词的意思。
+
+When William was three, his mother died, and he was raised by his grandmother and aunt.
+答案:B. 抚养
+
+5
+题目:humor_
+答案:humor,ous
+
+6
+题目:O. Henry的晚年生活一直被笼罩在糟糕的健康状况和财务问题的阴影中。
+
+O. Henry’s last years ###.
+答案:were shadowed by ill health and financial problems
+
+7
+题目:在空白处填入括号内单词的正确形式。
+
+Henry’s first ### (collect), Cabbages and Kings appeared in 1904. 
+答案:collection
+
+8
+题目:根据所给汉语，完成下列句子。
+
+### (15岁时) he left school, and then worked in a drugstore.
+答案:At the age of fifteen
+

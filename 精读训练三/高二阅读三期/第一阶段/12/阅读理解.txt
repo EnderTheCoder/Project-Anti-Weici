@@ -1,0 +1,44 @@
+1
+题目:        For centuries, writers of classic literature have included fairies and other fantastical creatures in stories for both children and adults. While fairies are especially common in the folklore of Ireland and Scotland, they appear in fairy tales and stories throughout most of Europe and in legends from around the globe.        According to Encyclopedia Britannica, fairies are mythical (神话的) beings who typically have magic powers and live on Earth in close relationship with humans. Encyclopedia Britannica also says that they vary in size from three inches tall to the height of a human. In contrast, The Encyclopedia of Things That Never Were says that fairies are usually “as high as a small man’s knee.” However, they can change their size at will, shrinking to the size of an acorn (橡实) or growing to the size of a full-grown human.        According to fairy experts, there are different kinds of fairies. For instance, Shakespeare’s powerful and cheeky Titania in A Midsummer Night’s Dream is very different from J.M. Barrie’s jealous but kind Tinker Bell in Peter Pan. And some experts consider elves (小精灵), such as the house elves described by J.K. Rowling in the Harry Potter novels and those from J.R.R.Tolkien’s Lord of the Rings series, to be fairies as well.        In a variety of tales, female fairies are described with fragile wings and are considered insubstantial (脆弱的) creatures, yet male fairies are often described as heroic warriors (勇士). According to some writers, fairies are neither naturally good nor bad. Instead, like humans, they act with kindness or wickedness as a result of how they have been treated. Although their actions range from evil to helpful, fairies are often described as good-natured, festive creatures who just want to be left alone. Their greatest joy is living free in the secretive, hidden woodlands in which they have always lived.
+答案:
+
+2
+题目:century
+答案:century
+
+3
+题目:常见的
+答案:B. common
+
+4
+题目:厚脸皮的
+答案:B. cheeky
+
+5
+题目:考察句子中单词的意思。
+
+Fairies are often described as good-natured, festive creatures who just want to be left alone.
+答案:B. 本性善良的
+
+6
+题目:secret_
+答案:secret,ive
+
+7
+题目:在空白处填入括号内单词的正确形式。
+
+According to fairy experts, there are different ### (kind) of fairies.
+答案:kinds
+
+8
+题目:在空白处填入括号内单词的正确形式。
+
+Male fairies are often described as ### (hero) warriors.
+答案:heroic
+
+9
+题目:根据所给汉语，完成下列句子。
+
+They can change their size ### (任意). 
+答案:at will
+

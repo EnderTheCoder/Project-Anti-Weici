@@ -1,0 +1,53 @@
+1
+题目:        Hokusai was a Japanese artist. He created one of the most famous Japanese artworks ever made. It is called “The Great Wave”.        The title of Hokusai’s artwork is very fitting. The wave in the picture is certainly great. It appears very powerful and frightening. It towers over three boats full of fishermen. The fishermen bracethemselves for impact (冲击力). They know the wave is about to crash, and they must be prepared. The wave is extremely tall, and its front edge appears to have a number of claw-like fingers extended (伸展) and ready to attack. Far away in the background, we see a snow-covered mountain surrounded by a dark and cloudy sky. The mountain is called Mount Fuji — the highest mountain in Japan. Many people think that the wave and the mountain stand for the power of nature. Many people say that the power of nature is obvious in nearly all of Hokusai’s artwork.        People often think “The Great Wave” is a painting, but it is not. It is a print made from a carved woodblock (木刻 印版) stamp. This means that the first thing the artist did was draw a design on paper. Then he carved the design into a block of wood. Next, he covered the carved block of wood with ink. Finally, he pressed the inked block against new paper. When the artist removed the inked block of wood from the paper, ink was left transferred (转移) to the paper according to the design that he carved into the wood. This was a very complex process since it involved (包括) many different steps. Hokusai used this process to create several well-known prints, but none is as famous as “The Great Wave”.
+答案:
+
+2
+题目:obvious
+答案:obvious
+
+3
+题目:考查句子中单词的意思。
+
+The wave towers over three boats full of fishermen.
+答案:B. 高出……许多
+
+4
+题目:考查句子中单词的意思。
+
+He carved the design into a block of wood.
+答案:A. 图案
+
+5
+题目:选出能替换突显部分的单词或短语。
+
+The title of Hokusai’s artwork is very fitting.
+答案:B. appropriate
+
+6
+题目:art_
+答案:art,ist
+
+7
+题目:许多人认为海浪和山脉代表自然的力量。
+###
+答案:Many people think that the wave and the mountain stand for the power of nature.
+
+8
+题目:在空白处填入括号内单词的正确形式。
+
+This means that the first thing the artist did was ### (draw) a design on paper.
+答案:draw
+
+9
+题目:在空白处填入括号内单词的正确形式。
+
+It appears very powerful and ### (frighten). 
+答案:frightening
+
+10
+题目:根据所给汉语，完成下列句子。
+
+It is a print ### (由……制成的) a carved woodblock stamp.
+答案:made from
+

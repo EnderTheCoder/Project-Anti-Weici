@@ -1,0 +1,172 @@
+1
+题目:obvious
+答案:obvious
+
+2
+题目:persuade
+答案:persuade
+
+3
+题目:range
+答案:range
+
+4
+题目:remind
+答案:remind
+
+5
+题目:reserve
+答案:reserve
+
+6
+题目:It occurred ______ him that he had an important conference to attend the next morning.
+答案:A. to
+
+7
+题目:This machine is very easy to operate.
+答案:A. 操作
+
+8
+题目:You should try and ______ your time better.
+答案:C. organize
+
+9
+题目:a plan to ______ pollution
+答案:A. reduce
+
+10
+题目:Younger workers tend to have an advantage when applying for jobs.
+答案:C. 往往会
+
+11
+题目:Lisa, I didn't ______ you — you've had your hair cut!
+答案:C. recognize
+
+12
+题目:Turn ______ the radio so that I can hear the program.
+答案:B. up
+
+13
+题目:We didn't plan our art exhibition like that but it ______ very well.
+答案:B. worked out
+
+14
+题目:The students have been working hard on their lessons and their efforts will be rewarded ______ success in the end.
+答案:A. with
+
+15
+题目:He got well-prepared for the job interview, for he couldn't risk ______ the good opportunity.
+答案:A. losing
+
+16
+题目:An advertiser might be trying to trick customers ______ buying a product or a service.
+答案:A. into
+
+17
+题目:He photographed a wide range of street scenes.
+答案:B. 景象
+
+18
+题目:They sought ______ a place to shelter from the rain, but in vain.
+答案:B. for
+
+19
+题目:She is very sensitive ______ other people's feelings.
+答案:B. to
+
+20
+题目:I'm trying to ______ this problem, but I can't find the right solution.
+答案:B. solve
+
+21
+题目:It's rude to stare.
+答案:A. 盯
+
+22
+题目:The detective took a ______ from both witnesses.
+答案:C. statement
+
+23
+题目:If at first you don't succeed, try again.
+答案:C. 成功
+
+24
+题目:These measures are strongly ______ by environmental groups.
+答案:B. supported
+
+25
+题目:Some old customs have survived into the present.
+答案:A. 保存下来
+
+26
+题目:press_
+答案:press,ure
+
+27
+题目:real_
+答案:real,ise
+
+28
+题目:
+答案:C. regret
+
+29
+题目:_present
+答案:re,present
+
+30
+题目:
+答案:C. shock
+
+31
+题目:streng_
+答案:streng,th
+
+32
+题目:_port
+答案:trans,port
+
+33
+题目:You should ###  (perform)(履行诺言).
+答案:perform your promise
+
+34
+题目:A car ###  (停下) behind me.
+答案:pulled up
+
+35
+题目:The doctor recommended me ###  (take) a long rest.
+答案:to take
+
+36
+题目:他揭掉了门上的一张告示。
+答案:He removed a notice from the door.
+
+37
+题目:She ###   (从……被救了出来) a burning building last night. (rescue)
+答案:was rescued from
+
+38
+题目:Most of the problems ###   (settle) satisfactorily so far.
+答案:have been settled
+
+39
+题目:在我看来，玩电脑游戏浪费时间。(view)
+答案:In my view, playing computer games is a waste of time.
+
+40
+题目:一日之计在于晨。
+答案:An hour in the morning is worth two in the evening.
+
+41
+题目:9-18t8.aac
+答案:
+
+42
+题目:      How much do consumers care about the carbon footprint of the products they buy? Would they care more if the goods were labeled (贴标签) with emissions (排放物) data? Does it matter at which stage in the lifecycle of a product the carbon is emitted? Research published in the  International Journal of Environmental Policy and Decision Making offers a way to find out.
+      Study participants view a carbon footprint label as similar to labels that have appeared on some existing products.The label displays the carbon dioxide emissions related to their production, transportation, usage and disposal (处理), thus showing the buyer the likely effect on climate change of buying a particular product.
+      In the first group of studies, the research team proved that carbon emissions and a carbon emissions label would indeed play a role in consumer product decisions, although not as great a role as price. In a second set of studies, the team found that emissions related to usage were most important to consumers followed by the transportation and disposal stages. The carbon footprint of the producing process was considered less important to consumers than the other stages in the product's lifecycle because it is outside the consumer's control. That is, the participants felt they
+were less responsible for carbon emitted during producing process. Consumers value recycling a product, but the researchers found that, overall, the consumers would prefer producers to offset (补偿) carbon emissions rather than have to address the problem directly themselves.
+      Consumers are increasingly concerned with climate change problems, and already carbon labeling is appearing on some products. “We find that participants not only take the carbon label into account when making product decisions, but they want detailed information on the label,” the researchers explain. They suggest that companies should prepare for how carbon emissions labels might affect future consumer choice.
+答案:
+

@@ -1,0 +1,244 @@
+1
+题目:regret
+答案:regret
+
+2
+题目:He who will not learn when he is young will regret it when he is old.
+答案:B. 后悔
+
+3
+题目:— Robert is indeed a wise man. 
+— Oh, yes. How often I have regretted ______ his advice!
+答案:B. not taking
+
+4
+题目: He didn't regret ###   (say) what he did but felt that he could have expressed it differently.
+答案:saying|having said
+
+5
+题目:I regret ### (tell) that you didn't pass the examination.
+答案:to tell
+
+6
+题目:It's no use ###   (regret) what you have done.
+答案:regretting
+
+7
+题目:regular
+答案:regular
+
+8
+题目:regular visitors
+答案:C. 常客
+
+9
+题目:The gardeners planted the trees ______ regular intervals.
+答案:A. at
+
+10
+题目:_gular
+答案:re,gular
+
+11
+题目:He is ###   (忠实读者) of my column.
+答案:a regular reader|a loyal reader
+
+12
+题目:The equipment is checked ###   (定期地).
+答案:on a regular basis|regularly
+
+13
+题目:They are ###   (常客) of our store.
+答案:regular customers
+
+14
+题目:健康的饮食加上经常锻炼可能是健康的唯一途径。
+答案:Healthy eating along with regular exercise is probably the only way to become fit.
+
+15
+题目:release
+答案:release
+
+16
+题目:He released the bird ______ its cage.
+答案:A. from
+
+17
+题目:After the trainer was sure that the whale could look after itself, he ______ it into the sea.
+答案:C. released
+
+18
+题目:release a movie
+答案:C. 发行影片
+
+19
+题目:_lease
+答案:re,lease
+
+20
+题目:I forgot to remind him of the time for the interview.
+答案:C. 提醒
+
+21
+题目:The photo will remind me of the days when we were together.
+答案:A. 使想起
+
+22
+题目:We put up a board to remind people ______ the trees.
+答案:B. to protect
+
+23
+题目:_mind
+答案:re,mind
+
+24
+题目:I forgot to remind him ###  the time for the interview.（填入一个合适的介词）
+答案:about|of
+
+25
+题目:In our childhood, we ###   (remind) by Grandma to pay attention to our table manners.
+答案:were reminded
+
+26
+题目:我们竖起一块牌子，提醒人们保护森林。
+答案:We put up a board to remind people to protect the trees.
+
+27
+题目:这张照片将使我想起我们在一起的日子。
+答案:The photo will remind me of the days when we were together.
+
+28
+题目:remove
+答案:remove
+
+29
+题目:remove a man from office
+答案:B. 把……免职
+
+30
+题目:remove sb's fear
+答案:B. 消除
+
+31
+题目:_move
+答案:re,move
+
+32
+题目:Please ###   (脱掉鞋子) before entering the room. (remove)
+答案:remove your shoes
+
+33
+题目:His words ###   (消除了我的疑虑) at last. (remove)
+答案:removed my doubts|remove my doubt
+
+34
+题目:replace
+答案:replace
+
+35
+题目:Replace the magazines after reading.
+答案:B. 把…放回原处
+
+36
+题目:We'd be happy to replace the radio for you.
+答案:A. 更换
+
+37
+题目:_place
+答案:re,place
+
+38
+题目:We'd be happy to replace the radio ### you.（填入一个合适的介词）
+答案:for
+
+39
+题目:The factory replaced most of its workers ### robots.（填入一个合适的介词）
+答案:with
+
+40
+题目:represent
+答案:represent
+
+41
+题目:He is the ideal person to represent our class.
+答案:C. 代表
+
+42
+题目:The word “love”###  (represent) by a heart.
+答案:is represented
+
+43
+题目:Visitors are requested _______ the exhibits.
+答案:A. not to touch
+
+44
+题目:We most prefer to say yes to the ______ of someone we know and like.
+答案:B. requests
+
+45
+题目:Don't respond to any e-mails ______ personal information, no matter how official they look.
+答案:A. requesting
+
+46
+题目:request
+答案:request
+
+47
+题目:_quest
+答案:re,quest
+
+48
+题目:We request that the discussion ###   (put) off.
+答案:should be put|be put
+
+49
+题目:Don't respond to any e-mails ###   (request) personal information.
+答案:requesting
+
+50
+题目:The students were there ###   (应老师的要求).
+答案:at the teacher's request|at the request of the teacher
+
+51
+题目:used to
+答案:used to
+
+52
+题目:I'm just trying to work out how much I spend each month.
+答案:C. 算出
+
+53
+题目:The travelling expenses work out ______ 12 dollars per day each.
+答案:A. at
+
+54
+题目:We had wanted to finish our task by noon, but it didn't quite ______.
+答案:C. work out
+
+55
+题目:To work out the difficult maths problem, I have consulted Professor Russell several times.
+答案:A. 解决
+
+56
+题目:Trained exercise teachers can help you work out a training plan and keep you active.
+答案:B. 制定
+
+57
+题目:Everything worked out OK in the end.
+答案:C. 产生结果
+
+58
+题目:I go to the sports club and work out once a week.
+答案:B. 锻炼
+
+59
+题目:4-22t7.aac
+答案:
+
+60
+题目:        While attending a conference, I returned to my hotel room late one evening. The overhead light outside my door was burned out and I had ###  finding the keyhole. When I ### to open the door, I ### around the wall for a light switch. I found a plate where a switch was ### installed (安装) ... but no switch!
+        Not ### easily, I remembered ### a lamp by the bed when I deposited (存放) my luggage earlier in the day. I found the bed in the dark and then the lamp, but when I switched it on, nothing ### ! I thought that perhaps if I opened the curtains I might be able to use whatever light comes in from the ### to find another lamp. So I ### my way slowly across the room to the curtains and ... no drawstring (拉绳)! I finally stumbled (跌跌撞撞地走) around ###  I found a desk lamp which actually ### !
+        That evening I ### in a whole new way just how dark the world can be and how ### light is! But even more important than ### light is the light that shines from people — the light of ### and faith. Because, for many people, the world is a dark and ### place. For someone today just may be stumbling in discouragement or sadness or fear and in ### of some light. So let your light shine. 
+        Whatever light you ### may be a beacon (灯塔) of hope and encouragement. And if you feel that your light is ### a candle in a forest remember there isn't enough darkness in all the world to ### the light of one small candle.
+答案:
+

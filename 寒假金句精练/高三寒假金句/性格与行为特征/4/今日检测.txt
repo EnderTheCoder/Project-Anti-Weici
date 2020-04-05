@@ -1,0 +1,144 @@
+1
+题目:Could you direct me to the station?
+答案:B. 给…指路
+
+2
+题目:In my opinion, the Internet has negative effects on our lives.
+答案:A. 负面的
+
+3
+题目:People are naturally conservative and do not like change.
+答案:B. 保守的
+
+4
+题目:make a conservative estimate ______
+答案:C. at
+
+5
+题目:She was usually patient _______ her students and never made them disappointed.
+答案:A. with
+
+6
+题目:Some people choose not to eat meat because they believe that it is cruel ______  animals.
+答案:B. to eat
+
+7
+题目:I believe that the Internet has positive effects on our lives.
+答案:A. 积极的
+
+8
+题目:The doctors are pessimistic ______ his chances of recovery.
+答案:B. about
+
+9
+题目:Today, I am just as enthusiastic _________ my job as the day I first started.
+答案:C. about
+
+10
+题目:My good performance in the job interview left me ________ about my future.
+答案:C. optimistic
+
+11
+题目:I admire Helen because she is optimistic ________ life.
+答案:B. about
+
+12
+题目:She is too proud to see her own mistake.
+答案:C. 自负的
+
+13
+题目:We are very proud ______ ourselves and believe we can do more for a better world.
+答案:B. of
+
+14
+题目:In some European countries it is rude to arrive late for dinner.
+答案:B. 无礼的
+
+15
+题目:You mustn’t be ______ to teachers.
+答案:C. rude
+
+16
+题目:I prefer to deal with him ###.
+我更愿意直接跟他打交道。
+答案:direct
+
+17
+题目:The learner's attention needs to be ### to the significant features.
+需要将学习者的注意力引向那些着重点上。
+答案:directed
+
+18
+题目:Scientists have a fairly ### attitude to the theory.
+科学家对这个理论的态度是相当消极的。
+答案:negative|pessimistic
+
+19
+题目:People tend to be more aggressive when they're young and more ### as they get older.
+人们年轻的时候往往较为激进，而随着年龄的增长会变得保守起来。
+答案:conservative
+
+20
+题目:Everyone around him was trying to be ###, but you could tell they were all bored.
+他周围的每一个人都极力表现出彬彬有礼的样子，但能够看出他们都感到厌烦。
+答案:polite
+
+21
+题目:We hope this book will act as a bridge between doctor and ###.
+我们希望这本书能成为医生与患者之间沟通的桥梁。
+答案:patient
+
+22
+题目:She's very ### ### young children.
+她对幼儿特别有耐心。
+答案:patient###with
+
+23
+题目:I can't stand people who are ### ### animals.
+我无法容忍虐待动物的人。
+答案:cruel###to
+
+24
+题目:She tried to be more ### ### her new job.
+她力求对新工作更加乐观。
+答案:positive|optimistic###about
+
+25
+题目:They appeared surprisingly ### ### their chances of winning.
+他们对胜利的可能性显得出奇地悲观。
+答案:pessimistic|negative###about
+
+26
+题目:You don't sound very ### ### the idea.
+你好像对这个想法不太热情。
+答案:enthusiastic###about
+
+27
+题目:She's not very ### ### the outcome of the talks.
+她对会谈的结果不太乐观。
+答案:optimistic|positive###about
+
+28
+题目:He was ### ### himself for not giving up.
+他为自己没有放弃而骄傲。
+答案:proud###of
+
+29
+题目:The man was downright ### ### us.
+这个家伙对我们无礼至极。
+答案:rude###to
+
+30
+题目:There's no doubt that our character has a profound effect on our future. What we must remember, however, is not merely how powerful character is in influencing our fate (命运), but how powerful we are in shaping our own character and, therefore, our own fate. Character may determine our fate, but character is not determined by fate.     
+It's a common mistake to think of character as something that is fully formed and fixed very early in life. It calls to mind old proverbs like“A leopard can't change its spots” and “You can't teach an old dog new tricks.” 
+This perspective that our character is “etched in stone” is supported by a great deal of modern psychology emphasizing self-acceptance. As Popeye says, “I am what I am.” The hidden message is: Don't expect me to be more, better, or different. 
+Ultimately, these views of humanity totally under value the lifelong potential for growth that comes with the power of reflection and choice. 
+How depressing it would be to believe that we can't choose to be better, more honest, more respectful, more responsible, and more caring. None of us should give up the personal seeking to improve our character. Not because we're bad, we don't have to be sick to get better, but because we're not as good as we could be. 
+There are so many things in life we can't control, whether we're beautiful or smart, whether we had good parents or bad, whether we grew up with affirmation or negation. It's inspiring to remember that nothing but moral willpower is needed to make us better. 
+No, it isn't easy. But if we make a great effort to become more aware of the habits of heart and mind that drive our behavior, we can begin to place new emphasis on our higher values so that we become what we want our children to think we are.
+答案:
+
+31
+题目:kebiao14.aac
+答案:
+

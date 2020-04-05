@@ -1,0 +1,47 @@
+1
+题目:        It might seem like something from a science fiction movie, but scientists today are working on ways to combine certain kinds of bacteria with tiny robots. Scientists want to use these creations to improve the way we give medical treatment. They claim that drug therapy (疗法), disease diagnosis, and even surgery could be greatly aided by the use of nanobiotechnology. Nano- means “tiny”, and bio- means “life”. This tiny technology will use living organisms in combination with electronics.
+        Electronics makers already use tiny robots to build complex but very tiny circuits. Medical scientists want to use these robots to repair patients’ damaged organs or to direct medicines to affect specific cells. For example, tiny robots could be engineered to deliver chemotherapy (化疗) directly to cancer cells instead of to the entire body.
+        Existing electronics are the right size, but they lack practical use. Robots that can be built small enough to enter a person’s cells would be too tiny to move on their own. Therefore, scientists want to use tiny organisms such as bacteria to act as vehicles for the robots. The bacteria will be “driven” through the bloodstream by magnetic pulses (磁脉冲). Once the bacteria are in the correct locations, the robots will be able to do their jobs. In theory, these robots will cause less damage to the body than traditional methods of delivering medicines or performing surgeries.
+        Nanobiotechnology has yet to be put into practice, but many people already have concerns about its use. Some people worry about the ethics (道德标准) involved with controlling live organisms — and the possible side effects for their human hosts.
+答案:
+
+2
+题目:combine
+答案:combine
+
+3
+题目:complex
+答案:complex
+
+4
+题目:手段
+答案:A. vehicle
+
+5
+题目:考查句子中单词的意思。
+
+Many people already have concerns about its use.
+答案:B. 担忧
+
+6
+题目:考查句子中单词的意思。
+
+In theory, these robots will cause less damage to the body than traditional methods of delivering medicines or performing surgeries.
+答案:B. 做
+
+7
+题目:考查句子中单词的意思。
+
+Scientists want to use tiny organisms such as bacteria to act as vehicles for the robots.
+答案:B. 充当
+
+8
+题目:考查句子中单词的意思。
+
+Some people worry about the ethics involved with controlling live organisms — and the possible side effects for their human hosts.
+答案:B. 副作用
+
+9
+题目:treat_
+答案:treat,ment
+

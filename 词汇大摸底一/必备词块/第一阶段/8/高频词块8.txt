@@ -1,0 +1,300 @@
+1
+题目:log in
+答案:A. 使登录
+
+2
+题目:in the long run
+答案:B. 从长远来看
+
+3
+题目:as long as
+答案:C. 只要
+
+4
+题目:look back on
+答案:A. 回忆；回顾
+
+5
+题目:look out
+答案:C. 当心；留神
+
+6
+题目:(be) at a loss
+答案:B. 感到迷惑；不知所措
+
+7
+题目:make it
+答案:C. 做到；成功
+
+8
+题目:make out
+答案:A. 勉强看见；听出
+
+9
+题目:to make matters worse 
+答案:B. 更糟糕的是
+
+10
+题目:by means of
+答案:B. 借助
+
+11
+题目:take possession of
+答案:A. 拥有；占领
+
+12
+题目:at present
+答案:C. 目前
+
+13
+题目:against sb’s principles
+答案:A. 违背某人的原则
+
+14
+题目:in the process of
+答案:B. 在……的进程中
+
+15
+题目:carry out one’s promise
+答案:B. 履行诺言
+
+16
+题目:put forward a proposal
+答案:C. 提出建议
+
+17
+题目:provide for
+答案:A. 抚养；供养
+
+18
+题目:put aside
+答案:B. 把……放在一边
+
+19
+题目:a large quantity of 
+答案:A. 大量的
+
+20
+题目:out of the question
+答案:C. 不可能的
+
+21
+题目:jump a queue
+答案:B. 插队
+
+22
+题目:at random
+答案:B. 随机地
+
+23
+题目:change beyond all recognition 
+答案:A. 变得完全认不出来
+
+24
+题目:(be) relevant to
+答案:C. 与……有关
+
+25
+题目:rely on
+答案:C. 依靠；信任
+
+26
+题目:根据所给汉语写出词块。
+
+注意 
+
+###
+答案:pay attention to
+
+27
+题目:根据所给汉语写出词块。
+
+区别出；辨别出
+
+###
+答案:pick out
+
+28
+题目:根据所给汉语写出词块。
+
+发生
+
+###
+答案:take place
+
+29
+题目:根据所给汉语写出词块。
+
+零用钱
+
+###
+答案:pocket money
+
+30
+题目:根据所给汉语写出词块。
+
+上台执政 
+
+###
+答案:come to power
+
+31
+题目:根据所给汉语写出词块。
+
+停电
+
+###
+答案:a power failure|a power cut
+
+32
+题目:根据所给汉语写出词块。
+
+对……感到自豪
+
+###
+答案:take pride in|be proud of
+
+33
+题目:根据所给汉语写出词块。
+
+在压力下
+
+###
+答案:under pressure|under stress
+
+34
+题目:根据所给汉语写出词块。
+
+原则上
+
+###
+答案:in principle
+
+35
+题目:根据所给汉语写出词块。
+
+私下地
+
+###
+答案:in private
+
+36
+题目:根据所给汉语写出词块。
+
+获得利润；盈利
+
+###
+答案:make a profit
+
+37
+题目:根据所给汉语写出词块。
+
+当众；公开地
+
+###
+答案:in public
+
+38
+题目:根据所给汉语写出词块。
+
+故意地
+
+###
+答案:on purpose
+
+39
+题目:根据所给汉语写出词块。
+
+推迟会议
+
+###
+答案:put off a meeting|put off the meeting
+
+40
+题目:根据所给汉语写出词块。
+
+忍受
+
+###
+答案:put up with
+
+41
+题目:根据所给汉语写出词块。
+
+增强意识
+
+###
+答案:raise awareness
+
+42
+题目:根据所给汉语写出词块。
+
+大范围的
+
+###
+答案:a wide range of
+
+43
+题目:根据所给汉语写出词块。
+
+而不
+
+###
+答案:rather than|instead of
+
+44
+题目:根据所给汉语写出词块。
+
+对……作出反应
+
+###
+答案:react to|respond to
+
+45
+题目:根据所给汉语写出词块。
+
+创纪录
+
+###
+答案:set a record
+
+46
+题目:根据所给汉语写出词块。
+
+谈到；提到；指的是 
+
+###
+答案:refer to
+
+47
+题目:根据所给汉语写出词块。
+
+反思
+
+###
+答案:reflect on|reflect upon
+
+48
+题目:根据所给汉语写出词块。
+
+不管；不顾
+
+###
+答案:regardless of|in spite of
+
+49
+题目:根据所给汉语写出词块。
+
+常客
+
+###
+答案:regular customers|regular visitors|a regular customer|a regular visitor
+
+50
+题目:根据所给汉语写出词块。
+
+如释重负
+
+###
+答案:in relief|with relief
+

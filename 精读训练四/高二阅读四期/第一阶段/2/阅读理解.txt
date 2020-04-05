@@ -1,0 +1,72 @@
+1
+题目:        When I first became aware of Robert Sawyer, his books had cute little dinosaurs on the covers and I avoided them. Eventually, I heard some good things about them and I picked up the first book of the series and discovered that, although the book still had a cute dinosaur cover, the material inside the cover was well worth reading.        At the start of the book, Peter Hobson, a medical student, attends an organ-harvesting on a motorcycle victim. After that, he begins to wonder where the line between life and death actually is. After graduation, Hobson pursues (从事) research into the development of a super-sensitive egg to determine the actual instant of death. During his research, Hobson and his good friend Sarkar Muhammed develop a technique for creating a perfect neural scan (神经系统的扫描) of a person’s brain.        Hobson and Muhammed create three copies of Peter Hobson inside computers at Muhammed’s lab. One “Hobson” is immortal (不朽的), one “Hobson” is dead and one “Hobson” is the control.        While this is going on, Hobson’s personal life is falling apart. His wife falls in love with a co-worker and Hobson’s father-in-law dies because of a medicinal reaction. To make matters worse, a police investigation focuses on Hobson’s life and work.        Sawyer is writing a mystery in this book, and, to a certain extent, succeeds. The pace is good, keeping you turning the pages. However, because of the way Sawyer creates his mystery, there is no real chance of figuring out who is responsible. This book uses the way that Conan Doyle would always have Holmes solve the crime by pointing out a piece of evidence that was known only to Holmes and not to Watson. Nevertheless, just as the Holmes stories are wellworth reading, I would also have no hesitation to recommend The Terminal Experiment to a friend.        Oh, yeah. Go out and get Sawyer’s other books, too. At the very least, you’ll be entertained. More likely, you’ll begin to think about our society.
+答案:
+
+2
+题目:attend
+答案:attend
+
+3
+题目:succeed
+答案:succeed
+
+4
+题目:responsible
+答案:responsible
+
+5
+题目:solve
+答案:solve
+
+6
+题目:evidence
+答案:evidence
+
+7
+题目:entertain
+答案:entertain
+
+8
+题目:受害者
+答案:C. victim
+
+9
+题目:考察句子中单词的意思。
+
+His books had cute little dinosaurs on the covers.
+答案:A. 封面
+
+10
+题目:graduat_
+答案:graduat,ion
+
+11
+题目:develop_
+答案:develop,ment
+
+12
+题目:react_
+答案:react,ion
+
+13
+题目:确实没有机会找出谁是罪魁祸首。
+答案:There is no real chance of figuring out who is responsible.
+
+14
+题目:在空白处填入括号内单词的正确形式。
+
+The material inside the cover was well worth ### (read).
+答案:reading
+
+15
+题目:在空白处填入括号内单词的正确形式。
+
+He begins to wonder where the line between life and ### (dead) actually is.
+答案:death
+
+16
+题目:根据所给汉语完成下列句子。
+
+### (更糟糕的是), a police investigation focuses on Hobson’s life and work.
+答案:To make matters worse
+

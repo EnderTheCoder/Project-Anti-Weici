@@ -1,0 +1,280 @@
+1
+题目:My eyes slowly grew accustomed ______ the dark.
+答案:B. to
+
+2
+题目:This means that after a while your body becomes accustomed ______ nicotine in it.
+答案:C. to having
+
+3
+题目:a window display
+答案:B. 橱窗陈列
+
+4
+题目:Prices have to be displayed outside restaurants.
+答案:C. 显示
+
+5
+题目:She is very mature ______ her age.
+答案:A. for
+
+6
+题目:______, the pay isn’t attractive enough, though the job itself is quite interesting.
+答案:C. To be honest
+
+7
+题目:Ladies and gentlemen should always act with great ______.
+答案:B. dignity
+
+8
+题目:This is the last time I'm waiting for you. I mean it.
+答案:C. 说到做到
+
+9
+题目:Having a well-paid job does not mean ______ your interests.
+答案:A. giving up
+
+10
+题目:Her children mean the world ______ her.
+答案:C. to
+
+11
+题目:the quality of honesty
+答案:C. 诚实的品性
+
+12
+题目:a reliable product
+答案:C. 质量可靠的产品
+
+13
+题目:John is very ______ , if he promises to do something he'll do it.
+答案:A. reliable
+
+14
+题目:Human activity is not ________ for all water shortages.
+答案:A. responsible
+
+15
+题目:Could you direct me to the station?
+答案:B. 给…指路
+
+16
+题目:In my opinion, the Internet has negative effects on our lives.
+答案:A. 负面的
+
+17
+题目:People are naturally conservative and do not like change.
+答案:B. 保守的
+
+18
+题目:make a conservative estimate ______
+答案:C. at
+
+19
+题目:She was usually patient _______ her students and never made them disappointed.
+答案:A. with
+
+20
+题目:She told me to be ______ and look on the bright side.
+答案:A. cheerful
+
+21
+题目:At the last moment, Tom decided to put in a new character to make the story seem more likely.
+答案:A. 角色
+
+22
+题目:a man of character
+答案:C. 品德高尚的人
+
+23
+题目:The city invested 6 billion yuan to preserve the ________ of the old town.
+答案:A. character
+
+24
+题目:The city invested 6 billion yuan to preserve the character of the old town.
+答案:C. 特色
+
+25
+题目:I think teachers need to be strict ________ students.
+答案:A. with
+
+26
+题目:She can be really stubborn.
+答案:B. 倔强的
+
+27
+题目:Joe is proud and ______, never admitting he is wrong and always looking for someone else to blame.
+答案:A. stubborn
+
+28
+题目:She is very sensitive ______ other people’s feelings.
+答案:B. to
+
+29
+题目:She was a person accustomed to ###（have）eight hours' sleep a night.
+答案:having
+
+30
+题目:The great majority of players would, of course, sign the contract ### ###.
+绝大多数球员当然会毫不犹豫地签合同。
+答案:without###hesitation
+
+31
+题目:The exhibition gives local artists an opportunity to ### their work.
+这次展览为当地艺术家提供了展示自己作品的机会。
+答案:display
+
+32
+题目:You need to be ### ###（更加灵活）and imaginative in your approach.
+答案:more###flexible
+
+33
+题目:Cut the dough in half and shape each half ### a loaf.（填入一个介词）
+答案:into
+
+34
+题目:### ### ###, it was one of the worst books I've ever read.（honest）
+说实在的，那是我读过的最差的书之一。
+答案:To###be###honest
+
+35
+题目:If you were wrong, admit it. You won't lose ###, but will gain respect.
+如果你错了，那就承认。你不会因此而失去尊严，反而会赢得尊重。
+答案:dignity
+
+36
+题目:Meyers is a ### and prolific worker.
+迈耶斯是个勤奋多产的工人。
+答案:diligent
+
+37
+题目:Summer is the perfect time to catch up on the new books you ### ### read.（mean）
+夏天是把想读却没读的新书恶补一下的最佳时机。
+答案:meant###to
+
+38
+题目:She's always been ### ### money.
+她在花钱方面总是非常吝啬。
+答案:mean###with
+
+39
+题目:Sometimes you wonder where your kids get their good ###.
+有时你会想，孩子们身上的优秀品质是从何而来呢？
+答案:qualities
+
+40
+题目:We are looking for someone who is ### and hard-working.
+我们在物色可靠而又勤奋的人。
+答案:reliable
+
+41
+题目:Even where parents no longer live together, they each continue to be ### ###  their children.
+即使父母不再共同生活，他们也要分别对子女负责。
+答案:responsible###for
+
+42
+题目:It was ### of him to leave all the work to you.
+他把所有的工作都推给你，真是自私。
+答案:selfish
+
+43
+题目:He was a ### friend and genial host. 
+他是个热心的朋友，也是友善待客的主人。
+答案:warm-hearted|warmhearted
+
+44
+题目:I prefer to deal with him ###.
+我更愿意直接跟他打交道。
+答案:direct
+
+45
+题目:The learner's attention needs to be ### to the significant features.
+需要将学习者的注意力引向那些着重点上。
+答案:directed
+
+46
+题目:Scientists have a fairly ### attitude to the theory.
+科学家对这个理论的态度是相当消极的。
+答案:negative|pessimistic
+
+47
+题目:People tend to be more aggressive when they're young and more ### as they get older.
+人们年轻的时候往往较为激进，而随着年龄的增长会变得保守起来。
+答案:conservative
+
+48
+题目:Everyone around him was trying to be ###, but you could tell they were all bored.
+他周围的每一个人都极力表现出彬彬有礼的样子，但能够看出他们都感到厌烦。
+答案:polite
+
+49
+题目:You're not your usual ###(cheer) self today.
+你今天不像往常那么快快乐乐的。
+答案:cheerful
+
+50
+题目:The book gives a fascinating insight into Mrs Blair's ###.
+这部书对布莱尔夫人的性格作了生动的剖析。
+答案:character
+
+51
+题目:My son was a quiet and ### man who liked sports and enjoyed life.
+我儿子是个安静温和的人，喜欢运动和享受生活。
+答案:gentle
+
+52
+题目:She ### ### ### ### ### school life.
+她积极参加学校活动。
+答案:takes|took###an###active###part###in
+
+53
+题目:It was important to me to be financially ### ### my parents.
+在经济上不依赖父母，这对我很重要。
+答案:independent###of|from
+
+54
+题目:She left ### instructions that she was not to be disturbed.
+她严格指示不得打扰她。
+答案:strict
+
+55
+题目:She can be ### ### ### a mule.
+她可以倔得像头骡子。
+答案:as###stubborn###as
+
+56
+题目:Say something ###.
+说点正经的。
+答案:sensible
+
+57
+题目:She is very ### ### other people's feelings.
+她很能体谅他人的感情。
+答案:sensitive###to
+
+58
+题目:Chris is so ###, so determined to do it all.
+克里斯踌躇满志，决心要将它都做完。
+答案:ambitious
+
+59
+题目:It's generally believed that people act the way they do because of their personalities and attitudes.They recycle their garbage because they care about the environment.They pay $5 for a caramel brulee latte because they like expensive coffee drinks.    
+It's undeniable that behavior comes from our inner dispositions（性情）,but in many instances we also draw inferences about who we are,as suggested by the social psychologist Daryl Bern,by observing our own behavior.We can be strangers to ourselves.If we knew our own minds,why would we need to guess what our preferences are from our behavior?If our minds were an open book,we would know exactly how much we care about the environment or like lattes.Actually,we often need to look to our behavior to figure out who we are.    
+Moreover,we don't just use our behavior to learn about our particular types of character—we infer characters that weren't there before.Our behavior is often shaped by little pressures around us,which we fail to recognize.Maybe we recycle because our wives and neighbors would disapprove if we didn't.Maybe we buy lattes in order to impress the people around us.We should not mistakenly believe that we always behave as a result of some inner disposition.    
+Whatever pressures there can be or inferences one can make,people become what they do,though it may not be in compliance（符合）with their true desires.Therefore,we should all bear in mind Kurt Vonnegut's advice:"We are what we pretend to be,so we must be careful about what we pretend to be."
+答案:
+
+60
+题目:There is a well-known story about a farmer ### found an eagle(鹰) egg. The story reminds us of the importance of developing our full potential(潜力).    
+One day, a hardworking ### found an eagle's egg lying on the ground of his farm. He was in a hurry ### he paid no attention to it and ### placed it together with all the chicken eggs. After several days, the egg hatched(孵化）and the little eagle ### into the world.    
+The eagle thought he was ### same as the other chickens, ### the eagle pecked(啄食）and dug for worms. He ran about and sometimes jumped around, flying a few ### in the air like the chickens. Over the years, the eagle grew old and tired. One day he saw a splendid bird ### overhead, and asked, “### is that?” 
+“That's the king of the ###— the bald eagle,” replied a chicken. “The sky is her home. We're chickens -- our home is ### the farm.”    
+And so the eagle lived and died ### a chicken, for that's what he believed he was.    
+Are you an eagle that ### like a chicken? ###, many people have great talents but ### bring them to use. Actually, we ### make our talents take off by developing our character strengths. Suppose there was a young man who ### in the world. He asked questions about his environment, explored new neighborhoods where he lived, and soon he mentally mapped out the city he lived in. He used his curiosity to make the ### of his talents for spatial(空间的）intelligence.    
+When we use our character strengths, we will ### that we are eagles.
+答案:
+
+61
+题目:kebiao22.aac
+答案:
+

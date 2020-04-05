@@ -1,0 +1,200 @@
+1
+题目:recall
+答案:B. 回忆；回想
+
+2
+题目:recover
+答案:A. 恢复
+
+3
+题目:region
+答案:C. 地区；地带；范围
+
+4
+题目:register
+答案:B. 注册；登记
+
+5
+题目:release
+答案:C. 放开；松开
+
+6
+题目:reliable
+答案:A. 可信赖的；可靠的
+
+7
+题目:remote
+答案:C. 遥远的；偏僻的
+
+8
+题目:remove
+答案:A. 移走；移开
+
+9
+题目:resident
+答案:B. 居民；住户
+
+10
+题目:resource
+答案:C. 资源
+
+11
+题目:respond
+答案:A. 回答
+
+12
+题目:review
+答案:B. 复习
+
+13
+题目:revolution
+答案:B. 革命；剧烈的变革
+
+14
+题目:schedule
+答案:C. 日程安排；时刻表
+
+15
+题目:security
+答案:A. 安全；保障
+
+16
+题目:seek
+答案:B. 寻找
+
+17
+题目:select
+答案:C. 挑选
+
+18
+题目:series
+答案:A. 一系列；连续
+
+19
+题目:shelter
+答案:B. 遮盖物；躲避处
+
+20
+题目:significant
+答案:A. 重要的；（意义）重大的
+
+21
+题目:similar
+答案:C. 相似的；类似的
+
+22
+题目:simply
+答案:A. 简单地；简明地
+
+23
+题目:site
+答案:B. 地点；遗址
+
+24
+题目:slightly
+答案:C. 略微；稍微
+
+25
+题目:smooth
+答案:B. 平滑的；平稳的
+
+26
+题目:solution
+答案:A. 解答；解决方法
+
+27
+题目:solve
+答案:B. 解决；解答
+
+28
+题目:soul
+答案:A. 灵魂；心灵；精神
+
+29
+题目:specially
+答案:B. 特别地；专门；格外
+
+30
+题目:specific
+答案:C. 特有的；特定的
+
+31
+题目:splendid
+答案:C. 壮丽的；辉煌的；极好的
+
+32
+题目:strengthen
+答案:C. 加强；巩固
+
+33
+题目:structure
+答案:A. 结构；构造
+
+34
+题目:sum
+答案:C. 总数；总和；算术
+
+35
+题目:survey
+答案:B. 调查；全面审视
+
+36
+题目:survival
+答案:C. 幸存
+
+37
+题目:survive
+答案:A. 幸存（于）
+
+38
+题目:suspect
+答案:C. 猜想；怀疑
+
+39
+题目:switch
+答案:B. 改变；转变
+
+40
+题目:symbol
+答案:C. 象征；标志
+
+41
+题目:technical
+答案:A. 技术的
+
+42
+题目:technique
+答案:B. 技巧
+
+43
+题目:threaten
+答案:C. 威胁；恐吓
+
+44
+题目:tradition
+答案:A. 传统；风俗
+
+45
+题目:traditional
+答案:B. 传统的；惯例的
+
+46
+题目:transport
+答案:C. 运输；搬运
+
+47
+题目:uniform
+答案:C. 制服
+
+48
+题目:unique
+答案:A. 独特的；独一无二的
+
+49
+题目:vary
+答案:C. 变化；不同
+
+50
+题目:version
+答案:B. 版本
+

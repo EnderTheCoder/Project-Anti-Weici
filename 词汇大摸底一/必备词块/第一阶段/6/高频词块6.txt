@@ -1,0 +1,300 @@
+1
+题目:here and now
+答案:C. 现在；马上
+
+2
+题目:here and there
+答案:C. 到处；处处
+
+3
+题目:in the hope of
+答案:A. 怀着……的希望
+
+4
+题目:a job hunter
+答案:B. 求职者
+
+5
+题目:even if / though
+答案:C. 尽管；即使
+
+6
+题目:the instant (that)
+答案:A. 一……就
+
+7
+题目:join in
+答案:B. 参加（比赛、活动等）
+
+8
+题目:be keen on
+答案:C. 对……感兴趣
+
+9
+题目:keep up with
+答案:A. 跟上
+
+10
+题目:kill one’s time
+答案:B. 消磨时间
+
+11
+题目:knock down
+答案:C. 击倒；撞倒
+
+12
+题目:knock into
+答案:A. 撞在……上
+
+13
+题目:last but not least
+答案:B. 最后但同样重要的
+
+14
+题目:leave sb alone
+答案:C. 别管某人
+
+15
+题目:leave out
+答案:A. 遗漏；觉得被冷落
+
+16
+题目:no sooner ... than
+答案:B. 一……就
+
+17
+题目:speak of
+答案:C. 谈到；提及
+
+18
+题目:on the spot 
+答案:B. 当场；在现场
+
+19
+题目:stand by
+答案:B. 袖手旁观
+
+20
+题目:stand out
+答案:A. 引人注目；突出
+
+21
+题目:to start with
+答案:A. 首先；起初
+
+22
+题目:a stone’s throw
+答案:C. 很近的距离；不远处
+
+23
+题目:the last straw
+答案:A. 最后一击
+
+24
+题目:go from strength to strength
+答案:B. 不断壮大
+
+25
+题目:strike a balance
+答案:C. 两者兼顾；达到平衡
+
+26
+题目:根据所给汉语写出词块。
+
+大雨	
+
+###
+答案:heavy rain
+
+27
+题目:根据所给汉语写出词块。
+
+在她的帮助下
+
+###
+答案:with her help|with the help of her
+
+28
+题目:根据所给汉语写出词块。
+
+对他的高度评价
+
+###
+答案:think highly of him|speak highly of him
+
+29
+题目:根据所给汉语写出词块。
+
+别挂断；等一下
+
+###
+答案:hold on|hang on
+
+30
+题目:根据所给汉语写出词块。
+
+老实说
+
+###
+答案:to be honest|to be frank
+
+31
+题目:根据所给汉语写出词块。
+
+在……前面；早于
+
+###
+答案:ahead of
+
+32
+题目:根据所给汉语写出词块。
+
+实现目标
+
+###
+答案:achieve one's aim|realize one's aim|achieve one's goal|realize one's goal|realise one's aim|realise one's goal
+
+33
+题目:根据所给汉语写出词块。
+
+除了做某事别无选择
+
+###
+答案:have no alternative but to do sth|have no choice but to do sth
+
+34
+题目:根据所给汉语写出词块。
+
+相继；顺次；一个接一个
+
+###
+答案:one after another
+
+35
+题目:根据所给汉语写出词块。
+
+填写申请表
+
+###
+答案:fill in an application form|fill out an application form
+
+36
+题目:根据所给汉语写出词块。
+
+接受某人的申请
+
+###
+答案:accept sb's application
+
+37
+题目:根据所给汉语写出词块。
+
+申请工作  
+
+###
+答案:apply for a job
+
+38
+题目:根据所给汉语写出词块。
+
+到达时
+
+###
+答案:on arrival|upon arrival
+
+39
+题目:根据所给汉语写出词块。
+
+入睡；睡着
+
+###
+答案:fall asleep|drop asleep
+
+40
+题目:根据所给汉语写出词块。
+
+重视 
+
+###
+答案:attach importance to|attach significance to
+
+41
+题目:根据所给汉语写出词块。
+
+总之
+
+###
+答案:in conclusion|to sum up|in a word|in short|in brief
+
+42
+题目:根据所给汉语写出词块。
+
+状况良好
+
+###
+答案:in good condition|in a good state
+
+43
+题目:根据所给汉语写出词块。
+
+获得自信
+
+###
+答案:gain confidence|acquire confidence
+
+44
+题目:根据所给汉语写出词块。
+
+对……充满信心
+
+###
+答案:be confident about|feel confident about
+
+45
+题目:根据所给汉语写出词块。
+
+结果
+
+###
+答案:as a consequence|as a result|in consequence
+
+46
+题目:根据所给汉语写出词块。
+
+与他保持联系
+
+###
+答案:get in contact with him|keep in contact with him|stay in contact with him
+
+47
+题目:根据所给汉语写出词块。
+
+不受控制；失去控制
+
+###
+答案:out of control
+
+48
+题目:根据所给汉语写出词块。
+
+出于好奇
+
+###
+答案:out of curiosity
+
+49
+题目:根据所给汉语写出词块。
+
+砍倒；减少；缩减
+
+###
+答案:cut down
+
+50
+题目:根据所给汉语写出词块。
+
+切断电力供应
+
+###
+答案:cut off the electricity
+

@@ -1,0 +1,49 @@
+1
+题目:        The first drawings on walls appeared in caves thousands of years ago. Later the Ancient Romans and Greeks wrote their names and other things on buildings. Modern graffiti (涂鸦) seems to have appeared in Philadelphia in the early 1960s, and by the late sixties it had reached New York. The new art form really took off in the 1970s, when people began writing their names on buildings all over the city. In the mid seventies it was sometimes hard to see out of a subway car window, because the trains were completely covered in paintings known as “masterpieces”.        The term “graffiti” was first used by The New York Times and the novelist Norman Mailer. Art galleries in New York began buying graffiti in the early seventies. But at the same time that it began to be regarded as an art form, John Lindsay, the then mayor (市长) of New York, declared (宣布) the first war on graffiti. By the 1980s it became much harder to write on subway trains without being caught, and instead many of the graffiti artists began using roofs of buildings or cloth.        The debate over whether graffiti is art or vandalism (故意破坏公共财物罪) is still going on. Peter Vallone, a New York city councilor (市议员), thinks that graffiti done with permission can be art, but if it is on someone else’s buildings it becomes a crime. “I have a message for the graffiti vandals out there,” he said recently. “Your freedom of expression ends where my property begins.” On the other hand, Felix, a member of the Berlin-based group Reclaim Your City, says that artists are getting cities for the public back from advertisers, and that graffiti stands for freedom and makes cities livelier.        For years graffiti has been a springboard to international fame for a few. Jean-Michel Basquiat began writing graffiti on the street in the 1970s before becoming a respected artist in the 1980s. Works by the British artist Banksy have been sold for over £100,000. Graffiti is now sometimes big business.
+答案:
+
+2
+题目:debate
+答案:debate
+
+3
+题目:受尊敬的
+答案:B. respected
+
+4
+题目:考查句子中单词的意思。
+
+The new art form really took off in the 1970s, when people began writing their names on buildings all over the city.
+答案:C. 流行
+
+5
+题目:选出能替换突显部分的单词或短语。
+
+The trains were completely covered in paintings known as “masterpieces”.
+答案:B. totally
+
+6
+题目:free_
+答案:free,dom
+
+7
+题目:express_
+答案:express,ion
+
+8
+题目:涂鸦代表自由，让城市更有活力。
+###
+答案:Graffiti stands for freedom and makes cities livelier.
+
+9
+题目:在空白处填入括号内单词的正确形式。
+
+Peter Vallone thinks that graffiti done with ### (permit) can be art.
+答案:permission
+
+10
+题目:根据所给汉语完成下列句子。
+
+Graffiti began to ### (被看作是一种艺术形式).
+答案:be regarded as an art form
+

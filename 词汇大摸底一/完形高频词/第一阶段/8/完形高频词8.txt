@@ -1,0 +1,200 @@
+1
+题目:practical
+答案:B. 实际的；实践的
+
+2
+题目:practice
+答案:C. 训练；练习
+
+3
+题目:practise
+答案:B. 实践；练习
+
+4
+题目:praise
+答案:A. 赞扬；称赞
+
+5
+题目:precious
+答案:B. 宝贵的；珍贵的
+
+6
+题目:prefer
+答案:C. 更喜欢；更愿意
+
+7
+题目:preparation
+答案:B. 准备；预备
+
+8
+题目:preserve
+答案:C. 保护；保存
+
+9
+题目:press
+答案:B. 压；按
+
+10
+题目:pressure
+答案:C. 压力；压强
+
+11
+题目:pretend
+答案:C. 假装；装作
+
+12
+题目:prevent
+答案:B. 阻止；预防；防止
+
+13
+题目:pride
+答案:C. 自豪；骄傲
+
+14
+题目:principle
+答案:C. 原理；原则
+
+15
+题目:private
+答案:C. 个人的；私有的
+
+16
+题目:produce
+答案:C. 产生；引起
+
+17
+题目:profit
+答案:C. 利润；赢利
+
+18
+题目:progress
+答案:C. 进步；进展
+
+19
+题目:promise
+答案:B. 诺言；许诺；承诺
+
+20
+题目:prove
+答案:C. 证明；证实
+
+21
+题目:provide
+答案:B. 提供；供应
+
+22
+题目:put aside
+答案:B. 把……放在一边
+
+23
+题目:put on
+答案:B. 穿上；戴上
+
+24
+题目:put up
+答案:B. 举起；抬起
+
+25
+题目:put up with
+答案:A. 忍受；容忍
+
+26
+题目:puzzle
+答案:C. 难题；谜
+
+27
+题目:quality
+答案:A. 质；质量
+
+28
+题目:raise
+答案:C. 举起；抬起
+
+29
+题目:rather than
+答案:B. 而不
+
+30
+题目:reality
+答案:B. 真实；现实
+
+31
+题目:realize
+答案:B. 认识到；意识到
+
+32
+题目:recite
+答案:A. 背诵；朗诵
+
+33
+题目:recognize
+答案:C. 认出；辨认出
+
+34
+题目:recommend
+答案:B. 推荐；介绍
+
+35
+题目:reflect
+答案:B. 反射；映出
+
+36
+题目:regard
+答案:A. 把……看作
+
+37
+题目:regardless of
+答案:C. 不管；不顾
+
+38
+题目:regret
+答案:B. 后悔；懊悔
+
+39
+题目:regular
+答案:B. 规则的；有规律的
+
+40
+题目:regularly
+答案:C. 有规律地；定期地
+
+41
+题目:reject
+答案:B. 拒绝；排斥
+
+42
+题目:relationship
+答案:B. 关系；联系
+
+43
+题目:relative
+答案:C. 亲戚；相关物
+
+44
+题目:relief
+答案:B. 减轻；宽慰
+
+45
+题目:rely on
+答案:C. 依靠
+
+46
+题目:remain
+答案:A. 停留；逗留
+
+47
+题目:remind
+答案:C. 提醒；使想起
+
+48
+题目:repeat
+答案:B. 重复
+
+49
+题目:replace
+答案:C. 取代；更换
+
+50
+题目:reply
+答案:B. 回答；答复
+

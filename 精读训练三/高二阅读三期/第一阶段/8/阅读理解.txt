@@ -1,0 +1,42 @@
+1
+题目:        How many things can you see in the night sky? A lot! On a clear night you might see the Moon, some planets, and thousands of stars.        But scientists believe there are some things in the sky that we will never see. We won't see them with the biggest telescope in the world, on the clearest night of the year. That's because they are invisible. They're the mysterious dead stars called black holes.        You might find it hard to imagine that stars die. After all, our Sun is a star. Year after year we see it up in the sky, burning brightly, giving us heat and light. The Sun certainly doesn't seem to be getting old or weak. But stars do burn out and die after billions of years.        As a star's gases burn, they give off light and heat. But when the gases run out, the star stops burning and begins to die.    As the star cools, the outer layers of the star pull in toward the center. The star squashes into a smaller and smaller ball. If the star was very small, the star ends up as a cold, dark ball. If the star was very big, it keeps squashing inward until it's packed together tighter than anything in the universe.        Imagine if the Earth were crushed (挤压) until it was the size of a tiny marble. That's how tightly this dead star, a black hole, is packed. What pulls the star in toward its center with such power? It's the same force that pulls you down when you jump — the force called gravity. A black hole is so tightly packed that its gravity sucks (吸) in everything — even light. The light from a black hole can never come back to your eyes. That's why you see nothing but blackness.        So the next time you stare up at the night sky, remember: there's more in the sky than meets the eye! Scattered (散落) in the silent darkness are black holes — the great mystery of space.
+答案:
+
+2
+题目:imagine
+答案:imagine
+
+3
+题目:mystery
+答案:mystery
+
+4
+题目:晴朗的
+答案:B. clear
+
+5
+题目:考察句子中单词的意思。
+
+When the gases run out, the star stops burning and begins to die.
+答案:B. 耗尽
+
+6
+题目:black_
+答案:black,ness
+
+7
+题目:天空的景色比我们看到的丰富得多。
+答案:There’s more in the sky than meets the eye!
+
+8
+题目:在空白处填入括号内单词的正确形式。
+
+It’s the same force that ### (pull) you down when you jump.
+答案:pulls
+
+9
+题目:在空白处填入括号内单词的正确形式。
+
+That’s how ### (tight) this dead star, a black hole, is packed.
+答案:tightly
+

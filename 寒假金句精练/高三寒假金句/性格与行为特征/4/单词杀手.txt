@@ -1,0 +1,148 @@
+16
+题目:direct
+答案:direct
+
+17
+题目:直接地；直达地
+答案:B. direct
+
+18
+题目:direct
+答案:C. 给…指路；指引
+
+19
+题目:negative
+答案:negative
+
+20
+题目:否定的；负面的
+答案:B. negative
+
+21
+题目:conservative
+答案:conservative
+
+22
+题目:conservative
+答案:C. 保守的；守旧的
+
+23
+题目:保守的；守旧的
+答案:C. conservative
+
+24
+题目:polite
+答案:polite
+
+25
+题目:polite
+答案:C. 有礼貌的；有教养的
+
+26
+题目:有礼貌的；有教养的
+答案:B. polite
+
+27
+题目:patient
+答案:patient
+
+28
+题目:病人
+答案:B. patient
+
+29
+题目:
+答案:A. patient
+
+30
+题目:patient
+答案:C. 有耐心的；容忍的
+
+31
+题目:cruel
+答案:cruel
+
+32
+题目:cruel
+答案:A. 残忍的；无情的
+
+33
+题目:残忍的；无情的
+答案:C. cruel
+
+34
+题目:positive
+答案:positive
+
+35
+题目:positive
+答案:B. 正面的；确实的
+
+36
+题目:正面的；确实的
+答案:B. positive
+
+37
+题目:pessimistic
+答案:pessimistic
+
+38
+题目:pessimistic
+答案:A. 悲观的
+
+39
+题目:悲观的
+答案:A. pessimistic
+
+40
+题目:enthusiastic
+答案:enthusiastic
+
+41
+题目:enthusiastic
+答案:B. 热情的
+
+42
+题目:热情的
+答案:B. enthusiastic
+
+43
+题目:optimistic
+答案:optimistic
+
+44
+题目:optimistic
+答案:C. 乐观的
+
+45
+题目:乐观的
+答案:C. optimistic
+
+46
+题目:proud
+答案:proud
+
+47
+题目:proud
+答案:A. 骄傲的；自豪的
+
+48
+题目:骄傲的；自豪的
+答案:A. proud
+
+49
+题目:rude
+答案:rude
+
+50
+题目:rude
+答案:B. 无礼的；粗鲁的
+
+51
+题目:无礼的；粗鲁的
+答案:B. rude
+
+52
+题目:negative
+答案:C. 底片；否定
+

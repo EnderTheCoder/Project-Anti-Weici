@@ -1,0 +1,200 @@
+1
+题目:curiosity
+答案:B. 好奇心
+
+2
+题目:current
+答案:A. 水流；电流
+
+3
+题目:cycle
+答案:B. 自行车；摩托车
+
+4
+题目:data
+答案:C. 数据；资料
+
+5
+题目:debate
+答案:A. 讨论；辩论
+
+6
+题目:decline
+答案:C. 减少；下降；衰退
+
+7
+题目:decrease
+答案:C. 减少
+
+8
+题目:defeat
+答案:B. 击败；战败
+
+9
+题目:defence
+答案:B. 防御；保卫
+
+10
+题目:defend
+答案:B. 防护；为……辩护
+
+11
+题目:definitely
+答案:B. 确定地；肯定地
+
+12
+题目:definition
+答案:A. 释义；定义
+
+13
+题目:deliver
+答案:B. 递送；传送
+
+14
+题目:delivery
+答案:A. 递送的物品
+
+15
+题目:demanding
+答案:C. （工作等）要求高的；（人）要求严格的
+
+16
+题目:deny
+答案:B. 否认；否定
+
+17
+题目:depression
+答案:C. 沮丧；消沉
+
+18
+题目:deserve
+答案:C. 应受；值得
+
+19
+题目:desire
+答案:B. 渴望；期望
+
+20
+题目:despite
+答案:B. 不管；尽管
+
+21
+题目:destination
+答案:B. 目的地；终点
+
+22
+题目:determination
+答案:A. 决定；决心
+
+23
+题目:devotion
+答案:B. 献身；忠诚；热爱
+
+24
+题目:differ
+答案:C. 不同；相异
+
+25
+题目:display
+答案:A. 陈列；展览
+
+26
+题目:domestic
+答案:B. 家务的；家养的
+
+27
+题目:dominate
+答案:C. 支配；控制
+
+28
+题目:ease
+答案:A. 减轻；缓解
+
+29
+题目:economic
+答案:B. 经济学的；经济上的
+
+30
+题目:economy
+答案:A. 经济情况；经济制度
+
+31
+题目:edition
+答案:B. 版本；版次
+
+32
+题目:effect
+答案:B. 结果；效应
+
+33
+题目:effective
+答案:C. 有效的；生效的
+
+34
+题目:efficiency
+答案:B. 功率；效能
+
+35
+题目:efficient
+答案:A. 有效率的；高效能的
+
+36
+题目:effort
+答案:A. 气力；精力
+
+37
+题目:electric
+答案:B. 电的；电动的
+
+38
+题目:electrical
+答案:C. 与（用）电有关的
+
+39
+题目:electricity
+答案:B. 电学；电流
+
+40
+题目:electronic
+答案:C. 电子的；电子器件的
+
+41
+题目:element
+答案:B. 要素；基本部分
+
+42
+题目:embarrassed
+答案:A. 尴尬的
+
+43
+题目:emotion
+答案:C. 感情；情绪
+
+44
+题目:emotional
+答案:B. 情绪的；情感的
+
+45
+题目:enable
+答案:A. 使能够；使成为可能
+
+46
+题目:endangered
+答案:C. 濒危的；有危险的
+
+47
+题目:energetic
+答案:C. 有活力的；精力旺盛的
+
+48
+题目:enormous
+答案:B. 巨大的；庞大的
+
+49
+题目:ensure
+答案:A. 确保；保证
+
+50
+题目:entertainment
+答案:C. 娱乐；娱乐节目
+

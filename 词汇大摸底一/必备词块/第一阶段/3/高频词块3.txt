@@ -1,0 +1,299 @@
+1
+题目:keep sb company
+答案:B. 陪伴某人
+
+2
+题目:compare notes with
+答案:A. 和……交换意见
+
+3
+题目:conduct an interview
+答案:B. 进行面试
+
+4
+题目:increase one’s confidence
+答案:C. 增强自信
+
+5
+题目:take sth into consideration
+答案:B. 考虑到某事
+
+6
+题目:consist in
+答案:A. 在于；存在于
+
+7
+题目:consist of
+答案:C. 由……构成
+
+8
+题目:on the contrary
+答案:A. 恰恰相反
+
+9
+题目:by / in contrast
+答案:B. 相比之下
+
+10
+题目:in contrast with / to
+答案:C. 与……对比；与……相反
+
+11
+题目:make a contrast with
+答案:B. 与……形成对比
+
+12
+题目:as cool as a cucumber
+答案:A. 泰然自若；极为冷静
+
+13
+题目:(just) around / round the corner
+答案:B. 在附近；即将来临
+
+14
+题目:count on / upon
+答案:C. 依靠；依赖；指望
+
+15
+题目:amount to
+答案:B. 达到 (某数量)
+
+16
+题目:one another
+答案:A. 互相
+
+17
+题目:apart / aside from
+答案:C. 除……外 (别无)
+
+18
+题目:be worlds apart
+答案:A. 完全不同
+
+19
+题目:owe sb an apology
+答案:C. 应该向某人道歉
+
+20
+题目:approve of
+答案:A. 赞同
+
+21
+题目:as for
+答案:A. 就……而言
+
+22
+题目:from bad to worse
+答案:B. 每况愈下
+
+23
+题目:badly off
+答案:A. 贫困的
+
+24
+题目:long before
+答案:C. 很久之前
+
+25
+题目:beyond belief
+答案:B. 难以置信
+
+26
+题目:根据所给汉语写出词块。
+
+碰巧；意外地
+
+###
+答案:by chance|by accident
+
+27
+题目:根据所给汉语写出词块。
+
+变坏（名词短语）
+
+###
+答案:a change for the worse
+
+28
+题目:根据所给汉语写出词块。
+
+我将负责这个活动。
+
+I’m going to ### the activity.
+答案:take charge of|be in charge of
+
+29
+题目:根据所给汉语写出词块。
+
+免费
+
+###
+答案:free of charge|for free
+
+30
+题目:根据所给汉语写出词块。
+
+结账离开；核实
+
+###
+答案:check out
+
+31
+题目:根据所给汉语写出词块。
+
+(使) 振作起来；(使) 高兴起来
+
+###
+答案:cheer up
+
+32
+题目:根据所给汉语写出词块。
+
+把房间打扫干净
+
+###
+答案:clean out the room|clean up the room
+
+33
+题目:根据所给汉语写出词块。
+
+上大学
+
+###
+答案:attend to college|go to college
+
+34
+题目:根据所给汉语写出词块。
+
+偶然遇到一个朋友
+
+###
+答案:come across a friend
+
+35
+题目:根据所给汉语写出词块。
+
+屈服；让步
+
+###
+答案:give in|give way
+
+36
+题目:根据所给汉语写出词块。
+
+让；放弃
+
+###
+答案:give up
+
+37
+题目:根据所给汉语写出词块。
+
+（经过计划或允许后）开始做；请吧；说吧
+
+###
+答案:go ahead
+
+38
+题目:根据所给汉语写出词块。
+
+仔细检查；温习
+
+###
+答案:go over
+
+39
+题目:根据所给汉语写出词块。
+
+穿过；经历
+
+###
+答案:go through
+
+40
+题目:根据所给汉语写出词块。
+
+出毛病；失败
+
+###
+答案:go wrong
+
+41
+题目:根据所给汉语写出词块。
+
+去理发
+
+###
+答案:get a haircut|get one's haircut|have a haircut|have one's haircut
+
+42
+题目:根据所给汉语写出词块。
+
+帮忙
+
+###
+答案:lend a hand
+
+43
+题目:根据所给汉语写出词块。
+
+手拉手；连在一起地
+
+###
+答案:hand in hand
+
+44
+题目:根据所给汉语写出词块。
+
+提交；交上
+
+###
+答案:hand in
+
+45
+题目:根据所给汉语写出词块。
+
+常去某处；与朋友经常在一起
+
+###
+答案:hang out with friends
+
+46
+题目:根据所给汉语写出词块。
+
+身心健康
+
+###
+答案:physical and mental health
+
+47
+题目:根据所给汉语写出词块。
+
+我身体好。
+I’m ###.
+答案:in good health|in good shape
+
+48
+题目:根据所给汉语写出词块。
+
+听说（……的情况）
+
+###
+答案:hear about
+
+49
+题目:根据所给汉语写出词块。
+
+接到他的来信 / 电话
+
+###
+答案:hear from him
+
+50
+题目:根据所给汉语写出词块。
+
+灰心
+
+###
+答案:lose heart
+

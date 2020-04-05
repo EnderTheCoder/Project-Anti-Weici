@@ -1,0 +1,200 @@
+1
+题目:design
+答案:A. 设计；绘制
+
+2
+题目:destroy
+答案:C. 摧毁；消灭
+
+3
+题目:determine
+答案:A. 确定；查明
+
+4
+题目:develop
+答案:B.（使）发展；形成
+
+5
+题目:development
+答案:A. 开发；成长
+
+6
+题目:devote
+答案:C. 致力于；献身于
+
+7
+题目:difference
+答案:C. 差别；差异
+
+8
+题目:difficulty
+答案:B. 困难；艰难
+
+9
+题目:direct
+答案:A. 直接的；直达的
+
+10
+题目:direction
+答案:B. 方向；方位
+
+11
+题目:disappear
+答案:C. 消失；不见
+
+12
+题目:disappointment
+答案:A. 失望；沮丧
+
+13
+题目:discouraged
+答案:B. 泄气的
+
+14
+题目:discover
+答案:C. 发现；找到
+
+15
+题目:discovery
+答案:A. 发现
+
+16
+题目:distant
+答案:B. 遥远的；远处的
+
+17
+题目:distribute
+答案:C. 分发；分配
+
+18
+题目:disturb
+答案:A. 打扰；扰乱
+
+19
+题目:donate
+答案:B. 捐赠；赠送
+
+20
+题目:doubtful
+答案:C. 怀疑的；不确定的
+
+21
+题目:due
+答案:A. 预定的
+
+22
+题目:due to
+答案:A. 由于；因为
+
+23
+题目:dull
+答案:B. 枯燥无味的；无聊的
+
+24
+题目:duty
+答案:C. 责任；义务
+
+25
+题目:eager
+答案:A. 渴望的；热切的
+
+26
+题目:eagerly
+答案:B. 热心地；急切地
+
+27
+题目:earn
+答案:C. 赚得；挣得
+
+28
+题目:ease
+答案:A. 减轻；缓解
+
+29
+题目:education
+答案:B. 教育；教育学
+
+30
+题目:empty
+答案:C. 空的；无人的
+
+31
+题目:encouragement
+答案:A. 鼓励；激励
+
+32
+题目:energy
+答案:B. 精力；力量
+
+33
+题目:entrance
+答案:C. 入口；门口
+
+34
+题目:escape
+答案:A. 逃走；逃跑
+
+35
+题目:even if
+答案:B. 尽管；即使
+
+36
+题目:even though
+答案:C. 尽管；即使
+
+37
+题目:event
+答案:C. 重大事件
+
+38
+题目:ever since
+答案:B. 自从；从……以来
+
+39
+题目:examine
+答案:A. 检查；调查
+
+40
+题目:except for
+答案:B. 除了……外
+
+41
+题目:exchange
+答案:C. 交换；交流
+
+42
+题目:excitement
+答案:A. 兴奋；激动
+
+43
+题目:excuse
+答案:B. 原谅；宽恕
+
+44
+题目:exist
+答案:C. 存在
+
+45
+题目:expand
+答案:A. 扩展；扩大
+
+46
+题目:expect
+答案:B. 等待；预料
+
+47
+题目:experience
+答案:C. 经验；实践
+
+48
+题目:experiment
+答案:A. 实验；试验
+
+49
+题目:explanation
+答案:B. 解释；说明
+
+50
+题目:express
+答案:C. 表达；表示
+

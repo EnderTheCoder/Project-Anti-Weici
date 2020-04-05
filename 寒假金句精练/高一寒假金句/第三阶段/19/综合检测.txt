@@ -1,0 +1,196 @@
+1
+题目:It was obvious that the manager of the coffee shop was waiting for Li Fang to leave.
+答案:A. 明显的
+
+2
+题目:obvi_
+答案:obvi,ous
+
+3
+题目: ### (很显然) the manager of the coffee shop was waiting for Li Fang to leave.
+答案:It is obvious that|It's obvious that|Obviously
+
+4
+题目:occur
+答案:occur
+
+5
+题目:occur to sb
+答案:C. 浮现于某人脑中
+
+6
+题目:It occurred to her ______ the police.
+答案:B. to phone
+
+7
+题目:
+答案:B. occur
+
+8
+题目:It  ### (occur) to him that he had an important conference to attend the next morning.
+答案:occurred
+
+9
+题目:他突然想到他把钥匙忘在办公室里了。
+答案:It suddenly occurred to him that he had left his keys in the office.
+
+10
+题目:operate
+答案:operate
+
+11
+题目:Subway trains ______ 24 hours a day in New York.
+答案:B. operate
+
+12
+题目:The medicine began to ______ at once.
+答案:B. operate
+
+13
+题目:Having seen the X-ray, the doctor decided to operate ______ the patient.
+答案:C. on
+
+14
+题目:This machine is very easy to operate.
+答案:A. 操作
+
+15
+题目:oper_
+答案:oper,ate
+
+16
+题目:The machine is easy ###  (operate).
+答案:to operate
+
+17
+题目:ordinary
+答案:ordinary
+
+18
+题目:I've got a(n) ______ sort of car, nothing special. 
+答案:B. ordinary
+
+19
+题目:organize
+答案:organize
+
+20
+题目:I knew nothing about organizing any big event.
+答案:A. 筹备
+
+21
+题目:When writing an article, we should read the topic carefully and organize our ideas.
+答案:B. 使有条理
+
+22
+题目:organ_
+答案:organ,ize
+
+23
+题目:I want to work with a well  ### (organize) team.
+答案:organized
+
+24
+题目:perform
+答案:perform
+
+25
+题目:You should perform your promise.
+答案:A. 履行
+
+26
+题目:The machine is performing very poorly.
+答案:B. 运转
+
+27
+题目:_form
+答案:per,form
+
+28
+题目:
+答案:B. perform
+
+29
+题目:I have never seen a Shakespeare's play ###  (perform) so wonderfully.
+答案:performed
+
+30
+题目:He often  ### (做实验) in the lab. (perform)
+答案:performs an experiment|performs experiments
+
+31
+题目:permit
+答案:permit
+
+32
+题目:Please permit me a few words.
+答案:C. 准许
+
+33
+题目:We don't permit ______ in the library.
+答案:A. talking
+
+34
+题目:The party will be held in the garden, weather ______.
+答案:B. permitting
+
+35
+题目:Passengers are permitted ______ only one piece of hand luggage onto the plane.
+答案:A. to carry
+
+36
+题目:
+答案:A. permit
+
+37
+题目:I was the first Western TV reporter ###  (permit) to film a special unit caring for pandas rescued from starvation in the wild.
+答案:permitted
+
+38
+题目:I will pick you up at the airport  ### (如果时间允许).
+答案:if time permits
+
+39
+题目:图书馆内任何地方都不允许打电话。
+答案:Mobile phone conversations are not permitted anywhere in the library.
+
+40
+题目:personal
+答案:personal
+
+41
+题目:a personal view
+答案:A. 个人的见解
+
+42
+题目:The novel was written from ###  (个人经历).
+答案:personal experience
+
+43
+题目:Although some people like to ______ their wealth, income is a very private matter for most Americans.
+答案:A. show off
+
+44
+题目:Each star on the flag of the United States stands for a state of the nation.
+答案:C. 代表
+
+45
+题目:1-03t7.aac
+答案:
+
+46
+题目:Types of Fire Extinguishers
+      Fire extinguishers are marked according to the kind of fire on which they should be used. Using the wrong type of extinguisher can be dangerous and make things worse.
+      Type A extinguishers are used for fires on paper, cloth, wood, rubber, many
+plastics and so on. These types of fires usually leave ashes when they burn, so use Type A extinguishers for fires that leave ashes.
+      Type B extinguishers are used for burning liquids, such as oil, gasoline, and paints. These substances often come in barrel-shaped (桶形的) containers, so use Type B extinguishers for such barrels.
+      Type C extinguishers are used for electrical fires. Electricity travels in a circuit (电路), so use Type C extinguishers for circuits.
+      Remember, A is for Ashes, B is for Barrels, and C is for Circuits. Make sure you have the correct type of fire extinguisher before you try to use it.
+Using a Fire Extinguisher
+      To help you remember how to use a fire extinguisher, learn PASS. PASS stands for Pull, Aim, Squeeze (挤压), and Sweep.
+      Pull the pin at the top of the extinguisher cylinder (圆筒).
+      Aim the nozzle (喷嘴) at the base of the fire.
+      Squeeze or press the handle.
+      Sweep the spray (喷雾) from side-to-side at the fire's base until it goes out.
+答案:
+

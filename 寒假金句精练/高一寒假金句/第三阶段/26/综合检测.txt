@@ -1,0 +1,184 @@
+1
+题目:succeed
+答案:succeed
+
+2
+题目:Everyone wants to succeed ______ work.
+答案:B. at
+
+3
+题目:He will succeed his father ### manager of the shop.（填入一个合适的介词）
+答案:as
+
+4
+题目:多亏她帮忙，我们才把车发动起来。
+答案:Owing to her assistance, we succeeded in starting the engine.
+
+5
+题目:suffer
+答案:suffer
+
+6
+题目:Does he suffer ________ any kind of mental disability?
+答案:A. from
+
+7
+题目:You will suffer one day for your carelessness.
+答案:B. 受苦
+
+8
+题目:The factory ###  (损失惨重) in the fire. (suffer)
+答案:suffered severe damage
+
+9
+题目:Does he ###   (遭受) any kind of mental disability ?
+答案:suffer from
+
+10
+题目:support
+答案:support
+
+11
+题目:
+答案:B. support
+
+12
+题目:He made some experiments ### (支持) his own idea.
+答案:in support of
+
+13
+题目:我必须工作来养家。
+答案:I have to work to support my family.
+
+14
+题目:suspect
+答案:suspect
+
+15
+题目:They suspect him ________ a theft.
+答案:C. of
+
+16
+题目:I suspected his motives in offering to help.
+答案:A. 怀疑
+
+17
+题目:The policeman suspected him ### killing the girl.（填入一个合适的介词）
+答案:of
+
+18
+题目:survive
+答案:survive
+
+19
+题目:Several buildings in the town survived ______ medieval times.
+答案:C. from
+
+20
+题目:
+答案:A. survive
+
+21
+题目:surv_
+答案:surv,ive
+
+22
+题目:track
+答案:track
+
+23
+题目:lose track of
+答案:A. 失去……的线索
+
+24
+题目:
+答案:B. track
+
+25
+题目:They read the newspapers every day to ###   (了解时事).
+答案:keep track of current events
+
+26
+题目:The police ###   (已失去……的线索) the criminals. (track)
+答案:have lost track of
+
+27
+题目:At present, lots of food and medicine are being ______ from all over China to the earthquake-stricken areas.
+答案:A. transported
+
+28
+题目:At present lots of food and medicine ###   (transport) from all over China to the earthquake-stricken areas.
+答案:are transported|are being transported
+
+29
+题目:Which kind of ###   (公共交通工具) do you prefer to use: bus or train?
+答案:public transport
+
+30
+题目:Having been ______ in traffic, he was late for work.
+答案:C. trapped
+
+31
+题目:
+答案:C. trap
+
+32
+题目:worth
+答案:worth
+
+33
+题目:Although we take an hour a day for exercise, it is well worth it.
+答案:B. 值得
+
+34
+题目:【谚语】
+An hour in the morning is _____ two in the evening.
+答案:A. worth
+
+35
+题目:Good opinions are worth _____ to because they can benefit us all.
+答案:A. sticking
+
+36
+题目:
+答案:A. worth
+
+37
+题目:虽然我们每天都要锻炼一小时，但一切都是值得的。
+答案:Although it takes us an hour a day to exercise, it is well worth it.
+
+38
+题目:welcome
+答案:welcome
+
+39
+题目:I'll welcome any suggestions.
+答案:A. 欣然接受
+
+40
+题目:Brown stood at the door,  ###  (welcome) newcomers with a large smile.
+答案:welcoming
+
+41
+题目:我们特别欢迎有关美国人是如何度假过节的文章。
+答案:We would especially welcome articles about how Americans spend their holidays and festivals.
+
+42
+题目:所有人都可以在10点到4点间过来。
+答案:Everyone is welcome to come along anytime between 10 and 4 o'clock.
+
+43
+题目:8-32t7.aac
+答案:
+
+44
+题目:      A team of researchers from Purdue University in the United States has found a way to use annoying packing peanuts (包装充填颗粒) to make rechargeable batteries.
+      When Professor Vilas Pol and his research assistants were setting up their new laboratory, they found the boxes the equipment came in were filled with hundreds of little pieces known as packing peanuts.
+      Packing peanuts are a popular and effective way to protect all sorts of items that are easily broken or damaged — from TVs to dishes — when they're being moved, stored or delivered.              
+      Unfortunately, most packing peanuts eventually end up being buried under the earth where they can take decades to break down. When they do break down, they polluted the soil and water with chemicals.
+      Professor Pol, a chemical engineer, asked his team to help find a better way to deal with old packing peanuts. The scientists discovered that when they heated the peanuts — between 500 and 900 degrees Celsius — they turned into a carbon-based material that could be flattened into very thin sheets.
+      These microsheets can be used to make anodes (正极), a key part of rechargeable lithium-ion batteries (锂电池).(The anode is where electrically charged molecules (分子) called lithium ions are stored when a battery is recharged.)
+      Anodes are usually made from a kind of carbon. However, anodes made from recycled packing peanuts are cheaper to make, less harmful to the environment, and work better than traditional carbon anodes.
+      Lithium-ion batteries are used in many electronic devices, including smartphones, laptops, cameras and even electric cars. Anodes made from packing peanuts could be ready for commercial use within two years.
+答案:
+

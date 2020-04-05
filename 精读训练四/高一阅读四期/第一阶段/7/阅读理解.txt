@@ -1,0 +1,38 @@
+1
+题目:Edge of TomorrowRelease Date (首映日): June 6, 2014Director: Doug LimanWriter: Christopher McQuarrie, Jez Butterworth, John-Henry ButterworthLeading Roles: Tom Cruise, Emily Blunt, Bill Paxton, Jeremy Piven, Charlotte Riley Plot: A soldier fighting in a war with aliens finds himself caught in a time loop (循环) of his last day in the battle, though he becomes better skilled along the way.Genre (电影类型): Action, Sci-Fi, ThrillerWebsite: www.facebook.com/edgeoftomorrowmovieMaleficentRelease Date: May 13, 2014Director: Robert StrombergWriter: Linda WoolvertonLeading Roles: Angelina Jolie, Sharlto Copley, Elle Fanning Plot:The “Sleeping Beauty” tale is told from the view of the villainous (恶毒的) Maleficent and looks at the events that hardened her heart and drove her to curse (诅咒) young Princess Aurora.Genre: Action, Adventure, DramaWebsite: www.disney.com/maleficentX-Men: Days of Future PastRelease Date: May 23, 2014Director: Bryan SingerWriter: Simon KinbergLeading Roles: Michael Fassbender, James McAvoy Plot: The X-Men send Wolverine to the past to change a major historical event that could globally affect man and mutant kind (变种). Genre: Action, AdventureWebsite: x-menmovies.com 22 Jump StreetRelease Date: June 13, 2014Director: Phil Lord, Chris MillerWriter: Michael Bacall, Rodney Rothman, Oren UzielLeading Roles: Jonah Hill, Channing Tatum, Ice Cube, Amber Stevens, Craig RobertsPlot:After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college.Genre: Action, ComedyWebsite: www.21jumpstreet-movie.com
+答案:
+
+2
+题目:event
+答案:event
+
+3
+题目:观点；看法
+答案:B. view
+
+4
+题目:考察句子中单词的意思。
+
+Big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college.
+答案:B. 即将发生
+
+5
+题目:选出能替换突显部分的单词或短语。
+
+The X-Men send Wolverine to the past to change a major historical event.
+答案:A. important
+
+6
+题目:hard_
+答案:hard,en
+
+7
+题目:一路上他的技术变得更娴熟。
+答案:He becomes better skilled along the way.
+
+8
+题目:在空白处填入括号内单词的正确形式。
+
+A soldier ### (fight) in a war with aliens finds himself ### (catch) in a time loop of his last day in the battle.
+答案:fighting###caught
+

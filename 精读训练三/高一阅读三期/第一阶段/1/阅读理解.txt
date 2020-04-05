@@ -1,0 +1,48 @@
+1
+题目:        In the US, tornadoes (龙卷风) are responsible for many deaths and injuries each year. Although they occur quite frequently, tornadoes are difficult to predict. Why? Tornadoes develop from storms, but only some storms are likely to become tornadoes. Scientists don’t know where and when a storm will touch the ground and turn into a tornado. Today, the warning time for a tornado is usually just 13 minutes.        Tim Samaras is a storm chaser (追逐者). His job is to find tornadoes and follow them. When he gets close to a tornado, he puts a special tool called a turtle probe on the ground. This tool measures things like a tornado’s temperature, humidity (湿度), and wind speed. With this information, Samaras can learn what causes tornadoes to develop. If meteorologists (气象学家) understand this, they can warn people about tornadoes sooner and save lives.        How does Samaras hunt tornadoes? It’s not easy. First, he has to find one. Tornadoes are too small to see using weather satellites. So Samaras can’t rely on these tools to find a tornado. Instead he waits for tornadoes to develop.Every May and June, Samaras drives about 40,000 kilometers across an area known as Tornado Alley, looking and hoping to spot a tornado.        Once Samaras sees a tornado, the chase begins. But a tornado is hard to follow. Some tornadoes change direction several times — for example, moving east and then west and then east again. When Samaras finally gets near a tornado, he puts the turtle probe on the ground. Being this close to a tornado is terrifying. Debris (碎片) is flying in the air. Then wind is blowing at high speed. He must get away quickly.        The work is risky, even for a skilled chaser like Samaras. But danger won’t stop his hunt for the perfect storm.
+答案:
+
+2
+题目:injury
+答案:injury
+
+3
+题目:搜索；搜寻
+答案:B. hunt
+
+4
+题目:考查句子中单词的意思。
+
+In the US, tornadoes are responsible for many deaths and injuries each year.
+答案:B. 引起；是……的原因
+
+5
+题目:选出能替换突显部分的单词或短语。
+
+Although they occur quite frequently, tornadoes are difficult to predict.
+答案:B. happen
+
+6
+题目:选出能替换突显部分的单词或短语。
+
+With this information, Samaras can learn what causes tornadoes to develop.
+答案:B. discover
+
+7
+题目:选出能替换突显部分的单词或短语。
+
+Every May and June, Samaras drives about 40,000 kilometers across an area known as Tornado Alley, looking and hoping to spot a tornado.
+答案:A. notice
+
+8
+题目:在空白处填入括号内单词的正确形式。
+
+Being this close to a tornado is ### (terrify).
+答案:terrifying
+
+9
+题目:根据所给汉语，完成下列句子。
+
+Tornadoes are too small to see using weather satellites. So Samaras can’t ### (依靠这些工具) to find a tornado. 
+答案:rely on these tools
+

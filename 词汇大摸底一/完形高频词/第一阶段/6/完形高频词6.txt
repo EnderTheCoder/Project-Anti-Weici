@@ -1,0 +1,200 @@
+1
+题目:in addition
+答案:A. 另外；加之
+
+2
+题目:in addition to
+答案:C. 除……之外（还）
+
+3
+题目:in case
+答案:A. 假使；以防
+
+4
+题目:in fact
+答案:C. 其实；实际上
+
+5
+题目:in other words
+答案:B. 也就是说；换句话说
+
+6
+题目:in return
+答案:A. 作为交换；作为回报
+
+7
+题目:in short
+答案:B. 总之；简言之
+
+8
+题目:in spite of
+答案:B. 不管；尽管
+
+9
+题目:in the end
+答案:B. 最后；终于
+
+10
+题目:in time
+答案:B. 及时；迟早
+
+11
+题目:in turn
+答案:C. 依次；反过来
+
+12
+题目:indeed
+答案:B. 真正地；当然；确实
+
+13
+题目:independent
+答案:C. 独立的；自立的
+
+14
+题目:influence
+答案:B. 影响；作用
+
+15
+题目:inform
+答案:B. 通知；告诉
+
+16
+题目:information
+答案:C. 信息；消息；通知
+
+17
+题目:innocent
+答案:C. 无罪的；无辜的
+
+18
+题目:insist
+答案:B. 坚持；坚决要求
+
+19
+题目:inspire
+答案:C. 激励；鼓舞
+
+20
+题目:instead of
+答案:B. 代替；而不是
+
+21
+题目:intend
+答案:B. 打算；想要
+
+22
+题目:intention
+答案:C. 意图；目的
+
+23
+题目:interrupt
+答案:B. 打断；打扰
+
+24
+题目:interview
+答案:B. 采访；面试；会见
+
+25
+题目:introduce
+答案:C. 引进；传入
+
+26
+题目:introduction
+答案:C. 引进；采用；介绍
+
+27
+题目:invitation
+答案:C. 邀请；请柬
+
+28
+题目:journey
+答案:C. 旅行；旅程
+
+29
+题目:judgement
+答案:B. 判断力；辨别力
+
+30
+题目:kindness
+答案:B. 仁慈；和蔼
+
+31
+题目:leave for
+答案:B. 动身去
+
+32
+题目:level
+答案:B. 水平；水准；级别
+
+33
+题目:limit
+答案:A. 界限；边界
+
+34
+题目:lonely
+答案:B. 孤独的；寂寞的
+
+35
+题目:look after
+答案:B. 照顾
+
+36
+题目:look into
+答案:B. 调查
+
+37
+题目:look up
+答案:B. 抬头看；查阅
+
+38
+题目:loss
+答案:C. 遗失；失去
+
+39
+题目:make up
+答案:B. 组成；构成
+
+40
+题目:manage
+答案:C. 管理；经营
+
+41
+题目:manager
+答案:C. 经理；管理人
+
+42
+题目:manner
+答案:C. 方式；方法
+
+43
+题目:mark
+答案:C. 符号；记号；痕迹
+
+44
+题目:matter
+答案:B. 事情；问题
+
+45
+题目:meaning
+答案:B. 意思；含义
+
+46
+题目:meaningful
+答案:C. 有意义的
+
+47
+题目:measure
+答案:B. 估量；测量
+
+48
+题目:memory
+答案:B. 记忆；回忆
+
+49
+题目:mention
+答案:B. 提及；说道
+
+50
+题目:merely
+答案:C. 仅仅；只不过
+
